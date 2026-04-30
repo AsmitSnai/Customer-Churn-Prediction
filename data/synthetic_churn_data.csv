@@ -1,0 +1,5001 @@
+CustomerID,Tenure_Months,Monthly_Charges,Total_Tickets,Contract_Type,Tech_Support,Churn
+1,52,119.41,7,Month-to-month,No,1
+2,15,119.41,6,Month-to-month,Yes,1
+3,61,119.41,6,One year,No,1
+4,21,119.41,5,Two year,Yes,0
+5,24,119.41,4,Month-to-month,No,0
+6,3,119.41,9,One year,No,1
+7,22,119.41,7,Month-to-month,No,1
+8,53,119.41,4,One year,Yes,0
+9,2,119.41,8,Month-to-month,Yes,1
+10,30,119.41,8,Two year,No,1
+11,38,119.41,0,Month-to-month,No,0
+12,2,119.41,5,One year,Yes,0
+13,64,119.41,6,Month-to-month,No,1
+14,60,119.41,2,Month-to-month,Yes,0
+15,21,119.41,6,Month-to-month,No,1
+16,33,119.41,6,Month-to-month,Yes,1
+17,58,119.41,1,Month-to-month,No,0
+18,22,119.41,6,Month-to-month,No,1
+19,49,119.41,0,One year,Yes,0
+20,59,119.41,4,One year,No,0
+21,42,119.41,8,Month-to-month,No,1
+22,60,119.41,6,One year,No,1
+23,15,119.41,6,Month-to-month,Yes,1
+24,62,119.41,1,One year,No,0
+25,62,119.41,7,Month-to-month,Yes,1
+26,47,119.41,2,One year,No,0
+27,62,119.41,7,Month-to-month,No,1
+28,51,119.41,2,Two year,No,0
+29,55,119.41,9,Month-to-month,No,1
+30,64,119.41,6,Month-to-month,No,1
+31,3,119.41,1,Month-to-month,No,1
+32,51,119.41,3,Two year,Yes,0
+33,7,119.41,5,One year,Yes,0
+34,21,119.41,8,One year,No,1
+35,39,119.41,4,Two year,No,0
+36,18,119.41,8,Two year,Yes,0
+37,4,119.41,4,One year,No,0
+38,60,119.41,9,Month-to-month,No,1
+39,14,119.41,7,Two year,No,1
+40,9,119.41,0,Month-to-month,Yes,1
+41,53,119.41,6,One year,No,1
+42,2,119.41,3,One year,Yes,0
+43,60,119.41,4,One year,Yes,0
+44,71,119.41,5,One year,No,0
+45,44,119.41,4,One year,No,0
+46,8,119.41,0,Two year,No,0
+47,47,119.41,8,Month-to-month,Yes,1
+48,35,119.41,1,Month-to-month,No,0
+49,36,119.41,8,One year,Yes,0
+50,50,119.41,9,Two year,No,0
+51,4,119.41,1,Month-to-month,No,1
+52,2,119.41,8,Month-to-month,No,1
+53,6,119.41,5,Month-to-month,No,1
+54,54,119.41,8,Month-to-month,No,1
+55,4,119.41,5,Two year,No,0
+56,54,119.41,5,One year,No,0
+57,63,119.41,1,One year,Yes,0
+58,18,119.41,7,One year,No,0
+59,44,119.41,2,One year,No,0
+60,34,119.41,6,Month-to-month,Yes,1
+61,62,119.41,4,Month-to-month,No,0
+62,14,119.41,2,Month-to-month,Yes,0
+63,48,119.41,0,Month-to-month,No,0
+64,15,119.41,7,Month-to-month,No,1
+65,62,119.41,2,Month-to-month,No,0
+66,40,119.41,1,Month-to-month,Yes,0
+67,53,119.41,0,Month-to-month,Yes,0
+68,24,119.41,3,One year,Yes,0
+69,26,119.41,7,Month-to-month,Yes,1
+70,60,119.41,2,Two year,No,0
+71,41,119.41,0,Month-to-month,No,0
+72,29,119.41,3,One year,No,0
+73,15,119.41,8,Two year,No,1
+74,45,119.41,0,Two year,No,0
+75,65,119.41,1,Two year,No,0
+76,71,119.41,8,Month-to-month,Yes,1
+77,9,119.41,1,Month-to-month,No,1
+78,1,119.41,2,Month-to-month,No,1
+79,8,119.41,6,Month-to-month,No,1
+80,63,119.41,2,Month-to-month,No,0
+81,11,119.41,8,Two year,No,1
+82,8,119.41,5,One year,Yes,0
+83,35,119.41,2,One year,No,0
+84,35,119.41,8,Two year,Yes,1
+85,33,119.41,0,One year,No,0
+86,5,119.41,9,One year,No,1
+87,41,119.41,2,One year,No,0
+88,28,119.41,0,Month-to-month,No,0
+89,7,119.41,1,Month-to-month,No,1
+90,12,119.41,7,Two year,No,1
+91,34,119.41,6,Two year,Yes,0
+92,33,119.41,1,Two year,No,0
+93,48,119.41,1,Month-to-month,Yes,0
+94,23,119.41,8,Two year,Yes,0
+95,62,119.41,5,Month-to-month,Yes,0
+96,37,119.41,4,Month-to-month,No,0
+97,44,119.41,9,Month-to-month,Yes,1
+98,35,119.41,5,Month-to-month,No,0
+99,65,119.41,8,Month-to-month,No,1
+100,47,119.41,6,Month-to-month,No,1
+101,3,119.41,9,Month-to-month,Yes,1
+102,1,119.41,9,Month-to-month,No,1
+103,5,119.41,8,One year,No,1
+104,14,119.41,3,One year,No,0
+105,27,119.41,1,Month-to-month,No,0
+106,9,119.41,7,Month-to-month,No,1
+107,15,119.41,3,One year,Yes,0
+108,42,119.41,8,One year,No,1
+109,51,119.41,3,Month-to-month,Yes,0
+110,63,119.41,7,One year,No,0
+111,52,119.41,8,Two year,No,0
+112,4,119.41,8,Month-to-month,No,1
+113,23,119.41,9,Month-to-month,Yes,1
+114,15,119.41,3,Month-to-month,No,0
+115,43,119.41,0,One year,No,0
+116,29,119.41,2,Month-to-month,Yes,0
+117,36,119.41,8,Month-to-month,No,1
+118,13,119.41,3,Month-to-month,No,0
+119,32,119.41,4,Two year,No,0
+120,71,119.41,6,One year,Yes,0
+121,59,119.41,4,One year,Yes,0
+122,28,119.41,3,Two year,Yes,0
+123,66,119.41,1,Month-to-month,Yes,0
+124,42,119.41,1,Two year,No,0
+125,45,119.41,3,One year,No,0
+126,62,119.41,9,Month-to-month,No,1
+127,57,119.41,9,Two year,No,1
+128,6,119.41,8,Two year,Yes,1
+129,28,119.41,7,Two year,No,0
+130,28,119.41,2,Month-to-month,No,0
+131,44,119.41,8,Two year,No,0
+132,30,119.41,4,Two year,Yes,0
+133,62,119.41,2,Month-to-month,No,0
+134,62,119.41,4,Month-to-month,No,0
+135,1,119.41,9,Month-to-month,No,1
+136,27,119.41,3,Two year,Yes,0
+137,62,119.41,7,One year,Yes,1
+138,3,119.41,4,Month-to-month,No,1
+139,70,119.41,9,Month-to-month,No,1
+140,27,119.41,7,Month-to-month,Yes,1
+141,9,119.41,8,One year,No,1
+142,62,119.41,3,Month-to-month,No,0
+143,37,119.41,6,Two year,No,1
+144,51,119.41,1,One year,No,0
+145,44,119.41,5,One year,No,0
+146,24,119.41,7,Month-to-month,No,1
+147,59,119.41,6,Month-to-month,No,1
+148,32,119.41,6,Month-to-month,Yes,1
+149,52,119.41,7,Month-to-month,Yes,1
+150,62,119.41,6,Month-to-month,No,1
+151,58,119.41,4,Two year,No,0
+152,52,119.41,6,Month-to-month,No,1
+153,12,119.41,9,Month-to-month,No,1
+154,39,119.41,2,Month-to-month,Yes,0
+155,2,119.41,4,Month-to-month,No,1
+156,3,119.41,6,Two year,No,1
+157,56,119.41,8,Month-to-month,No,1
+158,59,119.41,1,Month-to-month,Yes,0
+159,2,119.41,3,One year,No,0
+160,2,119.41,6,Month-to-month,No,1
+161,54,119.41,0,Month-to-month,No,0
+162,1,119.41,1,Month-to-month,No,1
+163,19,119.41,8,Month-to-month,No,1
+164,2,119.41,9,Month-to-month,No,1
+165,53,119.41,6,Month-to-month,No,1
+166,44,119.41,9,Two year,No,0
+167,32,119.41,6,Month-to-month,No,1
+168,70,119.41,5,One year,No,0
+169,32,119.41,2,One year,Yes,0
+170,68,119.41,9,One year,Yes,0
+171,55,119.41,2,Month-to-month,No,0
+172,56,119.41,1,Month-to-month,No,0
+173,17,119.41,5,One year,No,0
+174,38,119.41,3,One year,Yes,0
+175,24,119.41,4,One year,Yes,0
+176,69,119.41,2,Month-to-month,Yes,0
+177,70,119.41,5,Two year,No,0
+178,11,119.41,2,Month-to-month,No,1
+179,16,119.41,7,Month-to-month,No,1
+180,59,119.41,8,Month-to-month,Yes,1
+181,70,119.41,3,Month-to-month,No,0
+182,3,119.41,8,Month-to-month,No,1
+183,20,119.41,6,One year,Yes,1
+184,59,119.41,2,Two year,No,0
+185,36,119.41,6,Two year,Yes,0
+186,19,119.41,0,Month-to-month,No,0
+187,67,119.41,2,One year,No,0
+188,19,119.41,5,Month-to-month,No,0
+189,20,119.41,3,Month-to-month,Yes,0
+190,71,119.41,6,Month-to-month,No,1
+191,52,119.41,2,Month-to-month,No,0
+192,33,119.41,0,Month-to-month,Yes,0
+193,40,119.41,8,Month-to-month,No,1
+194,39,119.41,5,One year,No,0
+195,1,119.41,7,Two year,No,1
+196,11,119.41,2,Month-to-month,No,1
+197,57,119.41,7,Two year,No,1
+198,50,119.41,1,One year,No,0
+199,23,119.41,3,One year,No,0
+200,31,119.41,2,One year,Yes,0
+201,42,119.41,9,Month-to-month,Yes,1
+202,7,119.41,0,Two year,Yes,0
+203,16,119.41,6,One year,No,0
+204,60,119.41,9,Two year,No,0
+205,2,119.41,1,One year,No,0
+206,1,119.41,3,Two year,No,0
+207,48,119.41,8,One year,No,1
+208,12,119.41,5,Month-to-month,No,0
+209,69,119.41,7,Month-to-month,Yes,1
+210,37,119.41,1,Month-to-month,No,0
+211,32,119.41,6,Month-to-month,No,1
+212,9,119.41,5,Month-to-month,No,1
+213,19,119.41,8,Two year,Yes,0
+214,48,119.41,6,One year,No,0
+215,3,119.41,0,Two year,No,0
+216,20,119.41,7,Two year,No,0
+217,24,119.41,9,One year,No,1
+218,54,119.41,2,Two year,No,0
+219,33,119.41,1,One year,Yes,0
+220,24,119.41,2,Two year,Yes,0
+221,36,119.41,5,Month-to-month,No,0
+222,38,119.41,2,Month-to-month,Yes,0
+223,25,119.41,9,Month-to-month,No,1
+224,18,119.41,4,One year,No,0
+225,66,119.41,5,One year,No,0
+226,54,119.41,7,Month-to-month,Yes,1
+227,35,119.41,6,Month-to-month,No,1
+228,61,119.41,7,Two year,No,0
+229,41,119.41,2,One year,No,0
+230,33,119.41,3,Month-to-month,No,0
+231,68,119.41,5,One year,No,0
+232,33,119.41,6,One year,Yes,0
+233,14,119.41,8,Two year,No,1
+234,21,119.41,0,Month-to-month,Yes,0
+235,48,119.41,7,Month-to-month,No,1
+236,20,119.41,7,Month-to-month,No,1
+237,8,119.41,5,Month-to-month,No,1
+238,7,119.41,3,Two year,No,0
+239,67,119.41,2,Month-to-month,No,0
+240,17,119.41,2,Two year,No,0
+241,33,119.41,5,Month-to-month,No,0
+242,48,119.41,7,Two year,Yes,1
+243,59,119.41,6,Month-to-month,Yes,1
+244,22,119.41,0,Two year,Yes,0
+245,30,119.41,5,Two year,Yes,0
+246,38,119.41,6,Two year,No,1
+247,51,119.41,6,Month-to-month,No,1
+248,54,119.41,8,Month-to-month,Yes,1
+249,8,119.41,9,One year,Yes,1
+250,27,119.41,4,Month-to-month,No,0
+251,27,119.41,0,Month-to-month,No,0
+252,21,119.41,1,Month-to-month,No,0
+253,30,119.41,3,One year,No,0
+254,28,119.41,4,One year,No,0
+255,64,119.41,8,Month-to-month,No,1
+256,69,119.41,0,Month-to-month,No,0
+257,61,119.41,2,Month-to-month,Yes,0
+258,48,119.41,4,One year,No,0
+259,19,119.41,2,Month-to-month,Yes,0
+260,4,119.41,3,Month-to-month,No,1
+261,35,119.41,2,Two year,No,0
+262,64,119.41,3,Two year,No,0
+263,49,119.41,0,Two year,Yes,0
+264,17,119.41,7,Two year,No,0
+265,44,119.41,3,Month-to-month,No,0
+266,30,119.41,6,One year,Yes,1
+267,46,119.41,1,Month-to-month,No,0
+268,6,119.41,1,One year,Yes,0
+269,37,119.41,5,Month-to-month,No,0
+270,24,119.41,1,One year,No,0
+271,46,119.41,5,One year,No,0
+272,53,119.41,1,Month-to-month,No,0
+273,60,119.41,3,One year,No,0
+274,63,119.41,6,Month-to-month,No,1
+275,32,119.41,7,Month-to-month,No,1
+276,33,119.41,2,Month-to-month,No,0
+277,67,119.41,8,Month-to-month,No,1
+278,18,119.41,1,Month-to-month,No,0
+279,25,119.41,7,Two year,No,1
+280,54,119.41,7,Month-to-month,No,1
+281,58,119.41,3,Month-to-month,No,0
+282,67,119.41,0,Month-to-month,Yes,0
+283,46,119.41,0,One year,No,0
+284,24,119.41,1,One year,No,0
+285,32,119.41,8,One year,No,1
+286,47,119.41,1,One year,No,0
+287,23,119.41,1,Two year,Yes,0
+288,66,119.41,5,Two year,No,0
+289,27,119.41,6,One year,No,1
+290,2,119.41,6,Month-to-month,No,1
+291,17,119.41,8,One year,No,1
+292,33,119.41,5,One year,Yes,0
+293,9,119.41,7,One year,No,1
+294,43,119.41,5,Two year,No,0
+295,48,119.41,1,One year,No,0
+296,39,119.41,0,Two year,Yes,0
+297,42,119.41,4,Month-to-month,No,0
+298,26,119.41,8,Month-to-month,Yes,1
+299,50,119.41,7,Month-to-month,No,1
+300,25,119.41,3,Two year,No,0
+301,24,119.41,4,Two year,Yes,0
+302,13,119.41,4,One year,Yes,0
+303,60,119.41,5,One year,No,0
+304,7,119.41,2,One year,No,0
+305,57,119.41,4,Two year,Yes,0
+306,36,119.41,1,Two year,No,0
+307,45,119.41,9,One year,No,0
+308,20,119.41,0,One year,Yes,0
+309,65,119.41,0,Month-to-month,No,0
+310,8,119.41,9,One year,No,1
+311,16,119.41,6,Month-to-month,Yes,1
+312,14,119.41,1,Month-to-month,No,0
+313,15,119.41,3,Two year,No,0
+314,66,119.41,4,One year,Yes,0
+315,32,119.41,6,Two year,Yes,1
+316,63,119.41,1,Month-to-month,Yes,0
+317,51,119.41,5,Month-to-month,No,0
+318,25,119.41,0,Month-to-month,Yes,0
+319,58,119.41,6,Month-to-month,No,1
+320,63,119.41,8,Month-to-month,Yes,1
+321,62,119.41,4,Month-to-month,No,0
+322,22,119.41,4,Month-to-month,No,0
+323,58,119.41,3,Month-to-month,No,0
+324,58,119.41,2,Month-to-month,No,0
+325,49,119.41,8,One year,No,0
+326,52,119.41,4,Month-to-month,No,0
+327,42,119.41,7,One year,No,1
+328,70,119.41,8,One year,No,0
+329,15,119.41,4,Month-to-month,No,0
+330,54,119.41,9,Two year,Yes,0
+331,60,119.41,8,One year,No,0
+332,8,119.41,1,One year,No,0
+333,53,119.41,8,Month-to-month,No,1
+334,60,119.41,3,One year,No,0
+335,5,119.41,5,Two year,No,0
+336,68,119.41,5,Month-to-month,Yes,0
+337,6,119.41,5,Month-to-month,No,1
+338,47,119.41,1,Month-to-month,Yes,0
+339,55,119.41,6,One year,Yes,0
+340,40,119.41,5,Month-to-month,No,0
+341,52,119.41,0,One year,No,0
+342,16,119.41,1,Month-to-month,No,0
+343,13,119.41,6,Two year,No,0
+344,30,119.41,0,Month-to-month,Yes,0
+345,19,119.41,0,Month-to-month,No,0
+346,17,119.41,0,One year,Yes,0
+347,63,119.41,7,Month-to-month,No,1
+348,19,119.41,3,Month-to-month,No,0
+349,58,119.41,3,Month-to-month,Yes,0
+350,55,119.41,1,One year,No,0
+351,62,119.41,0,Two year,No,0
+352,23,119.41,9,Two year,No,1
+353,9,119.41,8,Month-to-month,No,1
+354,12,119.41,6,Month-to-month,Yes,1
+355,1,119.41,3,One year,Yes,0
+356,58,119.41,5,One year,Yes,0
+357,1,119.41,1,Month-to-month,No,1
+358,34,119.41,6,Month-to-month,Yes,1
+359,48,119.41,1,Month-to-month,No,0
+360,1,119.41,9,One year,Yes,1
+361,16,119.41,7,Month-to-month,No,1
+362,61,119.41,7,Two year,Yes,0
+363,64,119.41,0,Month-to-month,Yes,0
+364,63,119.41,7,Month-to-month,Yes,1
+365,69,119.41,1,Month-to-month,No,0
+366,22,119.41,5,Month-to-month,No,0
+367,67,119.41,0,Month-to-month,No,0
+368,26,119.41,4,Month-to-month,No,0
+369,16,119.41,6,Month-to-month,No,1
+370,51,119.41,9,Month-to-month,No,1
+371,57,119.41,0,Month-to-month,Yes,0
+372,29,119.41,1,Two year,No,0
+373,69,119.41,6,One year,No,0
+374,47,119.41,5,One year,No,0
+375,62,119.41,2,Month-to-month,Yes,0
+376,69,119.41,9,Month-to-month,No,1
+377,16,119.41,1,Month-to-month,Yes,0
+378,48,119.41,9,One year,Yes,0
+379,39,119.41,3,Month-to-month,No,0
+380,33,119.41,2,Month-to-month,No,0
+381,23,119.41,6,One year,No,0
+382,10,119.41,7,Month-to-month,No,1
+383,69,119.41,1,Month-to-month,Yes,0
+384,34,119.41,9,Month-to-month,Yes,1
+385,52,119.41,6,One year,No,0
+386,10,119.41,7,One year,No,1
+387,19,119.41,5,Month-to-month,No,0
+388,58,119.41,5,Month-to-month,No,0
+389,1,119.41,9,One year,No,1
+390,69,119.41,0,Month-to-month,No,0
+391,4,119.41,3,One year,Yes,0
+392,16,119.41,0,One year,No,0
+393,24,119.41,3,Month-to-month,No,0
+394,2,119.41,1,Month-to-month,No,1
+395,32,119.41,4,One year,No,0
+396,24,119.41,9,Month-to-month,No,1
+397,12,119.41,8,Month-to-month,No,1
+398,50,119.41,9,One year,Yes,0
+399,35,119.41,2,Month-to-month,Yes,0
+400,33,119.41,7,Month-to-month,No,1
+401,33,119.41,2,Month-to-month,No,0
+402,61,119.41,5,One year,No,0
+403,51,119.41,3,Month-to-month,No,0
+404,43,119.41,7,Two year,No,0
+405,12,119.41,5,One year,Yes,0
+406,67,119.41,7,Month-to-month,Yes,1
+407,65,119.41,0,Month-to-month,No,0
+408,33,119.41,5,Month-to-month,Yes,0
+409,40,119.41,0,One year,Yes,0
+410,43,119.41,0,Two year,No,0
+411,44,119.41,7,One year,Yes,1
+412,29,119.41,6,Month-to-month,No,1
+413,13,119.41,2,One year,No,0
+414,12,119.41,5,Month-to-month,No,0
+415,46,119.41,8,One year,No,0
+416,2,119.41,6,One year,No,1
+417,35,119.41,2,Month-to-month,Yes,0
+418,8,119.41,5,Month-to-month,Yes,1
+419,26,119.41,3,One year,No,0
+420,34,119.41,2,One year,Yes,0
+421,7,119.41,8,Month-to-month,Yes,1
+422,68,119.41,9,Month-to-month,No,1
+423,58,119.41,1,One year,No,0
+424,29,119.41,0,Month-to-month,No,0
+425,36,119.41,1,Month-to-month,Yes,0
+426,21,119.41,6,Month-to-month,No,1
+427,36,119.41,9,Month-to-month,No,1
+428,10,119.41,0,One year,Yes,0
+429,24,119.41,5,Two year,Yes,0
+430,64,119.41,6,One year,No,0
+431,49,119.41,8,Month-to-month,No,1
+432,36,119.41,7,One year,No,1
+433,24,119.41,5,Month-to-month,Yes,0
+434,23,119.41,2,Month-to-month,No,0
+435,62,119.41,7,Two year,No,1
+436,37,119.41,6,Month-to-month,Yes,1
+437,12,119.41,2,Two year,Yes,0
+438,55,119.41,8,Month-to-month,Yes,1
+439,13,119.41,1,One year,No,0
+440,23,119.41,2,Month-to-month,No,0
+441,30,119.41,1,Month-to-month,No,0
+442,17,119.41,0,Month-to-month,No,0
+443,62,119.41,3,Two year,No,0
+444,13,119.41,4,One year,No,0
+445,59,119.41,5,Two year,Yes,0
+446,19,119.41,4,One year,No,0
+447,49,119.41,0,Two year,No,0
+448,12,119.41,2,Month-to-month,Yes,0
+449,61,119.41,0,Month-to-month,No,0
+450,19,119.41,4,One year,Yes,0
+451,9,119.41,4,One year,No,0
+452,71,119.41,5,One year,No,0
+453,28,119.41,7,Month-to-month,No,1
+454,52,119.41,9,Month-to-month,No,1
+455,16,119.41,0,Two year,No,0
+456,69,119.41,3,One year,Yes,0
+457,12,119.41,9,Month-to-month,Yes,1
+458,25,119.41,0,One year,No,0
+459,52,119.41,8,Two year,Yes,1
+460,53,119.41,6,Month-to-month,Yes,1
+461,23,119.41,6,Two year,No,0
+462,16,119.41,4,Two year,Yes,0
+463,57,119.41,6,Two year,No,1
+464,39,119.41,1,Two year,No,0
+465,53,119.41,3,One year,No,0
+466,42,119.41,6,Month-to-month,No,1
+467,58,119.41,2,Month-to-month,Yes,0
+468,39,119.41,1,Month-to-month,No,0
+469,14,119.41,9,Month-to-month,Yes,1
+470,5,119.41,1,Month-to-month,Yes,1
+471,35,119.41,0,Month-to-month,No,0
+472,18,119.41,4,Month-to-month,Yes,0
+473,9,119.41,5,Month-to-month,No,1
+474,58,119.41,5,Two year,No,0
+475,17,119.41,8,Month-to-month,No,1
+476,7,119.41,3,One year,No,0
+477,46,119.41,0,One year,Yes,0
+478,13,119.41,5,Month-to-month,No,0
+479,40,119.41,4,Two year,Yes,0
+480,42,119.41,9,One year,No,1
+481,9,119.41,5,Month-to-month,Yes,1
+482,50,119.41,2,Month-to-month,Yes,0
+483,27,119.41,1,Month-to-month,No,0
+484,66,119.41,5,Month-to-month,No,0
+485,5,119.41,0,Month-to-month,No,1
+486,29,119.41,6,One year,No,0
+487,37,119.41,6,Two year,No,1
+488,38,119.41,9,One year,No,0
+489,8,119.41,6,Month-to-month,No,1
+490,65,119.41,9,Month-to-month,Yes,1
+491,17,119.41,0,Month-to-month,No,0
+492,71,119.41,3,Month-to-month,No,0
+493,45,119.41,6,Month-to-month,Yes,1
+494,4,119.41,8,Two year,Yes,1
+495,36,119.41,4,Month-to-month,Yes,0
+496,70,119.41,1,Two year,No,0
+497,31,119.41,6,Month-to-month,No,1
+498,19,119.41,9,Two year,No,0
+499,61,119.41,0,One year,No,0
+500,54,119.41,6,One year,No,0
+501,39,119.41,5,Month-to-month,Yes,0
+502,19,119.41,6,Two year,Yes,1
+503,39,119.41,9,Two year,No,1
+504,67,119.41,2,One year,No,0
+505,45,119.41,2,One year,No,0
+506,13,119.41,6,One year,No,0
+507,58,119.41,1,Month-to-month,No,0
+508,20,119.41,0,One year,No,0
+509,61,119.41,8,Two year,Yes,0
+510,39,119.41,8,Month-to-month,No,1
+511,1,119.41,6,Month-to-month,Yes,1
+512,3,119.41,6,Month-to-month,No,1
+513,62,119.41,2,One year,Yes,0
+514,63,119.41,9,Month-to-month,No,1
+515,25,119.41,1,Month-to-month,No,0
+516,56,119.41,6,Month-to-month,No,1
+517,33,119.41,8,One year,No,1
+518,38,119.41,0,Month-to-month,No,0
+519,6,119.41,3,One year,Yes,0
+520,58,119.41,5,Month-to-month,No,0
+521,44,119.41,6,One year,No,1
+522,45,119.41,9,Two year,Yes,0
+523,32,119.41,6,Month-to-month,No,1
+524,45,119.41,9,Month-to-month,No,1
+525,61,119.41,1,Two year,No,0
+526,47,119.41,3,Month-to-month,No,0
+527,21,119.41,4,Month-to-month,Yes,0
+528,36,119.41,0,Two year,No,0
+529,19,119.41,0,Two year,No,0
+530,20,119.41,9,One year,Yes,0
+531,57,119.41,2,Month-to-month,No,0
+532,18,119.41,9,Month-to-month,No,1
+533,47,119.41,2,Month-to-month,Yes,0
+534,49,119.41,7,One year,Yes,1
+535,14,119.41,8,One year,No,0
+536,15,119.41,0,Two year,Yes,0
+537,31,119.41,1,Month-to-month,No,0
+538,1,119.41,9,One year,No,1
+539,54,119.41,1,Month-to-month,No,0
+540,3,119.41,3,Month-to-month,No,1
+541,16,119.41,1,One year,No,0
+542,57,119.41,6,Month-to-month,No,1
+543,12,119.41,8,One year,No,1
+544,16,119.41,6,One year,No,1
+545,24,119.41,5,Two year,No,0
+546,28,119.41,9,One year,No,0
+547,8,119.41,0,Two year,Yes,0
+548,36,119.41,9,One year,No,0
+549,8,119.41,8,Month-to-month,No,1
+550,58,119.41,4,Month-to-month,No,0
+551,60,119.41,4,One year,Yes,0
+552,50,119.41,5,One year,No,0
+553,28,119.41,8,One year,No,0
+554,41,119.41,7,Month-to-month,No,1
+555,64,119.41,7,Month-to-month,No,1
+556,27,119.41,7,Month-to-month,No,1
+557,63,119.41,0,One year,No,0
+558,17,119.41,0,One year,No,0
+559,33,119.41,7,One year,Yes,0
+560,29,119.41,4,Month-to-month,No,0
+561,13,119.41,8,Month-to-month,Yes,1
+562,46,119.41,1,One year,No,0
+563,35,119.41,8,One year,Yes,0
+564,6,119.41,7,Month-to-month,No,1
+565,69,119.41,8,One year,No,0
+566,47,119.41,3,Month-to-month,No,0
+567,25,119.41,0,One year,No,0
+568,66,119.41,0,Two year,No,0
+569,10,119.41,4,One year,Yes,0
+570,56,119.41,1,One year,No,0
+571,30,119.41,7,Month-to-month,No,1
+572,5,119.41,9,One year,Yes,1
+573,33,119.41,4,One year,Yes,0
+574,65,119.41,4,One year,Yes,0
+575,18,119.41,1,One year,Yes,0
+576,49,119.41,6,Month-to-month,No,1
+577,11,119.41,7,Two year,Yes,1
+578,26,119.41,9,One year,No,1
+579,63,119.41,0,Month-to-month,Yes,0
+580,59,119.41,1,One year,Yes,0
+581,27,119.41,9,Month-to-month,No,1
+582,49,119.41,3,Month-to-month,No,0
+583,33,119.41,4,Month-to-month,Yes,0
+584,1,119.41,1,One year,No,0
+585,21,119.41,0,Two year,Yes,0
+586,55,119.41,8,One year,Yes,0
+587,6,119.41,0,One year,Yes,0
+588,69,119.41,3,Month-to-month,No,0
+589,5,119.41,1,Month-to-month,No,1
+590,3,119.41,3,Month-to-month,No,1
+591,53,119.41,7,One year,No,1
+592,23,119.41,7,Two year,No,0
+593,53,119.41,8,Month-to-month,No,1
+594,37,119.41,4,One year,No,0
+595,17,119.41,6,Two year,No,0
+596,1,119.41,2,Month-to-month,Yes,1
+597,51,119.41,9,One year,No,0
+598,45,119.41,3,One year,No,0
+599,4,119.41,9,One year,No,1
+600,62,119.41,8,Month-to-month,No,1
+601,65,119.41,9,One year,No,0
+602,32,119.41,9,One year,No,1
+603,34,119.41,0,Month-to-month,Yes,0
+604,39,119.41,1,One year,No,0
+605,26,119.41,4,Month-to-month,No,0
+606,34,119.41,2,Two year,No,0
+607,54,119.41,1,One year,No,0
+608,3,119.41,0,Two year,Yes,0
+609,50,119.41,9,Month-to-month,No,1
+610,12,119.41,2,Month-to-month,No,0
+611,65,119.41,0,Month-to-month,No,0
+612,54,119.41,0,Month-to-month,No,0
+613,5,119.41,0,Month-to-month,Yes,1
+614,57,119.41,7,One year,Yes,1
+615,17,119.41,2,Month-to-month,No,0
+616,47,119.41,0,One year,No,0
+617,23,119.41,6,Month-to-month,No,1
+618,14,119.41,9,One year,No,1
+619,66,119.41,2,One year,Yes,0
+620,51,119.41,7,One year,Yes,0
+621,38,119.41,3,Two year,No,0
+622,64,119.41,3,Month-to-month,No,0
+623,38,119.41,4,Month-to-month,No,0
+624,50,119.41,5,Month-to-month,No,0
+625,30,119.41,6,Month-to-month,No,1
+626,51,119.41,3,One year,Yes,0
+627,63,119.41,7,Month-to-month,No,1
+628,52,119.41,5,One year,Yes,0
+629,38,119.41,0,Month-to-month,No,0
+630,30,119.41,0,Two year,No,0
+631,51,119.41,8,Two year,No,0
+632,5,119.41,9,Month-to-month,Yes,1
+633,29,119.41,5,Month-to-month,No,0
+634,4,119.41,9,Two year,No,1
+635,10,119.41,7,Two year,Yes,1
+636,56,119.41,6,Month-to-month,Yes,1
+637,17,119.41,5,Month-to-month,No,0
+638,17,119.41,3,Two year,No,0
+639,69,119.41,6,One year,No,0
+640,34,119.41,8,Month-to-month,Yes,1
+641,6,119.41,9,One year,No,1
+642,53,119.41,9,Two year,Yes,0
+643,66,119.41,6,Two year,No,1
+644,43,119.41,0,One year,No,0
+645,23,119.41,9,One year,No,0
+646,55,119.41,8,Month-to-month,No,1
+647,16,119.41,3,Two year,Yes,0
+648,8,119.41,2,Month-to-month,Yes,1
+649,4,119.41,3,Two year,No,0
+650,4,119.41,3,Month-to-month,Yes,1
+651,56,119.41,9,Two year,No,0
+652,25,119.41,1,Month-to-month,Yes,0
+653,67,119.41,0,One year,No,0
+654,67,119.41,9,Month-to-month,No,1
+655,27,119.41,0,One year,Yes,0
+656,32,119.41,7,Two year,No,0
+657,50,119.41,1,One year,No,0
+658,61,119.41,9,One year,No,1
+659,51,119.41,4,Month-to-month,No,0
+660,19,119.41,3,Two year,No,0
+661,21,119.41,7,One year,No,1
+662,5,119.41,1,One year,No,0
+663,42,119.41,9,One year,Yes,1
+664,61,119.41,8,One year,No,0
+665,22,119.41,6,Month-to-month,No,1
+666,21,119.41,6,One year,Yes,1
+667,70,119.41,0,One year,No,0
+668,1,119.41,1,Two year,No,0
+669,5,119.41,3,Two year,Yes,0
+670,12,119.41,3,Month-to-month,Yes,0
+671,46,119.41,2,Month-to-month,Yes,0
+672,34,119.41,6,Month-to-month,No,1
+673,49,119.41,7,Month-to-month,No,1
+674,45,119.41,1,One year,No,0
+675,27,119.41,3,Two year,Yes,0
+676,26,119.41,2,Month-to-month,No,0
+677,47,119.41,1,Month-to-month,No,0
+678,56,119.41,5,Two year,No,0
+679,63,119.41,3,Two year,No,0
+680,48,119.41,5,One year,No,0
+681,61,119.41,1,One year,No,0
+682,26,119.41,3,One year,No,0
+683,36,119.41,5,Month-to-month,No,0
+684,1,119.41,4,Month-to-month,Yes,1
+685,8,119.41,2,Month-to-month,No,1
+686,52,119.41,7,Month-to-month,No,1
+687,47,119.41,6,Two year,Yes,1
+688,56,119.41,2,One year,Yes,0
+689,14,119.41,5,Month-to-month,No,0
+690,28,119.41,3,Month-to-month,Yes,0
+691,2,119.41,4,Month-to-month,No,1
+692,26,119.41,4,One year,No,0
+693,14,119.41,6,Two year,No,0
+694,59,119.41,4,Month-to-month,Yes,0
+695,56,119.41,2,Month-to-month,No,0
+696,7,119.41,9,One year,Yes,1
+697,3,119.41,4,One year,No,0
+698,23,119.41,6,Month-to-month,Yes,1
+699,18,119.41,4,One year,No,0
+700,38,119.41,4,One year,Yes,0
+701,15,119.41,8,Month-to-month,Yes,1
+702,64,119.41,2,Month-to-month,Yes,0
+703,28,119.41,5,Month-to-month,No,0
+704,39,119.41,0,Two year,No,0
+705,57,119.41,9,Two year,Yes,1
+706,17,119.41,4,Two year,No,0
+707,44,119.41,7,One year,Yes,1
+708,25,119.41,4,One year,No,0
+709,17,119.41,8,One year,Yes,0
+710,13,119.41,5,Two year,No,0
+711,25,119.41,7,Month-to-month,No,1
+712,68,119.41,9,One year,No,1
+713,10,119.41,7,One year,Yes,1
+714,67,119.41,2,One year,Yes,0
+715,18,119.41,6,Month-to-month,No,1
+716,34,119.41,6,One year,Yes,1
+717,8,119.41,9,One year,No,1
+718,40,119.41,5,Month-to-month,Yes,0
+719,42,119.41,6,One year,Yes,0
+720,41,119.41,1,Month-to-month,Yes,0
+721,6,119.41,8,Two year,No,1
+722,52,119.41,9,One year,No,1
+723,26,119.41,9,One year,No,1
+724,64,119.41,0,Month-to-month,Yes,0
+725,59,119.41,0,Month-to-month,No,0
+726,56,119.41,2,One year,No,0
+727,59,119.41,2,Month-to-month,No,0
+728,70,119.41,0,One year,Yes,0
+729,33,119.41,6,Month-to-month,No,1
+730,53,119.41,3,Two year,No,0
+731,22,119.41,9,One year,No,1
+732,21,119.41,1,Month-to-month,Yes,0
+733,70,119.41,9,One year,Yes,1
+734,70,119.41,4,Two year,Yes,0
+735,4,119.41,5,One year,No,0
+736,62,119.41,8,Month-to-month,No,1
+737,62,119.41,3,One year,No,0
+738,24,119.41,1,Month-to-month,No,0
+739,55,119.41,4,Month-to-month,No,0
+740,9,119.41,2,Month-to-month,No,1
+741,3,119.41,1,One year,No,0
+742,31,119.41,0,Month-to-month,No,0
+743,40,119.41,9,Two year,No,1
+744,36,119.41,1,Month-to-month,No,0
+745,24,119.41,5,Month-to-month,No,0
+746,6,119.41,7,Month-to-month,No,1
+747,66,119.41,2,Month-to-month,No,0
+748,4,119.41,8,One year,Yes,1
+749,6,119.41,8,Month-to-month,No,1
+750,51,119.41,1,Month-to-month,Yes,0
+751,62,119.41,7,Month-to-month,Yes,1
+752,57,119.41,9,Month-to-month,No,1
+753,66,119.41,4,Month-to-month,No,0
+754,8,119.41,3,One year,No,0
+755,26,119.41,9,One year,No,1
+756,51,119.41,4,One year,Yes,0
+757,45,119.41,3,One year,Yes,0
+758,44,119.41,7,One year,No,1
+759,5,119.41,3,Two year,No,0
+760,70,119.41,9,Month-to-month,Yes,1
+761,26,119.41,5,Month-to-month,No,0
+762,68,119.41,1,Month-to-month,No,0
+763,19,119.41,4,Month-to-month,No,0
+764,20,119.41,5,Month-to-month,No,0
+765,12,119.41,4,One year,No,0
+766,47,119.41,1,Month-to-month,No,0
+767,1,119.41,6,Two year,No,1
+768,14,119.41,3,Month-to-month,Yes,0
+769,64,119.41,7,Month-to-month,No,1
+770,38,119.41,6,Two year,No,0
+771,37,119.41,6,Two year,Yes,1
+772,11,119.41,8,Month-to-month,Yes,1
+773,3,119.41,0,One year,No,0
+774,33,119.41,9,Two year,No,1
+775,6,119.41,5,Month-to-month,No,1
+776,50,119.41,5,Month-to-month,Yes,0
+777,10,119.41,5,Two year,No,0
+778,5,119.41,5,One year,No,0
+779,23,119.41,9,Month-to-month,Yes,1
+780,10,119.41,6,One year,No,1
+781,44,119.41,9,Month-to-month,Yes,1
+782,2,119.41,5,Two year,Yes,0
+783,13,119.41,0,Month-to-month,No,0
+784,40,119.41,2,Two year,No,0
+785,2,119.41,1,One year,Yes,0
+786,65,119.41,5,Month-to-month,No,0
+787,63,119.41,7,Month-to-month,Yes,1
+788,17,119.41,2,One year,Yes,0
+789,9,119.41,9,Two year,No,1
+790,15,119.41,7,Month-to-month,No,1
+791,24,119.41,7,Month-to-month,Yes,1
+792,38,119.41,4,One year,No,0
+793,35,119.41,7,One year,Yes,1
+794,49,119.41,5,Month-to-month,No,0
+795,69,119.41,4,One year,No,0
+796,62,119.41,8,One year,No,1
+797,60,119.41,6,Month-to-month,Yes,1
+798,50,119.41,7,Month-to-month,No,1
+799,9,119.41,0,Month-to-month,No,1
+800,34,119.41,1,One year,No,0
+801,35,119.41,7,One year,No,0
+802,1,119.41,8,One year,No,1
+803,40,119.41,3,Month-to-month,No,0
+804,64,119.41,9,Month-to-month,No,1
+805,22,119.41,9,Two year,No,1
+806,60,119.41,8,Month-to-month,No,1
+807,64,119.41,3,One year,No,0
+808,11,119.41,9,One year,No,1
+809,14,119.41,9,Month-to-month,No,1
+810,60,119.41,9,Month-to-month,No,1
+811,30,119.41,8,Month-to-month,No,1
+812,35,119.41,6,Month-to-month,No,1
+813,37,119.41,1,One year,No,0
+814,5,119.41,8,Month-to-month,No,1
+815,26,119.41,3,Month-to-month,No,0
+816,62,119.41,7,One year,No,1
+817,4,119.41,6,Month-to-month,No,1
+818,42,119.41,6,One year,Yes,0
+819,18,119.41,7,Month-to-month,No,1
+820,40,119.41,0,Month-to-month,No,0
+821,39,119.41,4,Month-to-month,No,0
+822,14,119.41,1,Month-to-month,Yes,0
+823,32,119.41,1,Two year,No,0
+824,51,119.41,0,One year,No,0
+825,38,119.41,4,Month-to-month,Yes,0
+826,23,119.41,1,Month-to-month,Yes,0
+827,63,119.41,3,Month-to-month,No,0
+828,15,119.41,2,Month-to-month,No,0
+829,25,119.41,2,Month-to-month,Yes,0
+830,17,119.41,1,One year,No,0
+831,66,119.41,5,Two year,No,0
+832,53,119.41,1,Month-to-month,No,0
+833,51,119.41,7,One year,No,0
+834,39,119.41,7,Two year,No,0
+835,51,119.41,4,Month-to-month,No,0
+836,70,119.41,9,Two year,Yes,0
+837,6,119.41,6,One year,Yes,1
+838,67,119.41,3,Month-to-month,No,0
+839,7,119.41,0,Two year,Yes,0
+840,51,119.41,1,Month-to-month,No,0
+841,42,119.41,9,Month-to-month,Yes,1
+842,64,119.41,9,One year,Yes,1
+843,15,119.41,3,Month-to-month,No,0
+844,29,119.41,0,Month-to-month,No,0
+845,33,119.41,7,Month-to-month,No,1
+846,27,119.41,8,One year,Yes,0
+847,36,119.41,3,One year,Yes,0
+848,29,119.41,9,One year,No,0
+849,38,119.41,2,Two year,No,0
+850,57,119.41,1,Month-to-month,No,0
+851,27,119.41,4,Month-to-month,Yes,0
+852,55,119.41,2,One year,No,0
+853,33,119.41,9,One year,No,0
+854,68,119.41,6,Month-to-month,No,1
+855,66,119.41,5,Month-to-month,No,0
+856,10,119.41,0,Two year,No,0
+857,5,119.41,7,Two year,No,1
+858,38,119.41,1,One year,No,0
+859,13,119.41,4,Month-to-month,No,0
+860,31,119.41,8,Two year,Yes,0
+861,47,119.41,7,Two year,Yes,0
+862,52,119.41,1,One year,No,0
+863,56,119.41,8,Two year,Yes,0
+864,15,119.41,4,Two year,Yes,0
+865,29,119.41,9,Two year,No,1
+866,8,119.41,5,Two year,No,0
+867,5,119.41,2,One year,No,0
+868,29,119.41,2,One year,No,0
+869,47,119.41,9,Month-to-month,No,1
+870,68,119.41,7,One year,No,1
+871,45,119.41,9,One year,No,0
+872,2,119.41,9,Two year,Yes,1
+873,27,119.41,1,Month-to-month,Yes,0
+874,36,119.41,1,One year,No,0
+875,36,119.41,4,Month-to-month,Yes,0
+876,26,119.41,5,One year,Yes,0
+877,43,119.41,1,One year,Yes,0
+878,27,119.41,4,Month-to-month,No,0
+879,69,119.41,6,One year,No,1
+880,20,119.41,9,Month-to-month,No,1
+881,11,119.41,9,Month-to-month,Yes,1
+882,38,119.41,7,One year,No,0
+883,6,119.41,6,Month-to-month,Yes,1
+884,23,119.41,7,Month-to-month,No,1
+885,47,119.41,8,Month-to-month,No,1
+886,46,119.41,4,Month-to-month,No,0
+887,12,119.41,4,One year,No,0
+888,13,119.41,9,Month-to-month,No,1
+889,62,119.41,3,Two year,No,0
+890,60,119.41,8,Month-to-month,No,1
+891,43,119.41,4,Month-to-month,No,0
+892,68,119.41,1,Month-to-month,No,0
+893,5,119.41,9,One year,No,1
+894,37,119.41,7,One year,No,1
+895,31,119.41,6,Two year,No,1
+896,9,119.41,7,One year,Yes,1
+897,51,119.41,2,Month-to-month,No,0
+898,29,119.41,3,One year,No,0
+899,40,119.41,4,Two year,No,0
+900,41,119.41,5,Month-to-month,Yes,0
+901,11,119.41,0,Month-to-month,No,1
+902,23,119.41,3,One year,No,0
+903,1,119.41,9,Month-to-month,No,1
+904,46,119.41,4,Two year,No,0
+905,21,119.41,6,Month-to-month,No,1
+906,36,119.41,4,Month-to-month,No,0
+907,54,119.41,0,Two year,Yes,0
+908,57,119.41,6,Two year,No,1
+909,1,119.41,7,Month-to-month,No,1
+910,63,119.41,6,Two year,No,0
+911,54,119.41,3,Month-to-month,No,0
+912,55,119.41,7,Month-to-month,No,1
+913,40,119.41,4,Two year,No,0
+914,15,119.41,9,One year,No,1
+915,21,119.41,8,Month-to-month,No,1
+916,47,119.41,9,Month-to-month,No,1
+917,53,119.41,4,One year,No,0
+918,9,119.41,0,Month-to-month,No,1
+919,52,119.41,8,One year,Yes,0
+920,57,119.41,4,One year,No,0
+921,26,119.41,5,Month-to-month,No,0
+922,41,119.41,3,One year,Yes,0
+923,35,119.41,5,Two year,No,0
+924,63,119.41,7,Month-to-month,No,1
+925,25,119.41,2,Month-to-month,No,0
+926,38,119.41,4,Month-to-month,No,0
+927,2,119.41,1,One year,No,0
+928,7,119.41,1,Two year,No,0
+929,34,119.41,6,Month-to-month,No,1
+930,17,119.41,9,Month-to-month,No,1
+931,43,119.41,9,Month-to-month,No,1
+932,59,119.41,9,One year,No,1
+933,51,119.41,5,Month-to-month,No,0
+934,54,119.41,3,Two year,Yes,0
+935,24,119.41,4,Month-to-month,Yes,0
+936,25,119.41,0,One year,No,0
+937,71,119.41,6,One year,Yes,0
+938,52,119.41,7,One year,No,1
+939,70,119.41,8,Month-to-month,No,1
+940,33,119.41,7,One year,Yes,0
+941,49,119.41,4,Month-to-month,Yes,0
+942,29,119.41,2,Month-to-month,No,0
+943,63,119.41,9,One year,No,1
+944,22,119.41,8,One year,No,1
+945,26,119.41,5,Month-to-month,No,0
+946,28,119.41,4,Month-to-month,Yes,0
+947,49,119.41,2,Two year,Yes,0
+948,71,119.41,5,Two year,No,0
+949,49,119.41,2,Month-to-month,No,0
+950,20,119.41,9,One year,No,1
+951,63,119.41,5,Month-to-month,No,0
+952,61,119.41,3,One year,No,0
+953,49,119.41,1,Two year,Yes,0
+954,71,119.41,7,Month-to-month,Yes,1
+955,1,119.41,3,One year,No,0
+956,13,119.41,8,Month-to-month,No,1
+957,51,119.41,6,One year,Yes,0
+958,56,119.41,1,One year,No,0
+959,62,119.41,3,Two year,No,0
+960,32,119.41,4,Month-to-month,No,0
+961,30,119.41,2,Month-to-month,Yes,0
+962,29,119.41,8,Month-to-month,No,1
+963,49,119.41,4,Two year,No,0
+964,45,119.41,1,One year,Yes,0
+965,30,119.41,2,One year,No,0
+966,16,119.41,8,Month-to-month,No,1
+967,40,119.41,6,Two year,No,1
+968,19,119.41,1,Two year,No,0
+969,18,119.41,8,One year,Yes,0
+970,1,119.41,3,Month-to-month,No,1
+971,47,119.41,8,Month-to-month,No,1
+972,66,119.41,1,One year,No,0
+973,38,119.41,9,One year,No,1
+974,51,119.41,3,Month-to-month,Yes,0
+975,63,119.41,4,One year,No,0
+976,4,119.41,1,Month-to-month,Yes,1
+977,1,119.41,9,One year,Yes,1
+978,8,119.41,0,One year,No,0
+979,29,119.41,6,Month-to-month,No,1
+980,55,119.41,9,One year,Yes,0
+981,3,119.41,0,Month-to-month,No,1
+982,32,119.41,7,Month-to-month,No,1
+983,10,119.41,2,Two year,No,0
+984,34,119.41,9,Month-to-month,No,1
+985,55,119.41,5,Month-to-month,Yes,0
+986,32,119.41,6,Month-to-month,Yes,1
+987,50,119.41,9,Month-to-month,No,1
+988,7,119.41,0,Month-to-month,Yes,1
+989,8,119.41,5,Month-to-month,Yes,1
+990,65,119.41,6,One year,No,1
+991,57,119.41,5,Month-to-month,No,0
+992,67,119.41,3,One year,No,0
+993,59,119.41,0,Month-to-month,Yes,0
+994,54,119.41,8,Month-to-month,No,1
+995,67,119.41,3,Month-to-month,No,0
+996,51,119.41,6,Two year,Yes,0
+997,8,119.41,6,One year,No,1
+998,34,119.41,1,One year,Yes,0
+999,35,119.41,0,Month-to-month,No,0
+1000,32,119.41,7,Two year,No,1
+1001,46,119.41,7,Month-to-month,No,1
+1002,16,119.41,6,Month-to-month,Yes,1
+1003,68,119.41,7,One year,Yes,0
+1004,37,119.41,2,Month-to-month,No,0
+1005,54,119.41,1,Two year,No,0
+1006,14,119.41,6,Month-to-month,Yes,1
+1007,55,119.41,7,Two year,Yes,1
+1008,48,119.41,0,One year,No,0
+1009,7,119.41,9,One year,No,1
+1010,7,119.41,8,Month-to-month,Yes,1
+1011,33,119.41,3,Month-to-month,No,0
+1012,23,119.41,3,Two year,No,0
+1013,19,119.41,2,Month-to-month,No,0
+1014,19,119.41,5,One year,No,0
+1015,36,119.41,0,Two year,No,0
+1016,29,119.41,5,Month-to-month,Yes,0
+1017,60,119.41,1,One year,Yes,0
+1018,2,119.41,8,One year,No,1
+1019,1,119.41,1,Month-to-month,No,1
+1020,47,119.41,6,Month-to-month,No,1
+1021,69,119.41,0,Month-to-month,No,0
+1022,20,119.41,6,Month-to-month,No,1
+1023,11,119.41,4,One year,Yes,0
+1024,2,119.41,7,Month-to-month,No,1
+1025,67,119.41,3,Two year,No,0
+1026,12,119.41,9,Month-to-month,Yes,1
+1027,20,119.41,6,One year,No,0
+1028,5,119.41,5,One year,No,0
+1029,37,119.41,4,Month-to-month,No,0
+1030,38,119.41,3,Month-to-month,Yes,0
+1031,9,119.41,6,One year,Yes,1
+1032,53,119.41,4,Two year,No,0
+1033,44,119.41,4,Month-to-month,No,0
+1034,24,119.41,0,Month-to-month,Yes,0
+1035,30,119.41,1,Month-to-month,No,0
+1036,59,119.41,4,Month-to-month,No,0
+1037,14,119.41,2,One year,No,0
+1038,9,119.41,1,Two year,No,0
+1039,40,119.41,3,Month-to-month,No,0
+1040,66,119.41,3,Two year,Yes,0
+1041,25,119.41,3,Month-to-month,No,0
+1042,22,119.41,3,One year,No,0
+1043,4,119.41,2,Month-to-month,Yes,1
+1044,26,119.41,6,Month-to-month,No,1
+1045,58,119.41,8,Month-to-month,No,1
+1046,29,119.41,4,Month-to-month,No,0
+1047,37,119.41,3,One year,No,0
+1048,70,119.41,1,One year,No,0
+1049,18,119.41,1,Month-to-month,No,0
+1050,42,119.41,4,Two year,Yes,0
+1051,41,119.41,6,Month-to-month,No,1
+1052,38,119.41,9,One year,No,1
+1053,34,119.41,9,Month-to-month,Yes,1
+1054,17,119.41,8,Month-to-month,No,1
+1055,37,119.41,6,Month-to-month,No,1
+1056,25,119.41,4,One year,No,0
+1057,27,119.41,9,One year,Yes,1
+1058,57,119.41,9,Month-to-month,No,1
+1059,31,119.41,9,Month-to-month,Yes,1
+1060,6,119.41,5,Month-to-month,No,1
+1061,40,119.41,2,One year,No,0
+1062,12,119.41,4,One year,No,0
+1063,53,119.41,7,Month-to-month,No,1
+1064,71,119.41,0,Month-to-month,Yes,0
+1065,10,119.41,0,One year,No,0
+1066,45,119.41,6,Month-to-month,No,1
+1067,17,119.41,4,Month-to-month,No,0
+1068,26,119.41,4,Month-to-month,No,0
+1069,62,119.41,0,Month-to-month,Yes,0
+1070,46,119.41,8,One year,Yes,1
+1071,64,119.41,0,One year,Yes,0
+1072,2,119.41,4,Month-to-month,No,1
+1073,54,119.41,9,One year,Yes,1
+1074,65,119.41,8,Month-to-month,Yes,1
+1075,51,119.41,3,Two year,No,0
+1076,53,119.41,7,One year,No,0
+1077,36,119.41,5,One year,No,0
+1078,26,119.41,2,Month-to-month,No,0
+1079,29,119.41,3,Month-to-month,No,0
+1080,21,119.41,1,Month-to-month,No,0
+1081,11,119.41,0,One year,No,0
+1082,40,119.41,7,Month-to-month,No,1
+1083,11,119.41,0,Two year,Yes,0
+1084,36,119.41,0,Two year,Yes,0
+1085,59,119.41,3,One year,Yes,0
+1086,39,119.41,9,Two year,No,1
+1087,54,119.41,9,Month-to-month,No,1
+1088,55,119.41,5,Month-to-month,No,0
+1089,24,119.41,8,Month-to-month,Yes,1
+1090,22,119.41,0,One year,No,0
+1091,69,119.41,6,Month-to-month,No,1
+1092,56,119.41,9,Two year,No,0
+1093,33,119.41,4,Month-to-month,Yes,0
+1094,36,119.41,7,Month-to-month,Yes,1
+1095,20,119.41,6,Two year,No,0
+1096,62,119.41,3,Month-to-month,No,0
+1097,26,119.41,3,Month-to-month,Yes,0
+1098,66,119.41,5,One year,Yes,0
+1099,40,119.41,5,Month-to-month,No,0
+1100,17,119.41,8,Month-to-month,No,1
+1101,1,119.41,4,Month-to-month,Yes,1
+1102,61,119.41,7,Month-to-month,No,1
+1103,43,119.41,4,Two year,No,0
+1104,42,119.41,1,Two year,No,0
+1105,25,119.41,5,Month-to-month,No,0
+1106,39,119.41,8,Month-to-month,No,1
+1107,35,119.41,2,Month-to-month,No,0
+1108,3,119.41,0,Two year,No,0
+1109,44,119.41,0,Month-to-month,No,0
+1110,51,119.41,2,Month-to-month,No,0
+1111,12,119.41,9,One year,No,1
+1112,19,119.41,4,Two year,No,0
+1113,44,119.41,2,Month-to-month,Yes,0
+1114,59,119.41,8,Month-to-month,No,1
+1115,49,119.41,7,Month-to-month,No,1
+1116,61,119.41,2,Month-to-month,No,0
+1117,17,119.41,8,One year,No,0
+1118,57,119.41,5,One year,Yes,0
+1119,55,119.41,6,One year,No,0
+1120,47,119.41,3,Month-to-month,No,0
+1121,12,119.41,3,Month-to-month,No,0
+1122,62,119.41,1,Month-to-month,No,0
+1123,8,119.41,4,Month-to-month,Yes,1
+1124,21,119.41,7,One year,No,0
+1125,70,119.41,6,Month-to-month,No,1
+1126,25,119.41,6,Month-to-month,No,1
+1127,12,119.41,5,Month-to-month,No,0
+1128,15,119.41,2,Month-to-month,No,0
+1129,59,119.41,4,Month-to-month,No,0
+1130,26,119.41,0,Two year,Yes,0
+1131,26,119.41,6,Month-to-month,No,1
+1132,47,119.41,8,One year,No,0
+1133,32,119.41,0,Month-to-month,No,0
+1134,10,119.41,1,Month-to-month,No,1
+1135,16,119.41,2,Two year,No,0
+1136,71,119.41,2,Month-to-month,No,0
+1137,17,119.41,7,One year,No,0
+1138,23,119.41,6,Month-to-month,No,1
+1139,26,119.41,5,One year,Yes,0
+1140,7,119.41,9,One year,No,1
+1141,14,119.41,9,Two year,No,0
+1142,7,119.41,3,Two year,No,0
+1143,9,119.41,8,One year,No,1
+1144,48,119.41,0,Month-to-month,No,0
+1145,59,119.41,1,One year,No,0
+1146,39,119.41,3,One year,Yes,0
+1147,18,119.41,2,Month-to-month,No,0
+1148,59,119.41,0,Month-to-month,No,0
+1149,17,119.41,4,Two year,Yes,0
+1150,14,119.41,6,Month-to-month,No,1
+1151,31,119.41,1,Month-to-month,No,0
+1152,24,119.41,4,Two year,No,0
+1153,60,119.41,5,Month-to-month,No,0
+1154,45,119.41,6,Month-to-month,No,1
+1155,3,119.41,0,One year,No,0
+1156,37,119.41,6,Month-to-month,No,1
+1157,43,119.41,3,One year,Yes,0
+1158,40,119.41,7,Month-to-month,Yes,1
+1159,55,119.41,3,Month-to-month,Yes,0
+1160,39,119.41,5,Month-to-month,Yes,0
+1161,15,119.41,8,Two year,Yes,1
+1162,4,119.41,4,Month-to-month,Yes,1
+1163,25,119.41,3,Month-to-month,Yes,0
+1164,13,119.41,7,Month-to-month,No,1
+1165,33,119.41,8,Month-to-month,No,1
+1166,16,119.41,3,Month-to-month,No,0
+1167,42,119.41,2,Month-to-month,Yes,0
+1168,66,119.41,7,One year,No,1
+1169,55,119.41,4,Month-to-month,No,0
+1170,42,119.41,1,One year,Yes,0
+1171,34,119.41,9,One year,No,1
+1172,30,119.41,8,Month-to-month,No,1
+1173,13,119.41,2,Month-to-month,No,0
+1174,13,119.41,1,One year,No,0
+1175,18,119.41,0,One year,No,0
+1176,32,119.41,7,Month-to-month,No,1
+1177,39,119.41,2,Two year,Yes,0
+1178,46,119.41,6,Month-to-month,Yes,1
+1179,29,119.41,0,Month-to-month,No,0
+1180,62,119.41,0,Month-to-month,Yes,0
+1181,62,119.41,8,Two year,Yes,0
+1182,57,119.41,7,One year,No,1
+1183,16,119.41,2,One year,No,0
+1184,56,119.41,5,Month-to-month,Yes,0
+1185,10,119.41,2,Month-to-month,Yes,1
+1186,30,119.41,3,Month-to-month,No,0
+1187,25,119.41,0,Two year,No,0
+1188,5,119.41,4,Month-to-month,Yes,1
+1189,65,119.41,0,Month-to-month,No,0
+1190,49,119.41,0,Month-to-month,No,0
+1191,3,119.41,9,Two year,No,1
+1192,45,119.41,6,Month-to-month,Yes,1
+1193,14,119.41,5,Month-to-month,No,0
+1194,30,119.41,1,Month-to-month,No,0
+1195,68,119.41,1,Two year,Yes,0
+1196,18,119.41,6,Two year,No,0
+1197,62,119.41,0,One year,Yes,0
+1198,37,119.41,1,Month-to-month,No,0
+1199,25,119.41,7,Month-to-month,Yes,1
+1200,48,119.41,5,Two year,No,0
+1201,65,119.41,1,Month-to-month,No,0
+1202,53,119.41,6,Month-to-month,No,1
+1203,15,119.41,3,Month-to-month,No,0
+1204,49,119.41,1,Two year,Yes,0
+1205,68,119.41,5,Month-to-month,No,0
+1206,12,119.41,8,One year,No,1
+1207,59,119.41,8,Two year,Yes,0
+1208,37,119.41,7,Month-to-month,No,1
+1209,61,119.41,2,Month-to-month,Yes,0
+1210,43,119.41,2,Two year,No,0
+1211,70,119.41,1,Two year,No,0
+1212,39,119.41,4,Two year,Yes,0
+1213,56,119.41,3,One year,No,0
+1214,63,119.41,6,Month-to-month,No,1
+1215,46,119.41,3,Two year,No,0
+1216,11,119.41,8,Month-to-month,No,1
+1217,62,119.41,1,Two year,Yes,0
+1218,25,119.41,5,Two year,No,0
+1219,71,119.41,6,One year,No,1
+1220,52,119.41,3,Two year,Yes,0
+1221,4,119.41,5,One year,No,0
+1222,59,119.41,6,Month-to-month,Yes,1
+1223,20,119.41,3,One year,Yes,0
+1224,63,119.41,7,Month-to-month,No,1
+1225,54,119.41,8,One year,No,0
+1226,57,119.41,0,Month-to-month,No,0
+1227,41,119.41,6,Month-to-month,No,1
+1228,3,119.41,8,Two year,No,1
+1229,6,119.41,9,Two year,No,1
+1230,5,119.41,4,Month-to-month,No,1
+1231,5,119.41,1,One year,Yes,0
+1232,54,119.41,9,One year,No,0
+1233,47,119.41,5,Two year,Yes,0
+1234,49,119.41,6,Month-to-month,No,1
+1235,9,119.41,1,One year,No,0
+1236,20,119.41,1,Two year,No,0
+1237,61,119.41,9,Month-to-month,Yes,1
+1238,35,119.41,9,Two year,Yes,0
+1239,50,119.41,0,Two year,No,0
+1240,62,119.41,3,Two year,No,0
+1241,17,119.41,6,Month-to-month,No,1
+1242,3,119.41,8,Month-to-month,No,1
+1243,32,119.41,2,Two year,No,0
+1244,13,119.41,6,Month-to-month,Yes,1
+1245,68,119.41,6,One year,No,0
+1246,14,119.41,6,Month-to-month,No,1
+1247,11,119.41,1,Month-to-month,Yes,1
+1248,56,119.41,5,Month-to-month,Yes,0
+1249,67,119.41,1,One year,No,0
+1250,29,119.41,5,Month-to-month,No,0
+1251,9,119.41,9,One year,Yes,1
+1252,67,119.41,2,One year,No,0
+1253,25,119.41,1,One year,Yes,0
+1254,42,119.41,5,One year,No,0
+1255,9,119.41,1,Month-to-month,Yes,1
+1256,40,119.41,4,Month-to-month,No,0
+1257,25,119.41,1,Month-to-month,Yes,0
+1258,5,119.41,2,One year,No,0
+1259,11,119.41,2,One year,No,0
+1260,59,119.41,5,Month-to-month,Yes,0
+1261,38,119.41,5,Month-to-month,No,0
+1262,5,119.41,9,One year,Yes,1
+1263,48,119.41,2,Month-to-month,No,0
+1264,18,119.41,2,Two year,No,0
+1265,70,119.41,0,Month-to-month,No,0
+1266,37,119.41,6,Two year,No,1
+1267,60,119.41,7,Month-to-month,No,1
+1268,48,119.41,1,Month-to-month,Yes,0
+1269,28,119.41,3,Month-to-month,No,0
+1270,69,119.41,9,Month-to-month,No,1
+1271,40,119.41,6,Month-to-month,No,1
+1272,45,119.41,7,Month-to-month,Yes,1
+1273,62,119.41,0,One year,No,0
+1274,58,119.41,3,Month-to-month,No,0
+1275,67,119.41,5,One year,No,0
+1276,56,119.41,2,Month-to-month,No,0
+1277,40,119.41,4,Two year,Yes,0
+1278,40,119.41,9,One year,Yes,0
+1279,33,119.41,8,Month-to-month,Yes,1
+1280,6,119.41,2,Month-to-month,No,1
+1281,19,119.41,4,Month-to-month,Yes,0
+1282,40,119.41,7,Month-to-month,No,1
+1283,59,119.41,5,One year,No,0
+1284,59,119.41,3,One year,No,0
+1285,48,119.41,7,Two year,No,1
+1286,41,119.41,2,One year,No,0
+1287,13,119.41,2,Two year,No,0
+1288,45,119.41,3,Two year,Yes,0
+1289,53,119.41,8,Two year,No,1
+1290,42,119.41,4,Month-to-month,No,0
+1291,63,119.41,7,Month-to-month,No,1
+1292,27,119.41,5,Month-to-month,No,0
+1293,38,119.41,2,One year,No,0
+1294,60,119.41,7,Month-to-month,No,1
+1295,7,119.41,8,Month-to-month,No,1
+1296,5,119.41,7,Month-to-month,No,1
+1297,45,119.41,3,Month-to-month,No,0
+1298,58,119.41,5,One year,Yes,0
+1299,31,119.41,0,Month-to-month,No,0
+1300,23,119.41,3,One year,No,0
+1301,42,119.41,7,One year,No,0
+1302,10,119.41,0,Month-to-month,No,1
+1303,32,119.41,2,One year,No,0
+1304,53,119.41,0,One year,No,0
+1305,30,119.41,8,Month-to-month,No,1
+1306,39,119.41,1,Month-to-month,Yes,0
+1307,31,119.41,8,Month-to-month,No,1
+1308,2,119.41,3,One year,Yes,0
+1309,12,119.41,1,One year,Yes,0
+1310,39,119.41,3,Month-to-month,No,0
+1311,66,119.41,9,Month-to-month,No,1
+1312,13,119.41,5,Month-to-month,Yes,0
+1313,46,119.41,6,Two year,No,0
+1314,27,119.41,2,Month-to-month,No,0
+1315,17,119.41,2,Two year,Yes,0
+1316,60,119.41,9,Month-to-month,No,1
+1317,64,119.41,7,One year,No,0
+1318,35,119.41,4,One year,No,0
+1319,70,119.41,3,One year,Yes,0
+1320,30,119.41,6,Month-to-month,Yes,1
+1321,71,119.41,6,One year,No,0
+1322,63,119.41,8,Month-to-month,No,1
+1323,28,119.41,8,Month-to-month,No,1
+1324,60,119.41,4,One year,No,0
+1325,37,119.41,7,Two year,Yes,1
+1326,22,119.41,9,One year,No,0
+1327,68,119.41,0,Month-to-month,No,0
+1328,20,119.41,8,One year,No,0
+1329,68,119.41,7,One year,No,1
+1330,64,119.41,5,Two year,No,0
+1331,17,119.41,2,Two year,No,0
+1332,12,119.41,2,One year,No,0
+1333,22,119.41,7,Month-to-month,No,1
+1334,17,119.41,4,One year,No,0
+1335,10,119.41,9,One year,No,1
+1336,65,119.41,6,Two year,Yes,1
+1337,22,119.41,4,Month-to-month,Yes,0
+1338,50,119.41,7,Month-to-month,No,1
+1339,14,119.41,9,Month-to-month,No,1
+1340,64,119.41,9,One year,No,0
+1341,47,119.41,3,Two year,Yes,0
+1342,29,119.41,1,Month-to-month,No,0
+1343,36,119.41,2,One year,Yes,0
+1344,52,119.41,7,One year,No,0
+1345,7,119.41,6,One year,No,1
+1346,29,119.41,1,Month-to-month,No,0
+1347,11,119.41,5,Two year,No,0
+1348,33,119.41,8,Month-to-month,No,1
+1349,6,119.41,3,One year,No,0
+1350,32,119.41,8,Month-to-month,No,1
+1351,51,119.41,1,Month-to-month,Yes,0
+1352,58,119.41,1,Two year,No,0
+1353,26,119.41,8,Month-to-month,No,1
+1354,46,119.41,6,Month-to-month,No,1
+1355,29,119.41,6,One year,No,0
+1356,4,119.41,0,One year,No,0
+1357,13,119.41,5,One year,No,0
+1358,39,119.41,6,Month-to-month,No,1
+1359,15,119.41,5,Month-to-month,No,0
+1360,29,119.41,5,Month-to-month,No,0
+1361,29,119.41,1,Month-to-month,No,0
+1362,32,119.41,5,Two year,No,0
+1363,2,119.41,3,Month-to-month,No,1
+1364,47,119.41,8,Month-to-month,No,1
+1365,22,119.41,0,Month-to-month,Yes,0
+1366,27,119.41,7,Month-to-month,No,1
+1367,67,119.41,4,One year,No,0
+1368,56,119.41,0,One year,No,0
+1369,21,119.41,3,Month-to-month,No,0
+1370,47,119.41,0,Month-to-month,No,0
+1371,59,119.41,5,Month-to-month,No,0
+1372,6,119.41,1,One year,No,0
+1373,19,119.41,4,One year,No,0
+1374,57,119.41,6,Month-to-month,No,1
+1375,69,119.41,1,Month-to-month,Yes,0
+1376,3,119.41,5,One year,No,0
+1377,1,119.41,5,Two year,Yes,0
+1378,58,119.41,4,Two year,No,0
+1379,38,119.41,4,Month-to-month,No,0
+1380,15,119.41,2,Month-to-month,No,0
+1381,34,119.41,9,Month-to-month,Yes,1
+1382,61,119.41,9,One year,Yes,0
+1383,35,119.41,1,Two year,No,0
+1384,64,119.41,6,Month-to-month,No,1
+1385,25,119.41,0,Month-to-month,No,0
+1386,24,119.41,5,Month-to-month,Yes,0
+1387,12,119.41,5,Month-to-month,Yes,0
+1388,18,119.41,2,Month-to-month,No,0
+1389,15,119.41,1,One year,Yes,0
+1390,27,119.41,1,Month-to-month,No,0
+1391,60,119.41,8,Month-to-month,No,1
+1392,46,119.41,4,One year,Yes,0
+1393,17,119.41,6,Month-to-month,Yes,1
+1394,53,119.41,4,Month-to-month,Yes,0
+1395,8,119.41,6,Month-to-month,No,1
+1396,27,119.41,3,Two year,No,0
+1397,46,119.41,7,One year,No,0
+1398,50,119.41,9,Month-to-month,Yes,1
+1399,71,119.41,9,One year,No,0
+1400,3,119.41,6,Month-to-month,Yes,1
+1401,64,119.41,9,One year,No,1
+1402,44,119.41,4,One year,No,0
+1403,53,119.41,5,Two year,No,0
+1404,24,119.41,4,Month-to-month,No,0
+1405,60,119.41,6,Two year,No,1
+1406,3,119.41,1,Two year,Yes,0
+1407,20,119.41,4,Two year,No,0
+1408,46,119.41,9,One year,No,1
+1409,15,119.41,2,Month-to-month,No,0
+1410,25,119.41,8,Month-to-month,Yes,1
+1411,71,119.41,5,Month-to-month,No,0
+1412,17,119.41,9,Month-to-month,No,1
+1413,9,119.41,2,One year,No,0
+1414,38,119.41,6,One year,Yes,1
+1415,48,119.41,3,Two year,No,0
+1416,60,119.41,2,Month-to-month,No,0
+1417,63,119.41,7,Month-to-month,No,1
+1418,2,119.41,3,One year,No,0
+1419,11,119.41,0,Month-to-month,No,1
+1420,64,119.41,5,Month-to-month,No,0
+1421,21,119.41,9,Two year,No,1
+1422,18,119.41,0,One year,No,0
+1423,64,119.41,4,Month-to-month,No,0
+1424,38,119.41,6,Two year,Yes,1
+1425,32,119.41,5,One year,No,0
+1426,11,119.41,1,One year,No,0
+1427,45,119.41,3,Two year,No,0
+1428,33,119.41,1,Month-to-month,No,0
+1429,41,119.41,0,One year,Yes,0
+1430,8,119.41,2,Month-to-month,No,1
+1431,11,119.41,2,Month-to-month,Yes,1
+1432,51,119.41,6,Two year,No,1
+1433,41,119.41,0,One year,No,0
+1434,17,119.41,8,One year,No,0
+1435,46,119.41,5,Two year,No,0
+1436,32,119.41,3,Two year,No,0
+1437,54,119.41,2,Two year,No,0
+1438,20,119.41,2,Month-to-month,Yes,0
+1439,33,119.41,1,Month-to-month,No,0
+1440,40,119.41,1,Month-to-month,No,0
+1441,32,119.41,9,Month-to-month,Yes,1
+1442,2,119.41,4,Month-to-month,No,1
+1443,33,119.41,8,One year,No,0
+1444,30,119.41,1,One year,Yes,0
+1445,33,119.41,1,Two year,Yes,0
+1446,26,119.41,5,One year,Yes,0
+1447,22,119.41,9,One year,No,1
+1448,66,119.41,1,Month-to-month,No,0
+1449,38,119.41,3,Month-to-month,No,0
+1450,46,119.41,5,Month-to-month,No,0
+1451,15,119.41,4,One year,Yes,0
+1452,44,119.41,0,Month-to-month,No,0
+1453,49,119.41,5,One year,Yes,0
+1454,61,119.41,0,One year,Yes,0
+1455,67,119.41,2,Month-to-month,No,0
+1456,6,119.41,9,Month-to-month,Yes,1
+1457,9,119.41,4,Month-to-month,No,1
+1458,6,119.41,9,Month-to-month,No,1
+1459,32,119.41,4,One year,Yes,0
+1460,41,119.41,9,One year,No,1
+1461,8,119.41,5,One year,No,0
+1462,50,119.41,9,Two year,No,0
+1463,62,119.41,7,One year,Yes,0
+1464,62,119.41,4,Two year,Yes,0
+1465,7,119.41,0,Month-to-month,No,1
+1466,4,119.41,4,One year,No,0
+1467,6,119.41,2,Month-to-month,Yes,1
+1468,58,119.41,3,Month-to-month,No,0
+1469,22,119.41,7,Month-to-month,Yes,1
+1470,26,119.41,6,One year,Yes,1
+1471,3,119.41,4,Month-to-month,Yes,1
+1472,41,119.41,1,Month-to-month,No,0
+1473,60,119.41,5,Two year,Yes,0
+1474,14,119.41,5,Two year,No,0
+1475,12,119.41,9,One year,No,1
+1476,12,119.41,9,One year,Yes,1
+1477,13,119.41,5,Two year,No,0
+1478,25,119.41,8,One year,No,0
+1479,45,119.41,7,Month-to-month,No,1
+1480,19,119.41,7,Two year,No,0
+1481,55,119.41,0,One year,No,0
+1482,45,119.41,4,Month-to-month,Yes,0
+1483,8,119.41,6,Month-to-month,No,1
+1484,53,119.41,5,Month-to-month,Yes,0
+1485,55,119.41,4,Two year,No,0
+1486,32,119.41,7,Month-to-month,Yes,1
+1487,51,119.41,2,Two year,Yes,0
+1488,44,119.41,5,Two year,No,0
+1489,70,119.41,4,One year,Yes,0
+1490,18,119.41,7,One year,No,0
+1491,22,119.41,3,Month-to-month,Yes,0
+1492,37,119.41,7,Month-to-month,No,1
+1493,56,119.41,9,Month-to-month,Yes,1
+1494,59,119.41,1,One year,No,0
+1495,3,119.41,8,Month-to-month,No,1
+1496,28,119.41,8,Month-to-month,No,1
+1497,35,119.41,9,Month-to-month,Yes,1
+1498,61,119.41,9,Two year,No,1
+1499,54,119.41,5,Month-to-month,No,0
+1500,63,119.41,3,Two year,No,0
+1501,7,119.41,3,Month-to-month,No,1
+1502,49,119.41,5,One year,No,0
+1503,31,119.41,4,Month-to-month,No,0
+1504,58,119.41,5,One year,Yes,0
+1505,61,119.41,6,One year,Yes,1
+1506,24,119.41,6,Month-to-month,No,1
+1507,20,119.41,8,One year,Yes,1
+1508,37,119.41,7,One year,Yes,1
+1509,4,119.41,5,One year,Yes,0
+1510,20,119.41,5,One year,Yes,0
+1511,60,119.41,4,Month-to-month,No,0
+1512,24,119.41,0,One year,No,0
+1513,50,119.41,8,Two year,No,1
+1514,49,119.41,8,Two year,No,0
+1515,51,119.41,8,Two year,No,0
+1516,36,119.41,7,Month-to-month,No,1
+1517,66,119.41,9,One year,No,1
+1518,34,119.41,2,One year,No,0
+1519,36,119.41,0,Month-to-month,No,0
+1520,6,119.41,7,Two year,No,1
+1521,39,119.41,6,One year,Yes,1
+1522,42,119.41,4,Month-to-month,Yes,0
+1523,58,119.41,9,Month-to-month,No,1
+1524,12,119.41,6,Two year,No,0
+1525,3,119.41,9,Month-to-month,No,1
+1526,18,119.41,3,Month-to-month,No,0
+1527,40,119.41,8,Month-to-month,No,1
+1528,21,119.41,9,Month-to-month,No,1
+1529,15,119.41,1,Two year,No,0
+1530,26,119.41,8,Month-to-month,No,1
+1531,8,119.41,8,One year,No,1
+1532,42,119.41,4,Two year,Yes,0
+1533,44,119.41,0,One year,No,0
+1534,14,119.41,6,Month-to-month,No,1
+1535,2,119.41,9,One year,No,1
+1536,37,119.41,9,Month-to-month,No,1
+1537,69,119.41,3,Month-to-month,No,0
+1538,38,119.41,8,One year,Yes,1
+1539,41,119.41,5,Two year,No,0
+1540,62,119.41,2,One year,No,0
+1541,60,119.41,5,Two year,Yes,0
+1542,14,119.41,9,One year,No,1
+1543,2,119.41,5,One year,No,0
+1544,70,119.41,4,Two year,No,0
+1545,17,119.41,1,Month-to-month,No,0
+1546,28,119.41,9,Month-to-month,Yes,1
+1547,66,119.41,9,One year,No,1
+1548,35,119.41,1,One year,No,0
+1549,5,119.41,6,Month-to-month,No,1
+1550,65,119.41,1,Month-to-month,No,0
+1551,40,119.41,5,Month-to-month,Yes,0
+1552,56,119.41,4,One year,No,0
+1553,36,119.41,3,Two year,No,0
+1554,45,119.41,6,Two year,No,1
+1555,23,119.41,7,One year,No,0
+1556,47,119.41,3,Two year,No,0
+1557,31,119.41,0,Month-to-month,No,0
+1558,11,119.41,0,Month-to-month,No,1
+1559,10,119.41,0,Month-to-month,No,1
+1560,67,119.41,0,One year,Yes,0
+1561,14,119.41,4,Month-to-month,No,0
+1562,10,119.41,3,One year,No,0
+1563,1,119.41,8,One year,No,1
+1564,5,119.41,2,Month-to-month,No,1
+1565,20,119.41,6,Two year,No,1
+1566,8,119.41,7,One year,No,1
+1567,43,119.41,5,Month-to-month,Yes,0
+1568,1,119.41,9,Month-to-month,No,1
+1569,57,119.41,0,One year,No,0
+1570,64,119.41,7,Month-to-month,No,1
+1571,28,119.41,9,Month-to-month,No,1
+1572,37,119.41,2,One year,No,0
+1573,47,119.41,7,Two year,No,0
+1574,37,119.41,3,Month-to-month,Yes,0
+1575,49,119.41,7,Two year,No,0
+1576,44,119.41,0,Two year,No,0
+1577,56,119.41,2,Month-to-month,No,0
+1578,28,119.41,5,One year,Yes,0
+1579,6,119.41,8,Month-to-month,No,1
+1580,61,119.41,1,Month-to-month,No,0
+1581,20,119.41,0,One year,Yes,0
+1582,2,119.41,9,One year,No,1
+1583,37,119.41,2,Month-to-month,Yes,0
+1584,20,119.41,3,Two year,No,0
+1585,26,119.41,4,One year,No,0
+1586,29,119.41,2,Two year,No,0
+1587,1,119.41,9,Month-to-month,No,1
+1588,35,119.41,1,Two year,Yes,0
+1589,70,119.41,1,Month-to-month,No,0
+1590,59,119.41,6,Month-to-month,No,1
+1591,69,119.41,8,One year,No,0
+1592,33,119.41,9,One year,No,1
+1593,51,119.41,1,One year,No,0
+1594,12,119.41,6,Month-to-month,Yes,1
+1595,20,119.41,6,Month-to-month,Yes,1
+1596,53,119.41,6,One year,Yes,1
+1597,43,119.41,2,Month-to-month,No,0
+1598,50,119.41,6,One year,No,0
+1599,29,119.41,0,Month-to-month,No,0
+1600,57,119.41,9,Two year,No,0
+1601,39,119.41,0,One year,No,0
+1602,56,119.41,4,One year,No,0
+1603,43,119.41,1,Two year,Yes,0
+1604,50,119.41,8,One year,No,1
+1605,23,119.41,6,Month-to-month,Yes,1
+1606,44,119.41,3,Month-to-month,No,0
+1607,38,119.41,3,One year,No,0
+1608,23,119.41,1,Month-to-month,Yes,0
+1609,45,119.41,4,One year,No,0
+1610,52,119.41,3,Month-to-month,Yes,0
+1611,50,119.41,0,Month-to-month,No,0
+1612,8,119.41,7,One year,No,1
+1613,1,119.41,2,Two year,No,0
+1614,8,119.41,5,One year,No,0
+1615,29,119.41,3,Two year,No,0
+1616,5,119.41,8,Two year,No,1
+1617,47,119.41,6,Month-to-month,Yes,1
+1618,34,119.41,8,Month-to-month,Yes,1
+1619,65,119.41,9,One year,Yes,1
+1620,55,119.41,2,Two year,No,0
+1621,43,119.41,0,One year,No,0
+1622,30,119.41,4,Two year,No,0
+1623,17,119.41,2,Month-to-month,No,0
+1624,26,119.41,5,Month-to-month,Yes,0
+1625,8,119.41,7,One year,Yes,1
+1626,47,119.41,3,Month-to-month,No,0
+1627,46,119.41,4,Month-to-month,Yes,0
+1628,68,119.41,4,Month-to-month,No,0
+1629,33,119.41,3,Month-to-month,No,0
+1630,1,119.41,3,One year,No,0
+1631,19,119.41,3,Two year,No,0
+1632,31,119.41,3,Two year,No,0
+1633,14,119.41,3,One year,No,0
+1634,53,119.41,4,Month-to-month,Yes,0
+1635,48,119.41,1,One year,No,0
+1636,69,119.41,1,Month-to-month,Yes,0
+1637,62,119.41,8,Month-to-month,Yes,1
+1638,66,119.41,1,Month-to-month,No,0
+1639,64,119.41,5,Two year,No,0
+1640,70,119.41,1,Two year,Yes,0
+1641,63,119.41,4,One year,Yes,0
+1642,33,119.41,3,One year,Yes,0
+1643,41,119.41,6,Month-to-month,No,1
+1644,48,119.41,6,One year,No,0
+1645,13,119.41,5,One year,Yes,0
+1646,31,119.41,9,Month-to-month,No,1
+1647,68,119.41,4,Month-to-month,No,0
+1648,4,119.41,0,Two year,No,0
+1649,19,119.41,2,One year,No,0
+1650,70,119.41,8,Two year,No,0
+1651,13,119.41,0,Two year,No,0
+1652,23,119.41,4,Two year,No,0
+1653,1,119.41,1,Month-to-month,Yes,1
+1654,54,119.41,3,Month-to-month,No,0
+1655,71,119.41,0,Month-to-month,No,0
+1656,15,119.41,2,Month-to-month,Yes,0
+1657,65,119.41,9,One year,Yes,0
+1658,71,119.41,6,One year,Yes,0
+1659,15,119.41,9,One year,No,0
+1660,21,119.41,2,Month-to-month,Yes,0
+1661,19,119.41,3,Two year,No,0
+1662,60,119.41,1,Month-to-month,No,0
+1663,33,119.41,2,Month-to-month,No,0
+1664,49,119.41,8,One year,No,1
+1665,35,119.41,2,One year,No,0
+1666,44,119.41,4,Month-to-month,Yes,0
+1667,11,119.41,1,Month-to-month,No,1
+1668,66,119.41,3,One year,Yes,0
+1669,46,119.41,6,Month-to-month,No,1
+1670,9,119.41,6,Month-to-month,No,1
+1671,3,119.41,2,One year,No,0
+1672,26,119.41,4,Month-to-month,No,0
+1673,48,119.41,0,Month-to-month,Yes,0
+1674,66,119.41,9,Month-to-month,No,1
+1675,70,119.41,9,Two year,No,1
+1676,28,119.41,9,Two year,Yes,0
+1677,26,119.41,0,Month-to-month,No,0
+1678,25,119.41,4,Month-to-month,No,0
+1679,12,119.41,9,Month-to-month,No,1
+1680,5,119.41,8,Month-to-month,No,1
+1681,48,119.41,0,One year,Yes,0
+1682,37,119.41,0,One year,No,0
+1683,44,119.41,3,Month-to-month,No,0
+1684,15,119.41,3,Month-to-month,Yes,0
+1685,43,119.41,1,Month-to-month,No,0
+1686,48,119.41,8,Month-to-month,Yes,1
+1687,70,119.41,8,Month-to-month,No,1
+1688,46,119.41,1,One year,Yes,0
+1689,43,119.41,8,One year,No,1
+1690,21,119.41,5,One year,No,0
+1691,23,119.41,7,Month-to-month,No,1
+1692,47,119.41,9,One year,Yes,0
+1693,15,119.41,3,Month-to-month,No,0
+1694,25,119.41,1,Month-to-month,No,0
+1695,36,119.41,1,One year,Yes,0
+1696,51,119.41,8,Month-to-month,No,1
+1697,15,119.41,0,One year,No,0
+1698,68,119.41,6,One year,No,0
+1699,21,119.41,2,Two year,Yes,0
+1700,13,119.41,2,Two year,No,0
+1701,19,119.41,1,Month-to-month,Yes,0
+1702,34,119.41,9,Two year,No,0
+1703,68,119.41,5,One year,Yes,0
+1704,52,119.41,9,One year,No,0
+1705,27,119.41,1,Month-to-month,No,0
+1706,29,119.41,9,Two year,Yes,0
+1707,28,119.41,3,Month-to-month,No,0
+1708,35,119.41,9,Two year,No,1
+1709,8,119.41,8,Month-to-month,Yes,1
+1710,16,119.41,8,One year,No,1
+1711,36,119.41,5,Month-to-month,No,0
+1712,30,119.41,3,Month-to-month,No,0
+1713,18,119.41,6,Month-to-month,No,1
+1714,2,119.41,0,Month-to-month,No,1
+1715,49,119.41,3,Month-to-month,No,0
+1716,4,119.41,4,Month-to-month,No,1
+1717,7,119.41,7,One year,No,1
+1718,39,119.41,1,Two year,No,0
+1719,13,119.41,4,One year,No,0
+1720,31,119.41,5,Month-to-month,No,0
+1721,71,119.41,4,Month-to-month,No,0
+1722,63,119.41,8,Month-to-month,Yes,1
+1723,56,119.41,9,Two year,Yes,1
+1724,42,119.41,0,Two year,No,0
+1725,61,119.41,2,Month-to-month,Yes,0
+1726,42,119.41,1,Month-to-month,No,0
+1727,56,119.41,2,Two year,Yes,0
+1728,36,119.41,9,Two year,Yes,0
+1729,68,119.41,8,Two year,Yes,0
+1730,7,119.41,8,Two year,No,1
+1731,54,119.41,9,Month-to-month,Yes,1
+1732,1,119.41,1,Month-to-month,No,1
+1733,44,119.41,2,Month-to-month,No,0
+1734,45,119.41,3,Month-to-month,No,0
+1735,47,119.41,8,Month-to-month,No,1
+1736,13,119.41,2,One year,No,0
+1737,22,119.41,6,Month-to-month,No,1
+1738,21,119.41,2,Month-to-month,No,0
+1739,9,119.41,6,Month-to-month,No,1
+1740,26,119.41,6,Month-to-month,No,1
+1741,9,119.41,8,Month-to-month,No,1
+1742,15,119.41,1,Two year,No,0
+1743,10,119.41,5,Two year,No,0
+1744,42,119.41,8,Month-to-month,No,1
+1745,24,119.41,1,One year,Yes,0
+1746,49,119.41,1,Month-to-month,No,0
+1747,26,119.41,4,One year,No,0
+1748,37,119.41,9,Month-to-month,No,1
+1749,68,119.41,9,Month-to-month,No,1
+1750,50,119.41,9,Two year,No,0
+1751,24,119.41,7,Month-to-month,No,1
+1752,19,119.41,8,Month-to-month,No,1
+1753,60,119.41,1,Month-to-month,No,0
+1754,39,119.41,4,Month-to-month,No,0
+1755,18,119.41,6,Month-to-month,No,1
+1756,19,119.41,5,Two year,No,0
+1757,36,119.41,5,One year,Yes,0
+1758,55,119.41,6,One year,Yes,0
+1759,69,119.41,2,Month-to-month,No,0
+1760,47,119.41,2,Month-to-month,No,0
+1761,49,119.41,9,Month-to-month,No,1
+1762,33,119.41,8,Month-to-month,Yes,1
+1763,21,119.41,7,One year,Yes,0
+1764,22,119.41,4,Month-to-month,No,0
+1765,48,119.41,5,Two year,Yes,0
+1766,37,119.41,9,Month-to-month,Yes,1
+1767,15,119.41,0,Month-to-month,Yes,0
+1768,35,119.41,9,Month-to-month,Yes,1
+1769,71,119.41,0,Month-to-month,No,0
+1770,32,119.41,3,Month-to-month,No,0
+1771,11,119.41,1,Month-to-month,Yes,1
+1772,10,119.41,6,Month-to-month,Yes,1
+1773,57,119.41,1,One year,No,0
+1774,25,119.41,9,One year,No,0
+1775,2,119.41,1,Month-to-month,No,1
+1776,64,119.41,4,Month-to-month,No,0
+1777,35,119.41,3,One year,No,0
+1778,7,119.41,7,Two year,No,1
+1779,18,119.41,3,One year,No,0
+1780,67,119.41,5,Month-to-month,No,0
+1781,42,119.41,4,One year,Yes,0
+1782,39,119.41,1,One year,Yes,0
+1783,41,119.41,7,Month-to-month,Yes,1
+1784,24,119.41,1,Two year,No,0
+1785,60,119.41,8,Month-to-month,Yes,1
+1786,46,119.41,8,Two year,Yes,1
+1787,19,119.41,2,One year,No,0
+1788,68,119.41,3,One year,No,0
+1789,42,119.41,7,One year,Yes,1
+1790,32,119.41,8,Month-to-month,No,1
+1791,39,119.41,2,One year,Yes,0
+1792,36,119.41,4,Two year,No,0
+1793,36,119.41,7,One year,Yes,0
+1794,3,119.41,2,Two year,No,0
+1795,8,119.41,6,Two year,Yes,1
+1796,70,119.41,7,Two year,No,1
+1797,41,119.41,9,One year,Yes,0
+1798,68,119.41,2,One year,Yes,0
+1799,13,119.41,1,Month-to-month,Yes,0
+1800,49,119.41,9,One year,Yes,1
+1801,60,119.41,6,Month-to-month,No,1
+1802,2,119.41,8,Month-to-month,No,1
+1803,60,119.41,0,Month-to-month,No,0
+1804,5,119.41,2,Two year,No,0
+1805,44,119.41,4,Two year,No,0
+1806,27,119.41,2,One year,No,0
+1807,32,119.41,0,Month-to-month,Yes,0
+1808,21,119.41,6,One year,No,0
+1809,8,119.41,6,One year,Yes,1
+1810,50,119.41,9,Month-to-month,No,1
+1811,67,119.41,7,Month-to-month,No,1
+1812,44,119.41,4,Month-to-month,No,0
+1813,58,119.41,9,One year,No,1
+1814,3,119.41,4,One year,No,0
+1815,70,119.41,4,Month-to-month,No,0
+1816,2,119.41,0,Two year,No,0
+1817,44,119.41,9,Month-to-month,No,1
+1818,2,119.41,4,Month-to-month,No,1
+1819,35,119.41,5,Month-to-month,No,0
+1820,30,119.41,0,Month-to-month,No,0
+1821,8,119.41,6,Month-to-month,No,1
+1822,22,119.41,0,Month-to-month,No,0
+1823,44,119.41,1,One year,No,0
+1824,58,119.41,1,Month-to-month,No,0
+1825,36,119.41,4,One year,No,0
+1826,69,119.41,9,One year,No,0
+1827,31,119.41,6,Month-to-month,Yes,1
+1828,47,119.41,0,One year,No,0
+1829,55,119.41,9,Month-to-month,No,1
+1830,62,119.41,0,Two year,No,0
+1831,30,119.41,0,Two year,Yes,0
+1832,55,119.41,5,Month-to-month,No,0
+1833,16,119.41,1,Two year,No,0
+1834,12,119.41,0,One year,No,0
+1835,17,119.41,5,Two year,No,0
+1836,16,119.41,1,One year,No,0
+1837,12,119.41,5,Month-to-month,No,0
+1838,8,119.41,9,Two year,No,1
+1839,3,119.41,7,Month-to-month,No,1
+1840,16,119.41,1,Month-to-month,No,0
+1841,30,119.41,8,Month-to-month,Yes,1
+1842,23,119.41,7,Month-to-month,No,1
+1843,5,119.41,9,One year,No,1
+1844,65,119.41,0,One year,No,0
+1845,30,119.41,6,Two year,No,1
+1846,21,119.41,9,Month-to-month,No,1
+1847,70,119.41,5,Two year,Yes,0
+1848,22,119.41,5,Two year,Yes,0
+1849,32,119.41,5,Month-to-month,No,0
+1850,33,119.41,5,Month-to-month,No,0
+1851,16,119.41,9,Two year,No,0
+1852,38,119.41,6,One year,No,1
+1853,14,119.41,2,One year,No,0
+1854,36,119.41,5,One year,No,0
+1855,23,119.41,2,Month-to-month,Yes,0
+1856,66,119.41,6,Month-to-month,No,1
+1857,2,119.41,6,One year,No,1
+1858,65,119.41,7,Month-to-month,Yes,1
+1859,67,119.41,1,One year,No,0
+1860,52,119.41,8,Two year,Yes,1
+1861,62,119.41,4,One year,Yes,0
+1862,23,119.41,8,Two year,No,0
+1863,26,119.41,9,Month-to-month,No,1
+1864,68,119.41,4,One year,No,0
+1865,55,119.41,6,One year,No,1
+1866,6,119.41,8,Two year,Yes,1
+1867,35,119.41,3,One year,No,0
+1868,22,119.41,1,Month-to-month,No,0
+1869,43,119.41,8,Two year,No,0
+1870,15,119.41,1,One year,No,0
+1871,60,119.41,2,Month-to-month,No,0
+1872,12,119.41,9,One year,No,1
+1873,49,119.41,1,Two year,No,0
+1874,42,119.41,2,One year,No,0
+1875,38,119.41,5,Month-to-month,No,0
+1876,45,119.41,2,Two year,Yes,0
+1877,35,119.41,9,One year,No,1
+1878,30,119.41,7,One year,Yes,0
+1879,30,119.41,5,Month-to-month,No,0
+1880,6,119.41,6,Month-to-month,No,1
+1881,67,119.41,0,One year,No,0
+1882,7,119.41,2,Two year,No,0
+1883,52,119.41,2,Month-to-month,No,0
+1884,14,119.41,1,Month-to-month,No,0
+1885,15,119.41,6,Month-to-month,No,1
+1886,21,119.41,8,One year,Yes,1
+1887,35,119.41,3,Month-to-month,No,0
+1888,66,119.41,4,Month-to-month,No,0
+1889,2,119.41,2,Month-to-month,No,1
+1890,35,119.41,8,One year,No,1
+1891,20,119.41,3,Month-to-month,No,0
+1892,10,119.41,4,Month-to-month,No,1
+1893,25,119.41,0,Two year,Yes,0
+1894,66,119.41,1,Month-to-month,No,0
+1895,25,119.41,8,Month-to-month,Yes,1
+1896,54,119.41,1,Two year,Yes,0
+1897,33,119.41,4,Month-to-month,No,0
+1898,36,119.41,7,One year,Yes,1
+1899,14,119.41,2,Month-to-month,No,0
+1900,65,119.41,5,One year,No,0
+1901,54,119.41,3,Month-to-month,No,0
+1902,52,119.41,6,Two year,No,0
+1903,3,119.41,9,Month-to-month,No,1
+1904,41,119.41,2,Month-to-month,Yes,0
+1905,6,119.41,5,One year,No,0
+1906,25,119.41,9,Two year,No,0
+1907,13,119.41,8,Month-to-month,Yes,1
+1908,8,119.41,9,Two year,No,1
+1909,21,119.41,0,Month-to-month,No,0
+1910,68,119.41,2,One year,Yes,0
+1911,25,119.41,1,Month-to-month,No,0
+1912,68,119.41,7,One year,No,1
+1913,45,119.41,6,Month-to-month,Yes,1
+1914,60,119.41,1,Month-to-month,No,0
+1915,12,119.41,5,Month-to-month,No,0
+1916,32,119.41,2,Month-to-month,No,0
+1917,13,119.41,7,Two year,No,0
+1918,31,119.41,9,Two year,Yes,1
+1919,20,119.41,2,One year,No,0
+1920,18,119.41,9,Month-to-month,No,1
+1921,60,119.41,8,Month-to-month,No,1
+1922,63,119.41,0,One year,No,0
+1923,6,119.41,4,Two year,Yes,0
+1924,32,119.41,2,Month-to-month,Yes,0
+1925,43,119.41,5,Two year,Yes,0
+1926,2,119.41,9,Two year,No,1
+1927,60,119.41,1,Two year,Yes,0
+1928,23,119.41,8,Month-to-month,Yes,1
+1929,31,119.41,5,Month-to-month,No,0
+1930,5,119.41,6,Month-to-month,No,1
+1931,34,119.41,4,One year,No,0
+1932,10,119.41,8,Month-to-month,Yes,1
+1933,2,119.41,0,Month-to-month,No,1
+1934,11,119.41,4,One year,Yes,0
+1935,50,119.41,9,Month-to-month,No,1
+1936,31,119.41,5,Month-to-month,No,0
+1937,56,119.41,6,One year,No,1
+1938,9,119.41,3,One year,Yes,0
+1939,21,119.41,0,One year,No,0
+1940,28,119.41,7,Month-to-month,No,1
+1941,62,119.41,9,One year,No,0
+1942,7,119.41,3,One year,No,0
+1943,16,119.41,2,Month-to-month,No,0
+1944,4,119.41,6,One year,No,1
+1945,4,119.41,1,Month-to-month,No,1
+1946,40,119.41,7,Month-to-month,No,1
+1947,17,119.41,5,Month-to-month,Yes,0
+1948,52,119.41,6,Month-to-month,No,1
+1949,52,119.41,4,Month-to-month,Yes,0
+1950,36,119.41,8,Two year,No,0
+1951,38,119.41,4,Month-to-month,Yes,0
+1952,50,119.41,4,Two year,No,0
+1953,63,119.41,2,One year,No,0
+1954,63,119.41,0,Month-to-month,Yes,0
+1955,62,119.41,1,Month-to-month,No,0
+1956,7,119.41,7,One year,No,1
+1957,27,119.41,0,One year,No,0
+1958,14,119.41,6,Month-to-month,No,1
+1959,71,119.41,4,Month-to-month,No,0
+1960,5,119.41,2,One year,Yes,0
+1961,55,119.41,6,Month-to-month,No,1
+1962,2,119.41,8,Two year,No,1
+1963,62,119.41,1,One year,No,0
+1964,21,119.41,7,Month-to-month,No,1
+1965,21,119.41,8,Month-to-month,No,1
+1966,10,119.41,2,Month-to-month,No,1
+1967,58,119.41,1,Two year,No,0
+1968,39,119.41,6,Month-to-month,No,1
+1969,5,119.41,4,Month-to-month,Yes,1
+1970,65,119.41,4,One year,No,0
+1971,13,119.41,9,Month-to-month,No,1
+1972,53,119.41,4,Month-to-month,No,0
+1973,45,119.41,3,Two year,No,0
+1974,32,119.41,4,Month-to-month,Yes,0
+1975,36,119.41,3,Two year,No,0
+1976,60,119.41,5,Two year,Yes,0
+1977,11,119.41,3,Month-to-month,Yes,1
+1978,63,119.41,1,Month-to-month,No,0
+1979,21,119.41,8,Month-to-month,No,1
+1980,52,119.41,1,One year,No,0
+1981,55,119.41,8,Month-to-month,Yes,1
+1982,26,119.41,9,Two year,Yes,1
+1983,68,119.41,5,One year,No,0
+1984,34,119.41,8,Month-to-month,No,1
+1985,52,119.41,8,One year,No,1
+1986,52,119.41,2,Month-to-month,Yes,0
+1987,29,119.41,0,Two year,No,0
+1988,38,119.41,0,One year,No,0
+1989,42,119.41,2,Month-to-month,Yes,0
+1990,21,119.41,4,Month-to-month,No,0
+1991,42,119.41,2,Two year,No,0
+1992,13,119.41,8,One year,Yes,1
+1993,64,119.41,8,Two year,Yes,0
+1994,17,119.41,2,Month-to-month,No,0
+1995,9,119.41,2,Month-to-month,Yes,1
+1996,41,119.41,4,Month-to-month,Yes,0
+1997,1,119.41,1,One year,No,0
+1998,2,119.41,5,Month-to-month,Yes,1
+1999,60,119.41,6,Month-to-month,No,1
+2000,48,119.41,8,One year,Yes,0
+2001,29,119.41,5,One year,No,0
+2002,10,119.41,2,Month-to-month,No,1
+2003,58,119.41,4,Month-to-month,No,0
+2004,60,119.41,3,One year,No,0
+2005,21,119.41,4,Month-to-month,Yes,0
+2006,28,119.41,7,Month-to-month,No,1
+2007,34,119.41,7,Month-to-month,Yes,1
+2008,8,119.41,5,One year,Yes,0
+2009,59,119.41,0,Two year,No,0
+2010,49,119.41,7,Month-to-month,No,1
+2011,17,119.41,7,Month-to-month,No,1
+2012,60,119.41,1,Two year,Yes,0
+2013,45,119.41,3,Two year,No,0
+2014,69,119.41,1,One year,Yes,0
+2015,32,119.41,3,Two year,No,0
+2016,44,119.41,9,One year,No,1
+2017,65,119.41,6,One year,No,0
+2018,8,119.41,8,Month-to-month,No,1
+2019,43,119.41,7,Month-to-month,No,1
+2020,1,119.41,8,Month-to-month,No,1
+2021,51,119.41,7,Two year,No,1
+2022,24,119.41,1,Two year,No,0
+2023,24,119.41,6,One year,No,0
+2024,17,119.41,1,Month-to-month,No,0
+2025,5,119.41,1,Month-to-month,No,1
+2026,20,119.41,3,Month-to-month,Yes,0
+2027,21,119.41,0,Month-to-month,No,0
+2028,58,119.41,4,One year,No,0
+2029,31,119.41,5,Two year,No,0
+2030,11,119.41,8,Month-to-month,Yes,1
+2031,52,119.41,9,Month-to-month,Yes,1
+2032,15,119.41,7,One year,No,1
+2033,7,119.41,1,Month-to-month,No,1
+2034,28,119.41,0,Two year,No,0
+2035,51,119.41,1,Month-to-month,Yes,0
+2036,58,119.41,6,Month-to-month,No,1
+2037,5,119.41,3,Month-to-month,Yes,1
+2038,5,119.41,9,Month-to-month,Yes,1
+2039,8,119.41,4,One year,Yes,0
+2040,64,119.41,6,Month-to-month,No,1
+2041,10,119.41,2,Month-to-month,No,1
+2042,38,119.41,9,Month-to-month,No,1
+2043,8,119.41,1,Month-to-month,No,1
+2044,25,119.41,6,Month-to-month,No,1
+2045,66,119.41,4,One year,No,0
+2046,50,119.41,0,One year,No,0
+2047,67,119.41,0,Two year,No,0
+2048,49,119.41,8,Month-to-month,No,1
+2049,36,119.41,4,Month-to-month,No,0
+2050,68,119.41,0,Month-to-month,No,0
+2051,41,119.41,6,Month-to-month,No,1
+2052,62,119.41,8,One year,No,1
+2053,10,119.41,0,Two year,Yes,0
+2054,21,119.41,9,One year,No,0
+2055,36,119.41,3,Month-to-month,No,0
+2056,12,119.41,2,Month-to-month,Yes,0
+2057,2,119.41,4,Two year,No,0
+2058,13,119.41,6,Month-to-month,No,1
+2059,53,119.41,7,Month-to-month,No,1
+2060,32,119.41,1,Two year,No,0
+2061,16,119.41,6,One year,No,0
+2062,32,119.41,0,One year,Yes,0
+2063,32,119.41,6,Month-to-month,No,1
+2064,11,119.41,7,Month-to-month,Yes,1
+2065,10,119.41,1,Month-to-month,Yes,1
+2066,15,119.41,8,One year,Yes,0
+2067,17,119.41,0,Month-to-month,Yes,0
+2068,40,119.41,5,Two year,No,0
+2069,18,119.41,0,Two year,No,0
+2070,55,119.41,2,One year,No,0
+2071,25,119.41,5,Month-to-month,No,0
+2072,59,119.41,2,Month-to-month,No,0
+2073,22,119.41,7,One year,No,1
+2074,30,119.41,4,One year,No,0
+2075,44,119.41,1,One year,No,0
+2076,32,119.41,3,Month-to-month,No,0
+2077,51,119.41,8,One year,Yes,0
+2078,46,119.41,3,One year,No,0
+2079,21,119.41,9,Month-to-month,No,1
+2080,32,119.41,9,One year,No,1
+2081,39,119.41,7,One year,No,1
+2082,12,119.41,4,Month-to-month,Yes,0
+2083,47,119.41,9,Month-to-month,Yes,1
+2084,18,119.41,0,One year,No,0
+2085,21,119.41,6,Month-to-month,No,1
+2086,13,119.41,2,One year,No,0
+2087,21,119.41,9,One year,No,0
+2088,8,119.41,7,Two year,Yes,1
+2089,46,119.41,2,One year,No,0
+2090,7,119.41,0,Month-to-month,No,1
+2091,23,119.41,4,Month-to-month,No,0
+2092,22,119.41,1,Two year,Yes,0
+2093,22,119.41,3,Month-to-month,No,0
+2094,29,119.41,0,One year,No,0
+2095,13,119.41,8,One year,Yes,1
+2096,2,119.41,5,Month-to-month,No,1
+2097,29,119.41,7,Month-to-month,No,1
+2098,52,119.41,3,One year,Yes,0
+2099,27,119.41,8,Two year,No,1
+2100,50,119.41,1,Month-to-month,Yes,0
+2101,23,119.41,8,Two year,No,1
+2102,44,119.41,4,One year,No,0
+2103,22,119.41,5,Two year,No,0
+2104,43,119.41,2,Month-to-month,Yes,0
+2105,37,119.41,3,Month-to-month,No,0
+2106,61,119.41,5,Two year,No,0
+2107,56,119.41,6,Two year,Yes,1
+2108,3,119.41,0,Month-to-month,No,1
+2109,63,119.41,6,One year,Yes,1
+2110,19,119.41,0,Two year,No,0
+2111,23,119.41,4,Month-to-month,No,0
+2112,29,119.41,5,One year,No,0
+2113,30,119.41,1,Two year,No,0
+2114,39,119.41,9,Month-to-month,No,1
+2115,25,119.41,8,Month-to-month,Yes,1
+2116,8,119.41,9,One year,Yes,1
+2117,58,119.41,5,Month-to-month,Yes,0
+2118,16,119.41,6,Month-to-month,No,1
+2119,1,119.41,9,Two year,No,1
+2120,5,119.41,7,One year,No,1
+2121,3,119.41,9,Two year,Yes,1
+2122,65,119.41,0,Two year,No,0
+2123,4,119.41,7,Month-to-month,No,1
+2124,64,119.41,3,Month-to-month,No,0
+2125,10,119.41,9,Month-to-month,No,1
+2126,21,119.41,7,Month-to-month,No,1
+2127,46,119.41,5,One year,No,0
+2128,27,119.41,8,One year,No,0
+2129,66,119.41,3,Month-to-month,No,0
+2130,41,119.41,1,Month-to-month,Yes,0
+2131,13,119.41,1,Month-to-month,Yes,0
+2132,9,119.41,4,One year,No,0
+2133,36,119.41,9,Month-to-month,No,1
+2134,58,119.41,8,Month-to-month,No,1
+2135,54,119.41,2,One year,No,0
+2136,12,119.41,7,Month-to-month,No,1
+2137,14,119.41,3,Month-to-month,No,0
+2138,34,119.41,5,One year,Yes,0
+2139,53,119.41,9,Month-to-month,No,1
+2140,20,119.41,5,One year,No,0
+2141,16,119.41,2,Month-to-month,Yes,0
+2142,70,119.41,4,Month-to-month,No,0
+2143,56,119.41,2,Month-to-month,No,0
+2144,58,119.41,0,Two year,Yes,0
+2145,4,119.41,6,One year,No,1
+2146,4,119.41,3,Two year,No,0
+2147,20,119.41,6,One year,Yes,0
+2148,10,119.41,2,One year,Yes,0
+2149,24,119.41,4,Month-to-month,No,0
+2150,26,119.41,4,Month-to-month,No,0
+2151,37,119.41,1,Month-to-month,No,0
+2152,54,119.41,9,Month-to-month,Yes,1
+2153,21,119.41,1,Month-to-month,No,0
+2154,38,119.41,3,Month-to-month,No,0
+2155,46,119.41,3,Month-to-month,No,0
+2156,4,119.41,3,Month-to-month,No,1
+2157,60,119.41,5,Month-to-month,Yes,0
+2158,57,119.41,1,One year,No,0
+2159,45,119.41,5,Two year,Yes,0
+2160,20,119.41,6,Month-to-month,No,1
+2161,17,119.41,9,Month-to-month,Yes,1
+2162,71,119.41,2,Month-to-month,No,0
+2163,4,119.41,7,Two year,No,1
+2164,14,119.41,1,Month-to-month,No,0
+2165,3,119.41,7,One year,No,1
+2166,58,119.41,4,Month-to-month,No,0
+2167,55,119.41,1,Month-to-month,No,0
+2168,4,119.41,6,Month-to-month,No,1
+2169,24,119.41,1,Month-to-month,Yes,0
+2170,34,119.41,5,Two year,Yes,0
+2171,30,119.41,9,Month-to-month,No,1
+2172,19,119.41,2,One year,Yes,0
+2173,31,119.41,8,One year,No,1
+2174,60,119.41,2,One year,Yes,0
+2175,60,119.41,2,Month-to-month,No,0
+2176,19,119.41,4,Month-to-month,No,0
+2177,49,119.41,6,Month-to-month,Yes,1
+2178,63,119.41,7,Month-to-month,Yes,1
+2179,22,119.41,6,One year,No,0
+2180,24,119.41,8,Month-to-month,No,1
+2181,30,119.41,4,One year,No,0
+2182,58,119.41,9,Month-to-month,No,1
+2183,31,119.41,2,Two year,Yes,0
+2184,64,119.41,5,Month-to-month,Yes,0
+2185,19,119.41,4,Month-to-month,Yes,0
+2186,48,119.41,3,Two year,No,0
+2187,45,119.41,1,Month-to-month,No,0
+2188,55,119.41,6,Two year,Yes,0
+2189,55,119.41,4,Month-to-month,No,0
+2190,18,119.41,3,Month-to-month,No,0
+2191,63,119.41,7,One year,No,1
+2192,47,119.41,8,Two year,No,0
+2193,57,119.41,8,Month-to-month,No,1
+2194,45,119.41,2,Two year,No,0
+2195,33,119.41,2,One year,No,0
+2196,17,119.41,4,Two year,No,0
+2197,70,119.41,4,Month-to-month,No,0
+2198,4,119.41,9,Month-to-month,No,1
+2199,20,119.41,1,Two year,No,0
+2200,47,119.41,0,Two year,No,0
+2201,15,119.41,7,Month-to-month,No,1
+2202,70,119.41,2,Month-to-month,Yes,0
+2203,47,119.41,0,Month-to-month,No,0
+2204,9,119.41,0,One year,No,0
+2205,16,119.41,1,Month-to-month,No,0
+2206,69,119.41,5,Month-to-month,No,0
+2207,61,119.41,5,Month-to-month,No,0
+2208,10,119.41,2,One year,No,0
+2209,50,119.41,3,Month-to-month,No,0
+2210,3,119.41,1,Month-to-month,No,1
+2211,70,119.41,1,One year,No,0
+2212,51,119.41,6,One year,No,0
+2213,19,119.41,0,Month-to-month,Yes,0
+2214,42,119.41,6,Month-to-month,No,1
+2215,35,119.41,0,One year,Yes,0
+2216,46,119.41,5,Two year,No,0
+2217,26,119.41,2,One year,Yes,0
+2218,69,119.41,7,Two year,No,0
+2219,64,119.41,5,One year,Yes,0
+2220,37,119.41,1,One year,No,0
+2221,49,119.41,7,Month-to-month,No,1
+2222,21,119.41,4,Month-to-month,Yes,0
+2223,64,119.41,7,Month-to-month,No,1
+2224,5,119.41,7,Month-to-month,Yes,1
+2225,70,119.41,5,One year,No,0
+2226,4,119.41,1,Month-to-month,No,1
+2227,39,119.41,7,One year,No,0
+2228,35,119.41,5,Month-to-month,No,0
+2229,1,119.41,5,Month-to-month,No,1
+2230,24,119.41,7,Two year,Yes,1
+2231,57,119.41,0,Month-to-month,No,0
+2232,70,119.41,1,Month-to-month,Yes,0
+2233,41,119.41,8,Month-to-month,No,1
+2234,54,119.41,7,Two year,No,1
+2235,46,119.41,6,Month-to-month,Yes,1
+2236,60,119.41,6,One year,Yes,0
+2237,60,119.41,4,Month-to-month,Yes,0
+2238,57,119.41,1,One year,No,0
+2239,31,119.41,5,Month-to-month,No,0
+2240,24,119.41,9,One year,No,1
+2241,36,119.41,2,Two year,No,0
+2242,30,119.41,3,One year,Yes,0
+2243,24,119.41,9,One year,No,0
+2244,30,119.41,1,One year,No,0
+2245,7,119.41,1,One year,No,0
+2246,35,119.41,7,Month-to-month,No,1
+2247,55,119.41,7,One year,No,1
+2248,14,119.41,9,Month-to-month,Yes,1
+2249,10,119.41,5,Month-to-month,No,1
+2250,16,119.41,4,Month-to-month,No,0
+2251,54,119.41,7,Month-to-month,No,1
+2252,70,119.41,3,Month-to-month,No,0
+2253,44,119.41,3,One year,No,0
+2254,45,119.41,4,Month-to-month,No,0
+2255,56,119.41,0,Month-to-month,No,0
+2256,57,119.41,0,One year,No,0
+2257,21,119.41,1,Month-to-month,No,0
+2258,68,119.41,7,One year,No,0
+2259,50,119.41,6,One year,Yes,0
+2260,33,119.41,9,Two year,No,0
+2261,7,119.41,8,One year,Yes,1
+2262,70,119.41,4,Month-to-month,Yes,0
+2263,15,119.41,1,Month-to-month,No,0
+2264,32,119.41,6,Month-to-month,Yes,1
+2265,20,119.41,7,Two year,No,1
+2266,15,119.41,6,Month-to-month,No,1
+2267,48,119.41,6,Month-to-month,No,1
+2268,71,119.41,4,Month-to-month,Yes,0
+2269,21,119.41,1,Two year,Yes,0
+2270,42,119.41,5,Month-to-month,No,0
+2271,26,119.41,3,Two year,No,0
+2272,14,119.41,9,Month-to-month,No,1
+2273,57,119.41,1,Month-to-month,Yes,0
+2274,37,119.41,8,Month-to-month,No,1
+2275,58,119.41,6,Two year,Yes,1
+2276,21,119.41,5,Two year,No,0
+2277,69,119.41,4,Month-to-month,No,0
+2278,3,119.41,2,Month-to-month,Yes,1
+2279,37,119.41,9,One year,No,1
+2280,49,119.41,9,Month-to-month,Yes,1
+2281,19,119.41,3,Month-to-month,No,0
+2282,12,119.41,2,Month-to-month,No,0
+2283,61,119.41,7,Month-to-month,Yes,1
+2284,41,119.41,2,Month-to-month,No,0
+2285,33,119.41,6,Month-to-month,No,1
+2286,50,119.41,6,Month-to-month,No,1
+2287,68,119.41,6,Two year,Yes,0
+2288,71,119.41,6,Month-to-month,No,1
+2289,33,119.41,1,One year,Yes,0
+2290,24,119.41,9,Month-to-month,No,1
+2291,61,119.41,2,One year,No,0
+2292,61,119.41,9,Month-to-month,Yes,1
+2293,28,119.41,8,One year,Yes,0
+2294,58,119.41,2,Month-to-month,No,0
+2295,43,119.41,1,Two year,No,0
+2296,41,119.41,8,Month-to-month,No,1
+2297,39,119.41,9,Month-to-month,Yes,1
+2298,49,119.41,8,Two year,No,0
+2299,17,119.41,3,One year,Yes,0
+2300,70,119.41,8,Month-to-month,No,1
+2301,70,119.41,2,Two year,No,0
+2302,65,119.41,6,Month-to-month,No,1
+2303,5,119.41,6,Month-to-month,Yes,1
+2304,2,119.41,7,Two year,No,1
+2305,22,119.41,9,Month-to-month,No,1
+2306,57,119.41,3,Two year,No,0
+2307,66,119.41,2,Month-to-month,Yes,0
+2308,16,119.41,2,One year,No,0
+2309,51,119.41,4,One year,No,0
+2310,39,119.41,0,Two year,Yes,0
+2311,40,119.41,9,One year,No,1
+2312,38,119.41,2,Month-to-month,Yes,0
+2313,60,119.41,5,One year,No,0
+2314,59,119.41,2,Month-to-month,No,0
+2315,10,119.41,4,One year,No,0
+2316,64,119.41,8,Two year,No,1
+2317,63,119.41,1,Month-to-month,No,0
+2318,49,119.41,1,One year,Yes,0
+2319,64,119.41,5,Month-to-month,No,0
+2320,32,119.41,5,Month-to-month,No,0
+2321,7,119.41,7,Month-to-month,No,1
+2322,21,119.41,1,One year,Yes,0
+2323,20,119.41,8,Month-to-month,No,1
+2324,26,119.41,1,One year,No,0
+2325,68,119.41,0,Month-to-month,No,0
+2326,15,119.41,9,One year,No,1
+2327,14,119.41,1,Month-to-month,Yes,0
+2328,27,119.41,6,Two year,No,1
+2329,40,119.41,7,Month-to-month,No,1
+2330,58,119.41,4,One year,Yes,0
+2331,28,119.41,5,Month-to-month,Yes,0
+2332,26,119.41,0,One year,No,0
+2333,63,119.41,5,Month-to-month,No,0
+2334,66,119.41,7,One year,No,1
+2335,25,119.41,2,Month-to-month,No,0
+2336,3,119.41,0,One year,Yes,0
+2337,44,119.41,3,Month-to-month,No,0
+2338,42,119.41,0,Month-to-month,No,0
+2339,6,119.41,7,Month-to-month,No,1
+2340,39,119.41,4,Month-to-month,No,0
+2341,52,119.41,0,Month-to-month,No,0
+2342,23,119.41,7,Two year,No,1
+2343,50,119.41,8,Two year,No,0
+2344,43,119.41,9,One year,No,0
+2345,19,119.41,1,Month-to-month,No,0
+2346,69,119.41,8,Month-to-month,No,1
+2347,51,119.41,7,One year,No,1
+2348,11,119.41,6,Month-to-month,No,1
+2349,12,119.41,2,Two year,No,0
+2350,8,119.41,1,Month-to-month,No,1
+2351,24,119.41,6,Two year,Yes,1
+2352,41,119.41,4,Month-to-month,No,0
+2353,36,119.41,5,One year,Yes,0
+2354,55,119.41,3,Month-to-month,No,0
+2355,9,119.41,1,Two year,No,0
+2356,47,119.41,8,Month-to-month,No,1
+2357,15,119.41,2,One year,Yes,0
+2358,48,119.41,6,Two year,Yes,0
+2359,42,119.41,7,Month-to-month,No,1
+2360,60,119.41,1,Month-to-month,No,0
+2361,70,119.41,5,Month-to-month,No,0
+2362,12,119.41,7,Month-to-month,Yes,1
+2363,2,119.41,6,Month-to-month,No,1
+2364,7,119.41,2,Month-to-month,No,1
+2365,3,119.41,0,Month-to-month,No,1
+2366,3,119.41,5,One year,No,0
+2367,27,119.41,7,One year,No,0
+2368,40,119.41,5,Month-to-month,No,0
+2369,33,119.41,4,Two year,No,0
+2370,1,119.41,7,Two year,Yes,1
+2371,8,119.41,1,One year,No,0
+2372,32,119.41,0,Month-to-month,No,0
+2373,48,119.41,0,Month-to-month,Yes,0
+2374,4,119.41,3,One year,No,0
+2375,70,119.41,5,One year,No,0
+2376,19,119.41,8,Month-to-month,Yes,1
+2377,32,119.41,0,One year,No,0
+2378,9,119.41,0,Month-to-month,No,1
+2379,12,119.41,4,Month-to-month,No,0
+2380,11,119.41,9,One year,Yes,1
+2381,46,119.41,4,One year,No,0
+2382,16,119.41,4,Month-to-month,No,0
+2383,1,119.41,9,One year,No,1
+2384,63,119.41,5,Two year,Yes,0
+2385,21,119.41,7,One year,No,1
+2386,30,119.41,2,One year,Yes,0
+2387,13,119.41,8,Month-to-month,No,1
+2388,34,119.41,0,Month-to-month,No,0
+2389,4,119.41,3,Month-to-month,Yes,1
+2390,28,119.41,8,One year,No,1
+2391,59,119.41,7,One year,No,0
+2392,27,119.41,9,Month-to-month,No,1
+2393,69,119.41,8,Month-to-month,No,1
+2394,25,119.41,0,Month-to-month,No,0
+2395,3,119.41,8,Month-to-month,No,1
+2396,68,119.41,2,Two year,No,0
+2397,25,119.41,9,One year,No,1
+2398,20,119.41,8,Month-to-month,No,1
+2399,34,119.41,0,One year,No,0
+2400,26,119.41,0,One year,Yes,0
+2401,5,119.41,8,One year,Yes,1
+2402,61,119.41,5,Month-to-month,No,0
+2403,9,119.41,3,Month-to-month,No,1
+2404,50,119.41,6,Month-to-month,No,1
+2405,6,119.41,4,Two year,Yes,0
+2406,60,119.41,9,One year,No,0
+2407,44,119.41,6,One year,No,1
+2408,11,119.41,7,Month-to-month,No,1
+2409,66,119.41,7,Month-to-month,No,1
+2410,47,119.41,0,Month-to-month,Yes,0
+2411,3,119.41,7,Two year,Yes,1
+2412,30,119.41,5,Month-to-month,No,0
+2413,21,119.41,3,Month-to-month,No,0
+2414,28,119.41,7,Two year,Yes,0
+2415,62,119.41,2,One year,No,0
+2416,33,119.41,3,One year,No,0
+2417,35,119.41,5,Month-to-month,No,0
+2418,52,119.41,6,One year,No,0
+2419,34,119.41,3,Month-to-month,No,0
+2420,41,119.41,3,One year,No,0
+2421,51,119.41,6,Month-to-month,Yes,1
+2422,47,119.41,5,Month-to-month,Yes,0
+2423,58,119.41,7,One year,No,1
+2424,57,119.41,0,One year,No,0
+2425,23,119.41,9,One year,No,1
+2426,48,119.41,6,Month-to-month,Yes,1
+2427,22,119.41,6,Month-to-month,Yes,1
+2428,17,119.41,6,One year,Yes,0
+2429,69,119.41,6,One year,Yes,0
+2430,11,119.41,9,Two year,No,1
+2431,15,119.41,9,One year,No,1
+2432,35,119.41,7,Month-to-month,No,1
+2433,33,119.41,8,Two year,No,0
+2434,16,119.41,8,Month-to-month,Yes,1
+2435,34,119.41,1,Month-to-month,No,0
+2436,66,119.41,6,Month-to-month,Yes,1
+2437,40,119.41,6,Month-to-month,Yes,1
+2438,28,119.41,3,One year,Yes,0
+2439,47,119.41,8,One year,No,0
+2440,39,119.41,7,One year,No,1
+2441,70,119.41,0,Month-to-month,No,0
+2442,20,119.41,1,Month-to-month,No,0
+2443,1,119.41,1,Month-to-month,No,1
+2444,63,119.41,7,One year,No,1
+2445,67,119.41,0,Month-to-month,Yes,0
+2446,4,119.41,3,Two year,Yes,0
+2447,58,119.41,9,Month-to-month,No,1
+2448,25,119.41,4,Month-to-month,No,0
+2449,47,119.41,8,One year,Yes,0
+2450,38,119.41,6,Two year,Yes,1
+2451,15,119.41,7,Month-to-month,No,1
+2452,63,119.41,8,One year,No,0
+2453,21,119.41,6,Two year,No,0
+2454,57,119.41,4,Two year,Yes,0
+2455,53,119.41,4,One year,No,0
+2456,46,119.41,9,One year,No,1
+2457,14,119.41,5,Month-to-month,No,0
+2458,17,119.41,4,Two year,No,0
+2459,39,119.41,8,Month-to-month,No,1
+2460,9,119.41,2,Two year,No,0
+2461,6,119.41,2,Month-to-month,No,1
+2462,23,119.41,6,Month-to-month,No,1
+2463,59,119.41,6,One year,No,0
+2464,46,119.41,5,Month-to-month,Yes,0
+2465,38,119.41,2,Month-to-month,Yes,0
+2466,14,119.41,6,One year,No,0
+2467,62,119.41,4,One year,No,0
+2468,35,119.41,6,One year,No,0
+2469,19,119.41,1,Month-to-month,Yes,0
+2470,30,119.41,5,One year,Yes,0
+2471,25,119.41,7,Month-to-month,No,1
+2472,40,119.41,0,Month-to-month,No,0
+2473,14,119.41,3,One year,No,0
+2474,26,119.41,0,Two year,No,0
+2475,22,119.41,0,Month-to-month,No,0
+2476,48,119.41,9,One year,No,0
+2477,51,119.41,7,Month-to-month,No,1
+2478,3,119.41,6,Month-to-month,Yes,1
+2479,42,119.41,9,Month-to-month,No,1
+2480,19,119.41,0,Two year,No,0
+2481,28,119.41,1,Two year,Yes,0
+2482,45,119.41,3,One year,No,0
+2483,71,119.41,0,One year,No,0
+2484,63,119.41,2,One year,No,0
+2485,19,119.41,7,Month-to-month,No,1
+2486,47,119.41,7,Month-to-month,Yes,1
+2487,14,119.41,7,Month-to-month,Yes,1
+2488,38,119.41,5,One year,No,0
+2489,53,119.41,5,Two year,Yes,0
+2490,61,119.41,4,Month-to-month,Yes,0
+2491,36,119.41,8,Month-to-month,No,1
+2492,40,119.41,3,Month-to-month,No,0
+2493,30,119.41,9,Two year,Yes,1
+2494,9,119.41,6,Month-to-month,No,1
+2495,64,119.41,0,Month-to-month,No,0
+2496,33,119.41,8,One year,No,1
+2497,52,119.41,6,One year,Yes,1
+2498,14,119.41,9,Month-to-month,No,1
+2499,53,119.41,8,Month-to-month,Yes,1
+2500,59,119.41,6,One year,No,1
+2501,41,119.41,1,Month-to-month,No,0
+2502,68,119.41,5,Two year,Yes,0
+2503,68,119.41,9,One year,Yes,0
+2504,8,119.41,3,Month-to-month,No,1
+2505,2,119.41,2,Month-to-month,No,1
+2506,41,119.41,1,Month-to-month,Yes,0
+2507,55,119.41,5,Month-to-month,Yes,0
+2508,16,119.41,7,Two year,No,0
+2509,62,119.41,5,Two year,Yes,0
+2510,48,119.41,8,Month-to-month,No,1
+2511,30,119.41,4,Month-to-month,Yes,0
+2512,12,119.41,1,Month-to-month,Yes,0
+2513,35,119.41,7,Month-to-month,No,1
+2514,11,119.41,8,One year,Yes,1
+2515,64,119.41,9,Month-to-month,Yes,1
+2516,50,119.41,3,Two year,Yes,0
+2517,21,119.41,5,Month-to-month,No,0
+2518,69,119.41,9,One year,No,0
+2519,48,119.41,7,Two year,No,0
+2520,20,119.41,8,Month-to-month,No,1
+2521,67,119.41,4,Month-to-month,No,0
+2522,44,119.41,5,Month-to-month,No,0
+2523,33,119.41,3,Month-to-month,No,0
+2524,61,119.41,4,Two year,Yes,0
+2525,9,119.41,6,Two year,Yes,1
+2526,68,119.41,8,Two year,Yes,0
+2527,35,119.41,9,Two year,Yes,1
+2528,65,119.41,5,Month-to-month,Yes,0
+2529,8,119.41,5,Two year,No,0
+2530,45,119.41,7,Two year,No,0
+2531,47,119.41,3,Month-to-month,Yes,0
+2532,40,119.41,2,Month-to-month,Yes,0
+2533,54,119.41,6,One year,Yes,0
+2534,46,119.41,4,Month-to-month,Yes,0
+2535,47,119.41,1,Month-to-month,Yes,0
+2536,15,119.41,1,Two year,No,0
+2537,19,119.41,5,Two year,Yes,0
+2538,26,119.41,7,Month-to-month,Yes,1
+2539,52,119.41,0,Month-to-month,Yes,0
+2540,22,119.41,5,Two year,No,0
+2541,21,119.41,1,One year,No,0
+2542,51,119.41,1,Month-to-month,No,0
+2543,38,119.41,6,One year,No,1
+2544,20,119.41,9,Two year,Yes,0
+2545,29,119.41,0,Two year,Yes,0
+2546,51,119.41,5,Month-to-month,No,0
+2547,4,119.41,6,Month-to-month,No,1
+2548,55,119.41,7,Two year,Yes,0
+2549,71,119.41,6,Month-to-month,No,1
+2550,28,119.41,5,One year,No,0
+2551,4,119.41,8,Month-to-month,Yes,1
+2552,22,119.41,2,Month-to-month,No,0
+2553,45,119.41,5,Month-to-month,No,0
+2554,67,119.41,3,Month-to-month,Yes,0
+2555,66,119.41,1,Two year,No,0
+2556,34,119.41,0,Month-to-month,No,0
+2557,55,119.41,0,Two year,Yes,0
+2558,1,119.41,9,Two year,No,1
+2559,38,119.41,2,Month-to-month,Yes,0
+2560,6,119.41,3,One year,No,0
+2561,25,119.41,1,Month-to-month,No,0
+2562,17,119.41,0,One year,No,0
+2563,61,119.41,3,One year,Yes,0
+2564,12,119.41,6,Month-to-month,No,1
+2565,6,119.41,9,Month-to-month,No,1
+2566,27,119.41,5,One year,No,0
+2567,8,119.41,5,Two year,No,0
+2568,65,119.41,8,Month-to-month,Yes,1
+2569,57,119.41,1,One year,No,0
+2570,40,119.41,3,Month-to-month,No,0
+2571,14,119.41,4,Two year,No,0
+2572,35,119.41,0,Month-to-month,Yes,0
+2573,48,119.41,7,One year,No,1
+2574,56,119.41,7,Month-to-month,No,1
+2575,49,119.41,5,One year,No,0
+2576,13,119.41,4,Two year,Yes,0
+2577,61,119.41,7,One year,No,0
+2578,49,119.41,2,One year,No,0
+2579,46,119.41,2,One year,No,0
+2580,62,119.41,1,Two year,No,0
+2581,8,119.41,4,One year,No,0
+2582,43,119.41,2,Two year,No,0
+2583,20,119.41,2,One year,Yes,0
+2584,39,119.41,5,One year,No,0
+2585,49,119.41,7,Month-to-month,No,1
+2586,64,119.41,1,One year,Yes,0
+2587,62,119.41,3,Month-to-month,Yes,0
+2588,54,119.41,6,Two year,Yes,0
+2589,9,119.41,0,One year,No,0
+2590,37,119.41,0,Two year,No,0
+2591,49,119.41,9,Month-to-month,No,1
+2592,41,119.41,6,Month-to-month,No,1
+2593,17,119.41,6,Two year,No,1
+2594,21,119.41,0,Month-to-month,Yes,0
+2595,51,119.41,0,Month-to-month,No,0
+2596,59,119.41,3,Two year,No,0
+2597,39,119.41,4,One year,Yes,0
+2598,55,119.41,4,Month-to-month,No,0
+2599,41,119.41,3,Two year,No,0
+2600,39,119.41,7,Month-to-month,Yes,1
+2601,13,119.41,6,Two year,No,1
+2602,64,119.41,8,Month-to-month,Yes,1
+2603,11,119.41,6,One year,No,1
+2604,19,119.41,9,Month-to-month,No,1
+2605,11,119.41,0,One year,Yes,0
+2606,46,119.41,6,Month-to-month,No,1
+2607,45,119.41,0,Two year,No,0
+2608,1,119.41,6,Month-to-month,No,1
+2609,40,119.41,9,Month-to-month,Yes,1
+2610,19,119.41,7,One year,Yes,0
+2611,61,119.41,8,Month-to-month,Yes,1
+2612,12,119.41,2,Month-to-month,No,0
+2613,61,119.41,3,Month-to-month,Yes,0
+2614,33,119.41,3,Month-to-month,No,0
+2615,45,119.41,8,Month-to-month,No,1
+2616,69,119.41,6,Month-to-month,No,1
+2617,8,119.41,2,Month-to-month,No,1
+2618,25,119.41,9,One year,No,0
+2619,46,119.41,4,One year,No,0
+2620,30,119.41,6,Month-to-month,No,1
+2621,47,119.41,7,Two year,Yes,1
+2622,49,119.41,0,Two year,Yes,0
+2623,47,119.41,1,Month-to-month,No,0
+2624,18,119.41,6,Month-to-month,Yes,1
+2625,66,119.41,1,Two year,No,0
+2626,68,119.41,6,Month-to-month,Yes,1
+2627,33,119.41,8,Month-to-month,Yes,1
+2628,36,119.41,1,Month-to-month,No,0
+2629,19,119.41,6,One year,Yes,1
+2630,28,119.41,3,Month-to-month,No,0
+2631,40,119.41,1,One year,No,0
+2632,15,119.41,6,One year,No,1
+2633,41,119.41,4,One year,No,0
+2634,39,119.41,0,Two year,No,0
+2635,2,119.41,4,Month-to-month,Yes,1
+2636,63,119.41,2,One year,No,0
+2637,29,119.41,6,Month-to-month,Yes,1
+2638,66,119.41,5,Month-to-month,Yes,0
+2639,51,119.41,7,Month-to-month,No,1
+2640,10,119.41,4,Month-to-month,No,1
+2641,14,119.41,1,Month-to-month,No,0
+2642,51,119.41,8,Month-to-month,No,1
+2643,39,119.41,7,Month-to-month,No,1
+2644,28,119.41,5,One year,No,0
+2645,3,119.41,9,Month-to-month,No,1
+2646,70,119.41,6,One year,No,1
+2647,27,119.41,8,Month-to-month,No,1
+2648,2,119.41,6,Month-to-month,No,1
+2649,38,119.41,2,Month-to-month,Yes,0
+2650,3,119.41,5,Month-to-month,No,1
+2651,16,119.41,6,One year,No,1
+2652,40,119.41,1,Month-to-month,Yes,0
+2653,2,119.41,2,Two year,Yes,0
+2654,41,119.41,3,Two year,No,0
+2655,12,119.41,9,Month-to-month,No,1
+2656,35,119.41,5,One year,No,0
+2657,65,119.41,0,Month-to-month,No,0
+2658,55,119.41,8,One year,No,0
+2659,45,119.41,4,One year,No,0
+2660,62,119.41,6,Month-to-month,No,1
+2661,49,119.41,8,Month-to-month,No,1
+2662,25,119.41,8,Month-to-month,Yes,1
+2663,23,119.41,0,Month-to-month,Yes,0
+2664,24,119.41,0,One year,No,0
+2665,38,119.41,2,Month-to-month,No,0
+2666,28,119.41,5,Month-to-month,Yes,0
+2667,21,119.41,1,Month-to-month,Yes,0
+2668,54,119.41,9,One year,No,0
+2669,18,119.41,0,Month-to-month,No,0
+2670,36,119.41,0,One year,No,0
+2671,45,119.41,4,One year,No,0
+2672,53,119.41,3,One year,No,0
+2673,30,119.41,0,One year,No,0
+2674,60,119.41,3,Month-to-month,No,0
+2675,32,119.41,2,Month-to-month,No,0
+2676,67,119.41,1,One year,No,0
+2677,67,119.41,8,Two year,No,1
+2678,28,119.41,0,One year,Yes,0
+2679,44,119.41,6,Month-to-month,Yes,1
+2680,41,119.41,3,Month-to-month,No,0
+2681,63,119.41,4,Two year,No,0
+2682,23,119.41,9,Month-to-month,No,1
+2683,48,119.41,4,Month-to-month,Yes,0
+2684,32,119.41,0,Month-to-month,No,0
+2685,57,119.41,5,Two year,Yes,0
+2686,33,119.41,8,Month-to-month,No,1
+2687,24,119.41,1,Month-to-month,No,0
+2688,39,119.41,6,One year,No,1
+2689,34,119.41,5,Month-to-month,No,0
+2690,56,119.41,4,Two year,No,0
+2691,28,119.41,3,One year,No,0
+2692,37,119.41,3,Month-to-month,No,0
+2693,7,119.41,5,Two year,Yes,0
+2694,68,119.41,3,Two year,No,0
+2695,37,119.41,4,Month-to-month,No,0
+2696,56,119.41,5,Month-to-month,No,0
+2697,65,119.41,4,Two year,No,0
+2698,65,119.41,6,Month-to-month,No,1
+2699,47,119.41,8,Two year,Yes,1
+2700,20,119.41,9,Two year,No,0
+2701,19,119.41,6,Month-to-month,No,1
+2702,29,119.41,6,Two year,No,1
+2703,60,119.41,3,Month-to-month,Yes,0
+2704,18,119.41,0,One year,No,0
+2705,35,119.41,7,Month-to-month,Yes,1
+2706,43,119.41,3,Two year,No,0
+2707,11,119.41,0,One year,No,0
+2708,49,119.41,4,One year,No,0
+2709,38,119.41,7,Two year,No,0
+2710,64,119.41,3,One year,Yes,0
+2711,69,119.41,7,Month-to-month,Yes,1
+2712,8,119.41,7,Two year,No,1
+2713,34,119.41,2,One year,Yes,0
+2714,48,119.41,8,Two year,No,0
+2715,56,119.41,2,Two year,No,0
+2716,65,119.41,0,Month-to-month,Yes,0
+2717,31,119.41,1,Month-to-month,No,0
+2718,4,119.41,5,Month-to-month,No,1
+2719,50,119.41,9,One year,Yes,1
+2720,69,119.41,1,Month-to-month,No,0
+2721,30,119.41,5,One year,No,0
+2722,59,119.41,0,Month-to-month,No,0
+2723,67,119.41,0,Month-to-month,No,0
+2724,45,119.41,4,Month-to-month,No,0
+2725,4,119.41,9,Month-to-month,Yes,1
+2726,26,119.41,8,One year,Yes,1
+2727,27,119.41,7,Month-to-month,No,1
+2728,46,119.41,2,Month-to-month,No,0
+2729,64,119.41,2,Month-to-month,Yes,0
+2730,51,119.41,0,One year,No,0
+2731,50,119.41,2,Two year,No,0
+2732,6,119.41,0,Month-to-month,Yes,1
+2733,59,119.41,7,One year,Yes,0
+2734,15,119.41,0,Month-to-month,No,0
+2735,30,119.41,4,Month-to-month,No,0
+2736,42,119.41,8,One year,Yes,1
+2737,37,119.41,6,Month-to-month,No,1
+2738,42,119.41,3,One year,Yes,0
+2739,35,119.41,8,Month-to-month,No,1
+2740,6,119.41,8,Two year,No,1
+2741,68,119.41,1,Month-to-month,No,0
+2742,18,119.41,9,One year,No,1
+2743,29,119.41,9,Two year,No,0
+2744,59,119.41,5,Month-to-month,Yes,0
+2745,47,119.41,3,Month-to-month,Yes,0
+2746,17,119.41,7,Month-to-month,No,1
+2747,22,119.41,6,One year,No,0
+2748,68,119.41,6,Month-to-month,Yes,1
+2749,69,119.41,9,Month-to-month,No,1
+2750,37,119.41,8,One year,No,1
+2751,49,119.41,4,Month-to-month,No,0
+2752,13,119.41,5,One year,No,0
+2753,34,119.41,0,Month-to-month,Yes,0
+2754,53,119.41,5,Month-to-month,Yes,0
+2755,51,119.41,1,One year,No,0
+2756,3,119.41,5,One year,No,0
+2757,42,119.41,8,Month-to-month,No,1
+2758,32,119.41,7,Month-to-month,No,1
+2759,51,119.41,8,Month-to-month,No,1
+2760,46,119.41,9,Month-to-month,Yes,1
+2761,21,119.41,7,Month-to-month,Yes,1
+2762,44,119.41,2,Month-to-month,No,0
+2763,11,119.41,7,One year,Yes,1
+2764,68,119.41,5,One year,No,0
+2765,1,119.41,5,Month-to-month,No,1
+2766,63,119.41,5,Month-to-month,No,0
+2767,24,119.41,2,Month-to-month,Yes,0
+2768,13,119.41,9,One year,Yes,0
+2769,11,119.41,0,Two year,No,0
+2770,51,119.41,3,One year,No,0
+2771,17,119.41,9,One year,No,1
+2772,24,119.41,5,Two year,Yes,0
+2773,19,119.41,9,Month-to-month,Yes,1
+2774,37,119.41,1,Month-to-month,No,0
+2775,8,119.41,6,One year,No,1
+2776,28,119.41,6,Month-to-month,No,1
+2777,5,119.41,3,One year,No,0
+2778,17,119.41,3,One year,No,0
+2779,36,119.41,0,One year,Yes,0
+2780,19,119.41,1,Month-to-month,No,0
+2781,64,119.41,8,One year,No,1
+2782,11,119.41,9,One year,No,1
+2783,54,119.41,7,Two year,Yes,0
+2784,45,119.41,7,One year,Yes,0
+2785,47,119.41,8,Two year,No,0
+2786,12,119.41,6,Month-to-month,Yes,1
+2787,21,119.41,8,Month-to-month,No,1
+2788,11,119.41,9,Month-to-month,Yes,1
+2789,5,119.41,1,Month-to-month,Yes,1
+2790,56,119.41,5,Two year,No,0
+2791,20,119.41,2,Two year,No,0
+2792,41,119.41,5,Month-to-month,No,0
+2793,46,119.41,2,Month-to-month,Yes,0
+2794,12,119.41,7,Month-to-month,No,1
+2795,70,119.41,3,Two year,Yes,0
+2796,17,119.41,9,Month-to-month,Yes,1
+2797,19,119.41,5,Month-to-month,No,0
+2798,26,119.41,8,Month-to-month,Yes,1
+2799,48,119.41,1,Month-to-month,No,0
+2800,52,119.41,1,Two year,No,0
+2801,70,119.41,6,Month-to-month,No,1
+2802,55,119.41,1,Month-to-month,No,0
+2803,33,119.41,1,Month-to-month,No,0
+2804,62,119.41,3,Month-to-month,Yes,0
+2805,23,119.41,8,One year,No,0
+2806,15,119.41,7,Month-to-month,No,1
+2807,27,119.41,1,Month-to-month,No,0
+2808,64,119.41,7,Two year,Yes,0
+2809,51,119.41,3,Month-to-month,No,0
+2810,53,119.41,1,One year,No,0
+2811,51,119.41,9,Month-to-month,No,1
+2812,47,119.41,6,Month-to-month,No,1
+2813,4,119.41,5,One year,No,0
+2814,7,119.41,9,Two year,No,1
+2815,35,119.41,4,One year,No,0
+2816,48,119.41,0,Month-to-month,Yes,0
+2817,45,119.41,1,Month-to-month,Yes,0
+2818,19,119.41,7,Month-to-month,No,1
+2819,63,119.41,0,One year,No,0
+2820,38,119.41,2,One year,No,0
+2821,67,119.41,1,Month-to-month,No,0
+2822,59,119.41,4,One year,No,0
+2823,69,119.41,3,One year,Yes,0
+2824,13,119.41,6,Month-to-month,No,1
+2825,47,119.41,4,One year,No,0
+2826,61,119.41,7,Month-to-month,No,1
+2827,31,119.41,3,Month-to-month,No,0
+2828,22,119.41,5,Two year,Yes,0
+2829,43,119.41,3,Month-to-month,No,0
+2830,67,119.41,1,Month-to-month,No,0
+2831,54,119.41,0,One year,No,0
+2832,10,119.41,0,Two year,No,0
+2833,42,119.41,7,Two year,No,1
+2834,64,119.41,3,One year,No,0
+2835,21,119.41,4,Month-to-month,No,0
+2836,66,119.41,7,Two year,No,0
+2837,41,119.41,6,One year,Yes,1
+2838,24,119.41,7,Month-to-month,No,1
+2839,35,119.41,7,Two year,No,1
+2840,56,119.41,5,Month-to-month,No,0
+2841,30,119.41,9,Month-to-month,No,1
+2842,57,119.41,1,Two year,No,0
+2843,47,119.41,5,One year,No,0
+2844,35,119.41,0,Month-to-month,No,0
+2845,19,119.41,0,Month-to-month,No,0
+2846,8,119.41,2,One year,No,0
+2847,26,119.41,2,Month-to-month,No,0
+2848,71,119.41,4,Month-to-month,No,0
+2849,30,119.41,0,One year,Yes,0
+2850,7,119.41,9,Two year,No,1
+2851,67,119.41,5,One year,No,0
+2852,65,119.41,6,One year,No,1
+2853,36,119.41,9,One year,No,1
+2854,25,119.41,2,One year,No,0
+2855,37,119.41,3,Month-to-month,Yes,0
+2856,1,119.41,9,Two year,No,1
+2857,15,119.41,9,Month-to-month,Yes,1
+2858,37,119.41,9,Month-to-month,No,1
+2859,13,119.41,9,Month-to-month,No,1
+2860,8,119.41,9,One year,No,1
+2861,5,119.41,2,Month-to-month,No,1
+2862,60,119.41,0,Month-to-month,No,0
+2863,1,119.41,7,One year,No,1
+2864,36,119.41,9,Two year,No,1
+2865,35,119.41,9,One year,No,1
+2866,66,119.41,1,Month-to-month,No,0
+2867,63,119.41,0,Month-to-month,No,0
+2868,23,119.41,7,One year,No,0
+2869,9,119.41,6,Month-to-month,No,1
+2870,34,119.41,6,One year,No,0
+2871,46,119.41,3,Month-to-month,Yes,0
+2872,4,119.41,8,Two year,No,1
+2873,30,119.41,5,Month-to-month,No,0
+2874,3,119.41,1,Month-to-month,No,1
+2875,14,119.41,0,Two year,Yes,0
+2876,60,119.41,0,Month-to-month,No,0
+2877,45,119.41,8,Month-to-month,Yes,1
+2878,34,119.41,3,Two year,Yes,0
+2879,45,119.41,4,Month-to-month,No,0
+2880,61,119.41,2,Month-to-month,No,0
+2881,16,119.41,3,Month-to-month,No,0
+2882,66,119.41,7,Month-to-month,No,1
+2883,40,119.41,3,Month-to-month,No,0
+2884,17,119.41,8,One year,Yes,1
+2885,34,119.41,8,One year,Yes,0
+2886,16,119.41,5,Month-to-month,No,0
+2887,60,119.41,1,Month-to-month,Yes,0
+2888,66,119.41,9,Two year,Yes,1
+2889,66,119.41,6,Two year,No,0
+2890,13,119.41,8,Month-to-month,No,1
+2891,56,119.41,5,Two year,No,0
+2892,31,119.41,2,One year,No,0
+2893,34,119.41,6,Month-to-month,No,1
+2894,39,119.41,4,Month-to-month,No,0
+2895,67,119.41,0,Month-to-month,No,0
+2896,8,119.41,2,Two year,No,0
+2897,55,119.41,4,One year,No,0
+2898,27,119.41,6,One year,Yes,1
+2899,53,119.41,2,Month-to-month,No,0
+2900,39,119.41,5,One year,Yes,0
+2901,65,119.41,4,One year,No,0
+2902,17,119.41,0,Two year,No,0
+2903,30,119.41,9,Month-to-month,Yes,1
+2904,53,119.41,5,One year,Yes,0
+2905,13,119.41,7,Month-to-month,No,1
+2906,21,119.41,0,One year,No,0
+2907,19,119.41,1,One year,No,0
+2908,53,119.41,3,Month-to-month,No,0
+2909,19,119.41,1,One year,No,0
+2910,57,119.41,8,Month-to-month,No,1
+2911,25,119.41,9,Two year,Yes,1
+2912,31,119.41,7,Month-to-month,Yes,1
+2913,55,119.41,7,One year,No,0
+2914,23,119.41,3,Two year,No,0
+2915,32,119.41,4,Month-to-month,Yes,0
+2916,62,119.41,3,One year,No,0
+2917,10,119.41,8,Month-to-month,No,1
+2918,54,119.41,1,Month-to-month,No,0
+2919,52,119.41,7,One year,No,0
+2920,20,119.41,1,One year,No,0
+2921,32,119.41,0,Two year,Yes,0
+2922,14,119.41,9,Two year,Yes,1
+2923,50,119.41,2,One year,No,0
+2924,28,119.41,8,One year,No,0
+2925,53,119.41,2,Two year,No,0
+2926,24,119.41,8,Month-to-month,No,1
+2927,22,119.41,6,Month-to-month,No,1
+2928,30,119.41,9,Month-to-month,No,1
+2929,63,119.41,0,Two year,Yes,0
+2930,4,119.41,9,One year,Yes,1
+2931,59,119.41,4,One year,No,0
+2932,8,119.41,8,Month-to-month,No,1
+2933,12,119.41,2,Two year,No,0
+2934,31,119.41,8,Month-to-month,No,1
+2935,34,119.41,4,One year,No,0
+2936,49,119.41,8,Month-to-month,No,1
+2937,57,119.41,9,Month-to-month,No,1
+2938,26,119.41,5,One year,No,0
+2939,18,119.41,8,Two year,Yes,0
+2940,38,119.41,6,Month-to-month,Yes,1
+2941,50,119.41,6,Month-to-month,No,1
+2942,8,119.41,7,Month-to-month,No,1
+2943,41,119.41,6,Month-to-month,Yes,1
+2944,6,119.41,8,Month-to-month,No,1
+2945,69,119.41,8,One year,No,0
+2946,44,119.41,5,Two year,No,0
+2947,64,119.41,6,Month-to-month,No,1
+2948,29,119.41,1,One year,No,0
+2949,28,119.41,8,Month-to-month,No,1
+2950,11,119.41,0,Month-to-month,Yes,1
+2951,65,119.41,0,Month-to-month,Yes,0
+2952,19,119.41,2,One year,No,0
+2953,9,119.41,5,Month-to-month,No,1
+2954,27,119.41,4,Month-to-month,No,0
+2955,34,119.41,1,Month-to-month,Yes,0
+2956,44,119.41,8,Month-to-month,No,1
+2957,68,119.41,9,Month-to-month,Yes,1
+2958,15,119.41,3,Two year,No,0
+2959,51,119.41,3,One year,No,0
+2960,13,119.41,4,Two year,Yes,0
+2961,49,119.41,7,Month-to-month,No,1
+2962,70,119.41,9,Month-to-month,Yes,1
+2963,56,119.41,3,Month-to-month,No,0
+2964,51,119.41,4,Month-to-month,Yes,0
+2965,37,119.41,3,One year,No,0
+2966,17,119.41,5,Month-to-month,No,0
+2967,58,119.41,2,Month-to-month,No,0
+2968,29,119.41,7,One year,Yes,1
+2969,33,119.41,5,Month-to-month,No,0
+2970,60,119.41,9,Two year,No,0
+2971,55,119.41,4,Month-to-month,No,0
+2972,10,119.41,1,One year,Yes,0
+2973,47,119.41,9,Month-to-month,No,1
+2974,23,119.41,9,Two year,No,1
+2975,21,119.41,6,Month-to-month,Yes,1
+2976,13,119.41,1,One year,Yes,0
+2977,33,119.41,0,Month-to-month,No,0
+2978,24,119.41,6,One year,Yes,1
+2979,11,119.41,4,Month-to-month,No,1
+2980,17,119.41,0,Month-to-month,No,0
+2981,68,119.41,3,Two year,No,0
+2982,47,119.41,3,Two year,No,0
+2983,25,119.41,9,Month-to-month,Yes,1
+2984,21,119.41,6,Two year,No,1
+2985,12,119.41,8,Month-to-month,No,1
+2986,37,119.41,1,Two year,No,0
+2987,42,119.41,0,One year,No,0
+2988,17,119.41,1,Month-to-month,No,0
+2989,48,119.41,6,Two year,Yes,1
+2990,28,119.41,9,Two year,No,0
+2991,41,119.41,5,Month-to-month,Yes,0
+2992,47,119.41,3,One year,Yes,0
+2993,18,119.41,0,Month-to-month,Yes,0
+2994,71,119.41,0,Two year,No,0
+2995,13,119.41,4,One year,No,0
+2996,13,119.41,0,Month-to-month,No,0
+2997,31,119.41,6,One year,No,0
+2998,2,119.41,0,One year,No,0
+2999,16,119.41,0,One year,No,0
+3000,9,119.41,1,Month-to-month,No,1
+3001,38,119.41,9,Month-to-month,No,1
+3002,54,119.41,2,One year,No,0
+3003,56,119.41,0,Month-to-month,No,0
+3004,45,119.41,8,Month-to-month,No,1
+3005,34,119.41,9,One year,Yes,0
+3006,9,119.41,7,Month-to-month,No,1
+3007,8,119.41,4,One year,Yes,0
+3008,7,119.41,1,One year,Yes,0
+3009,36,119.41,4,One year,No,0
+3010,18,119.41,5,Month-to-month,No,0
+3011,3,119.41,0,Month-to-month,No,1
+3012,28,119.41,3,Month-to-month,No,0
+3013,70,119.41,8,Two year,No,1
+3014,44,119.41,1,Month-to-month,No,0
+3015,21,119.41,4,Two year,No,0
+3016,28,119.41,0,One year,No,0
+3017,54,119.41,3,Two year,No,0
+3018,54,119.41,3,Month-to-month,No,0
+3019,65,119.41,5,Month-to-month,No,0
+3020,21,119.41,9,Two year,Yes,1
+3021,13,119.41,8,Month-to-month,No,1
+3022,57,119.41,2,Month-to-month,Yes,0
+3023,49,119.41,8,Month-to-month,No,1
+3024,54,119.41,5,Two year,No,0
+3025,10,119.41,6,One year,No,1
+3026,53,119.41,9,One year,Yes,1
+3027,44,119.41,1,One year,Yes,0
+3028,47,119.41,9,Month-to-month,No,1
+3029,53,119.41,5,One year,Yes,0
+3030,46,119.41,5,Month-to-month,No,0
+3031,13,119.41,1,Two year,No,0
+3032,37,119.41,1,Month-to-month,No,0
+3033,24,119.41,1,Month-to-month,No,0
+3034,2,119.41,9,One year,No,1
+3035,14,119.41,0,Month-to-month,No,0
+3036,10,119.41,4,One year,Yes,0
+3037,35,119.41,7,Month-to-month,No,1
+3038,25,119.41,1,Month-to-month,No,0
+3039,3,119.41,4,Month-to-month,Yes,1
+3040,17,119.41,7,One year,Yes,0
+3041,12,119.41,9,Month-to-month,Yes,1
+3042,54,119.41,4,One year,No,0
+3043,24,119.41,1,Month-to-month,No,0
+3044,29,119.41,2,Month-to-month,No,0
+3045,43,119.41,5,Month-to-month,No,0
+3046,25,119.41,4,Two year,No,0
+3047,60,119.41,3,One year,No,0
+3048,65,119.41,3,Month-to-month,No,0
+3049,28,119.41,4,One year,No,0
+3050,16,119.41,1,Two year,No,0
+3051,47,119.41,8,Month-to-month,No,1
+3052,58,119.41,1,Two year,No,0
+3053,27,119.41,9,Month-to-month,Yes,1
+3054,53,119.41,1,Two year,No,0
+3055,42,119.41,9,One year,Yes,0
+3056,59,119.41,8,Month-to-month,Yes,1
+3057,47,119.41,2,Month-to-month,No,0
+3058,34,119.41,9,Two year,No,1
+3059,37,119.41,6,One year,No,0
+3060,6,119.41,3,One year,No,0
+3061,7,119.41,5,Month-to-month,No,1
+3062,25,119.41,3,Month-to-month,No,0
+3063,33,119.41,9,Month-to-month,No,1
+3064,55,119.41,6,Month-to-month,No,1
+3065,58,119.41,0,One year,Yes,0
+3066,7,119.41,2,Two year,No,0
+3067,57,119.41,2,One year,No,0
+3068,12,119.41,0,Month-to-month,Yes,0
+3069,16,119.41,5,One year,No,0
+3070,43,119.41,8,Two year,Yes,1
+3071,7,119.41,7,One year,Yes,1
+3072,51,119.41,6,One year,No,1
+3073,32,119.41,9,Two year,No,1
+3074,8,119.41,7,One year,No,1
+3075,45,119.41,5,Month-to-month,No,0
+3076,59,119.41,8,Month-to-month,No,1
+3077,4,119.41,2,Two year,No,0
+3078,67,119.41,9,Month-to-month,No,1
+3079,29,119.41,9,Month-to-month,Yes,1
+3080,29,119.41,8,Month-to-month,No,1
+3081,28,119.41,3,One year,No,0
+3082,44,119.41,6,Two year,No,0
+3083,4,119.41,8,Month-to-month,No,1
+3084,9,119.41,1,One year,No,0
+3085,5,119.41,1,Two year,Yes,0
+3086,56,119.41,8,Month-to-month,No,1
+3087,50,119.41,2,Month-to-month,No,0
+3088,15,119.41,8,Two year,No,0
+3089,32,119.41,4,Month-to-month,No,0
+3090,28,119.41,5,One year,Yes,0
+3091,22,119.41,1,One year,No,0
+3092,17,119.41,7,Month-to-month,No,1
+3093,59,119.41,8,Two year,Yes,0
+3094,71,119.41,1,Month-to-month,No,0
+3095,57,119.41,5,Month-to-month,No,0
+3096,26,119.41,5,Month-to-month,No,0
+3097,25,119.41,7,Month-to-month,Yes,1
+3098,10,119.41,9,Two year,No,1
+3099,45,119.41,4,One year,Yes,0
+3100,11,119.41,8,Two year,No,1
+3101,53,119.41,0,Month-to-month,Yes,0
+3102,68,119.41,8,One year,Yes,1
+3103,28,119.41,9,One year,No,0
+3104,65,119.41,6,Two year,Yes,1
+3105,49,119.41,3,One year,No,0
+3106,47,119.41,2,Month-to-month,No,0
+3107,52,119.41,9,Month-to-month,No,1
+3108,54,119.41,5,Month-to-month,No,0
+3109,60,119.41,0,One year,No,0
+3110,57,119.41,2,Two year,No,0
+3111,47,119.41,1,Month-to-month,No,0
+3112,31,119.41,8,Month-to-month,Yes,1
+3113,46,119.41,2,Month-to-month,No,0
+3114,26,119.41,1,One year,No,0
+3115,5,119.41,3,Month-to-month,No,1
+3116,52,119.41,1,Month-to-month,No,0
+3117,54,119.41,0,Month-to-month,Yes,0
+3118,33,119.41,5,One year,No,0
+3119,50,119.41,9,One year,No,1
+3120,38,119.41,7,One year,No,1
+3121,27,119.41,9,Month-to-month,No,1
+3122,15,119.41,9,Month-to-month,No,1
+3123,61,119.41,1,Month-to-month,Yes,0
+3124,21,119.41,8,Month-to-month,No,1
+3125,46,119.41,2,Month-to-month,No,0
+3126,69,119.41,7,Month-to-month,No,1
+3127,6,119.41,7,One year,No,1
+3128,38,119.41,2,Month-to-month,No,0
+3129,62,119.41,2,Month-to-month,No,0
+3130,62,119.41,5,Two year,No,0
+3131,46,119.41,0,One year,No,0
+3132,13,119.41,3,One year,Yes,0
+3133,3,119.41,0,Two year,Yes,0
+3134,6,119.41,2,Month-to-month,No,1
+3135,8,119.41,8,One year,No,1
+3136,44,119.41,4,One year,No,0
+3137,33,119.41,4,Month-to-month,Yes,0
+3138,50,119.41,3,Month-to-month,No,0
+3139,11,119.41,2,Month-to-month,Yes,1
+3140,28,119.41,4,Month-to-month,No,0
+3141,70,119.41,3,Month-to-month,Yes,0
+3142,41,119.41,7,Month-to-month,No,1
+3143,16,119.41,3,Month-to-month,Yes,0
+3144,68,119.41,7,Month-to-month,Yes,1
+3145,48,119.41,5,Month-to-month,No,0
+3146,56,119.41,4,Month-to-month,Yes,0
+3147,64,119.41,3,Month-to-month,No,0
+3148,59,119.41,3,One year,No,0
+3149,62,119.41,3,Month-to-month,Yes,0
+3150,11,119.41,8,Two year,No,1
+3151,18,119.41,3,Two year,No,0
+3152,19,119.41,8,One year,No,1
+3153,55,119.41,9,One year,No,0
+3154,26,119.41,5,Month-to-month,Yes,0
+3155,6,119.41,9,Month-to-month,Yes,1
+3156,4,119.41,6,Two year,Yes,1
+3157,29,119.41,9,Month-to-month,No,1
+3158,59,119.41,2,Two year,No,0
+3159,17,119.41,7,One year,Yes,1
+3160,43,119.41,2,Month-to-month,No,0
+3161,66,119.41,0,Month-to-month,Yes,0
+3162,34,119.41,9,One year,No,0
+3163,8,119.41,4,Month-to-month,Yes,1
+3164,13,119.41,1,Month-to-month,Yes,0
+3165,8,119.41,9,One year,No,1
+3166,65,119.41,5,One year,Yes,0
+3167,43,119.41,9,Month-to-month,No,1
+3168,39,119.41,8,Month-to-month,No,1
+3169,59,119.41,0,Two year,No,0
+3170,44,119.41,3,One year,No,0
+3171,9,119.41,0,One year,No,0
+3172,37,119.41,0,Two year,No,0
+3173,36,119.41,7,Month-to-month,No,1
+3174,28,119.41,1,Month-to-month,No,0
+3175,42,119.41,0,Two year,No,0
+3176,43,119.41,7,One year,No,1
+3177,42,119.41,3,Month-to-month,No,0
+3178,66,119.41,2,Month-to-month,No,0
+3179,55,119.41,3,One year,No,0
+3180,48,119.41,4,Month-to-month,Yes,0
+3181,22,119.41,0,Two year,Yes,0
+3182,27,119.41,0,Month-to-month,Yes,0
+3183,67,119.41,2,Month-to-month,Yes,0
+3184,13,119.41,5,Month-to-month,Yes,0
+3185,45,119.41,0,One year,No,0
+3186,10,119.41,1,Two year,Yes,0
+3187,9,119.41,6,One year,No,1
+3188,54,119.41,0,Two year,Yes,0
+3189,27,119.41,6,Month-to-month,Yes,1
+3190,34,119.41,3,Month-to-month,No,0
+3191,1,119.41,9,Two year,No,1
+3192,32,119.41,5,Two year,No,0
+3193,71,119.41,7,Two year,No,0
+3194,67,119.41,8,One year,No,1
+3195,20,119.41,5,Month-to-month,Yes,0
+3196,35,119.41,8,Month-to-month,No,1
+3197,17,119.41,3,Two year,Yes,0
+3198,18,119.41,5,Month-to-month,No,0
+3199,45,119.41,7,Month-to-month,No,1
+3200,53,119.41,8,One year,No,0
+3201,68,119.41,2,Month-to-month,Yes,0
+3202,65,119.41,1,Two year,No,0
+3203,1,119.41,5,Month-to-month,Yes,1
+3204,58,119.41,3,One year,Yes,0
+3205,26,119.41,0,One year,No,0
+3206,20,119.41,7,One year,No,0
+3207,10,119.41,8,Month-to-month,Yes,1
+3208,59,119.41,8,Month-to-month,No,1
+3209,41,119.41,1,Month-to-month,No,0
+3210,5,119.41,8,Month-to-month,Yes,1
+3211,65,119.41,6,One year,No,1
+3212,17,119.41,4,Month-to-month,Yes,0
+3213,22,119.41,6,Month-to-month,No,1
+3214,41,119.41,8,Month-to-month,Yes,1
+3215,68,119.41,7,One year,No,1
+3216,69,119.41,5,Month-to-month,No,0
+3217,11,119.41,3,Two year,No,0
+3218,56,119.41,0,One year,Yes,0
+3219,51,119.41,5,One year,No,0
+3220,21,119.41,2,Two year,No,0
+3221,26,119.41,5,Month-to-month,No,0
+3222,19,119.41,5,Two year,No,0
+3223,60,119.41,3,One year,Yes,0
+3224,71,119.41,1,Two year,No,0
+3225,47,119.41,8,Two year,No,1
+3226,71,119.41,1,Month-to-month,No,0
+3227,26,119.41,2,Month-to-month,No,0
+3228,40,119.41,9,One year,Yes,0
+3229,5,119.41,0,One year,Yes,0
+3230,21,119.41,6,Month-to-month,Yes,1
+3231,4,119.41,0,Month-to-month,No,1
+3232,23,119.41,8,Month-to-month,No,1
+3233,15,119.41,0,One year,No,0
+3234,8,119.41,4,Two year,No,0
+3235,41,119.41,6,One year,No,0
+3236,19,119.41,2,Month-to-month,No,0
+3237,46,119.41,8,Month-to-month,Yes,1
+3238,28,119.41,7,Month-to-month,No,1
+3239,68,119.41,2,Month-to-month,No,0
+3240,15,119.41,4,Two year,No,0
+3241,37,119.41,6,Month-to-month,Yes,1
+3242,1,119.41,3,One year,No,0
+3243,67,119.41,4,Two year,No,0
+3244,24,119.41,2,Two year,No,0
+3245,27,119.41,8,Month-to-month,No,1
+3246,40,119.41,9,Month-to-month,No,1
+3247,63,119.41,8,Month-to-month,No,1
+3248,61,119.41,6,One year,No,1
+3249,36,119.41,9,Two year,No,0
+3250,24,119.41,1,Month-to-month,No,0
+3251,24,119.41,6,Month-to-month,No,1
+3252,4,119.41,6,Two year,No,1
+3253,67,119.41,4,One year,No,0
+3254,34,119.41,8,Two year,No,1
+3255,57,119.41,2,Month-to-month,No,0
+3256,49,119.41,3,Month-to-month,No,0
+3257,53,119.41,0,Month-to-month,No,0
+3258,23,119.41,5,Month-to-month,No,0
+3259,69,119.41,3,One year,No,0
+3260,53,119.41,0,Month-to-month,Yes,0
+3261,62,119.41,1,Month-to-month,No,0
+3262,41,119.41,2,Two year,No,0
+3263,57,119.41,8,Month-to-month,No,1
+3264,60,119.41,7,One year,No,0
+3265,54,119.41,6,Month-to-month,Yes,1
+3266,70,119.41,3,Two year,No,0
+3267,57,119.41,0,Month-to-month,No,0
+3268,10,119.41,7,One year,No,1
+3269,40,119.41,3,Month-to-month,No,0
+3270,7,119.41,2,Month-to-month,No,1
+3271,38,119.41,8,One year,No,0
+3272,61,119.41,9,Month-to-month,No,1
+3273,3,119.41,3,Month-to-month,Yes,1
+3274,51,119.41,3,Two year,Yes,0
+3275,47,119.41,8,Two year,No,0
+3276,68,119.41,1,Month-to-month,Yes,0
+3277,38,119.41,4,Month-to-month,Yes,0
+3278,36,119.41,3,Month-to-month,Yes,0
+3279,41,119.41,8,Month-to-month,No,1
+3280,69,119.41,4,Two year,Yes,0
+3281,13,119.41,8,One year,Yes,0
+3282,58,119.41,8,Month-to-month,Yes,1
+3283,50,119.41,1,Two year,No,0
+3284,30,119.41,8,One year,No,1
+3285,62,119.41,2,One year,Yes,0
+3286,25,119.41,3,Month-to-month,No,0
+3287,27,119.41,0,Month-to-month,No,0
+3288,51,119.41,0,One year,No,0
+3289,57,119.41,0,Month-to-month,No,0
+3290,47,119.41,8,Month-to-month,No,1
+3291,39,119.41,7,Month-to-month,Yes,1
+3292,16,119.41,4,Month-to-month,No,0
+3293,22,119.41,4,One year,No,0
+3294,54,119.41,8,One year,No,0
+3295,21,119.41,2,Month-to-month,No,0
+3296,16,119.41,2,Month-to-month,No,0
+3297,59,119.41,6,One year,No,1
+3298,31,119.41,8,Month-to-month,Yes,1
+3299,42,119.41,5,One year,No,0
+3300,32,119.41,1,One year,No,0
+3301,59,119.41,0,Month-to-month,No,0
+3302,34,119.41,1,One year,No,0
+3303,9,119.41,0,One year,Yes,0
+3304,11,119.41,9,Month-to-month,No,1
+3305,10,119.41,9,Month-to-month,No,1
+3306,17,119.41,8,Two year,Yes,1
+3307,68,119.41,9,Month-to-month,No,1
+3308,48,119.41,7,Two year,No,1
+3309,52,119.41,6,One year,No,0
+3310,25,119.41,2,Month-to-month,No,0
+3311,21,119.41,7,Month-to-month,No,1
+3312,65,119.41,1,Month-to-month,No,0
+3313,63,119.41,1,Month-to-month,No,0
+3314,51,119.41,9,One year,No,1
+3315,36,119.41,2,Two year,No,0
+3316,66,119.41,6,Two year,Yes,0
+3317,15,119.41,0,Month-to-month,Yes,0
+3318,39,119.41,7,Two year,No,1
+3319,70,119.41,6,Two year,Yes,0
+3320,1,119.41,3,Two year,No,0
+3321,23,119.41,4,Month-to-month,No,0
+3322,39,119.41,9,One year,No,0
+3323,57,119.41,0,One year,Yes,0
+3324,34,119.41,3,Month-to-month,Yes,0
+3325,41,119.41,0,Two year,Yes,0
+3326,13,119.41,0,Month-to-month,No,0
+3327,70,119.41,9,Month-to-month,No,1
+3328,6,119.41,0,Two year,Yes,0
+3329,52,119.41,6,Month-to-month,No,1
+3330,3,119.41,6,Two year,No,1
+3331,63,119.41,3,One year,No,0
+3332,49,119.41,1,Month-to-month,Yes,0
+3333,47,119.41,2,Month-to-month,No,0
+3334,55,119.41,7,One year,No,0
+3335,64,119.41,7,One year,No,1
+3336,65,119.41,5,Two year,Yes,0
+3337,67,119.41,9,Two year,Yes,0
+3338,15,119.41,8,Month-to-month,No,1
+3339,32,119.41,8,Month-to-month,Yes,1
+3340,68,119.41,3,Two year,No,0
+3341,18,119.41,0,One year,No,0
+3342,43,119.41,0,Month-to-month,No,0
+3343,35,119.41,9,Two year,No,1
+3344,58,119.41,4,Two year,No,0
+3345,33,119.41,1,One year,No,0
+3346,14,119.41,5,Month-to-month,No,0
+3347,34,119.41,6,One year,No,0
+3348,61,119.41,0,One year,No,0
+3349,4,119.41,5,Two year,No,0
+3350,59,119.41,7,Two year,No,1
+3351,29,119.41,4,One year,No,0
+3352,6,119.41,6,One year,Yes,1
+3353,49,119.41,9,Two year,No,1
+3354,40,119.41,5,Month-to-month,Yes,0
+3355,65,119.41,3,Month-to-month,No,0
+3356,69,119.41,6,Two year,No,0
+3357,27,119.41,9,Month-to-month,Yes,1
+3358,6,119.41,8,Month-to-month,Yes,1
+3359,13,119.41,9,Month-to-month,No,1
+3360,64,119.41,9,Month-to-month,No,1
+3361,62,119.41,6,Month-to-month,No,1
+3362,19,119.41,4,Month-to-month,No,0
+3363,43,119.41,6,Two year,No,0
+3364,20,119.41,2,One year,Yes,0
+3365,68,119.41,1,One year,No,0
+3366,44,119.41,4,Month-to-month,Yes,0
+3367,23,119.41,3,One year,No,0
+3368,2,119.41,4,One year,Yes,0
+3369,22,119.41,7,One year,No,1
+3370,57,119.41,3,Month-to-month,No,0
+3371,7,119.41,8,Month-to-month,No,1
+3372,56,119.41,6,Two year,No,0
+3373,67,119.41,9,One year,Yes,1
+3374,16,119.41,6,One year,No,0
+3375,51,119.41,7,One year,Yes,0
+3376,12,119.41,5,Month-to-month,No,0
+3377,53,119.41,7,One year,Yes,0
+3378,5,119.41,2,Month-to-month,Yes,1
+3379,27,119.41,9,One year,Yes,1
+3380,12,119.41,9,Two year,No,1
+3381,17,119.41,0,One year,No,0
+3382,6,119.41,5,Month-to-month,No,1
+3383,5,119.41,0,Month-to-month,Yes,1
+3384,57,119.41,8,One year,No,1
+3385,28,119.41,1,Two year,No,0
+3386,69,119.41,1,One year,No,0
+3387,59,119.41,6,One year,No,1
+3388,33,119.41,1,Month-to-month,No,0
+3389,62,119.41,9,One year,Yes,0
+3390,50,119.41,7,One year,No,1
+3391,19,119.41,5,Two year,No,0
+3392,69,119.41,6,Month-to-month,No,1
+3393,66,119.41,6,One year,No,0
+3394,47,119.41,5,Month-to-month,No,0
+3395,39,119.41,9,One year,No,1
+3396,68,119.41,8,Two year,No,0
+3397,33,119.41,8,Month-to-month,No,1
+3398,13,119.41,6,Month-to-month,No,1
+3399,54,119.41,8,One year,No,0
+3400,7,119.41,9,One year,No,1
+3401,14,119.41,2,Month-to-month,No,0
+3402,19,119.41,2,Month-to-month,Yes,0
+3403,54,119.41,0,One year,No,0
+3404,20,119.41,4,Two year,No,0
+3405,29,119.41,3,Month-to-month,No,0
+3406,24,119.41,1,Two year,No,0
+3407,63,119.41,8,Month-to-month,Yes,1
+3408,57,119.41,2,Month-to-month,Yes,0
+3409,8,119.41,7,Month-to-month,No,1
+3410,62,119.41,5,Two year,Yes,0
+3411,29,119.41,4,Month-to-month,No,0
+3412,17,119.41,0,One year,Yes,0
+3413,66,119.41,3,Month-to-month,No,0
+3414,6,119.41,2,Two year,No,0
+3415,58,119.41,0,Two year,No,0
+3416,69,119.41,4,One year,Yes,0
+3417,28,119.41,5,Two year,No,0
+3418,62,119.41,1,One year,Yes,0
+3419,41,119.41,2,Two year,Yes,0
+3420,69,119.41,5,Month-to-month,No,0
+3421,41,119.41,3,Month-to-month,No,0
+3422,49,119.41,8,One year,Yes,0
+3423,49,119.41,4,Month-to-month,No,0
+3424,71,119.41,3,Month-to-month,Yes,0
+3425,3,119.41,1,One year,No,0
+3426,10,119.41,5,Month-to-month,Yes,1
+3427,35,119.41,9,One year,No,0
+3428,2,119.41,1,Month-to-month,Yes,1
+3429,24,119.41,6,Two year,No,0
+3430,38,119.41,2,Two year,No,0
+3431,22,119.41,8,Two year,No,0
+3432,26,119.41,4,Month-to-month,Yes,0
+3433,43,119.41,7,One year,No,0
+3434,55,119.41,5,Two year,No,0
+3435,39,119.41,9,Two year,No,1
+3436,29,119.41,7,One year,No,1
+3437,20,119.41,2,Month-to-month,No,0
+3438,41,119.41,2,One year,Yes,0
+3439,54,119.41,4,One year,No,0
+3440,20,119.41,9,Month-to-month,No,1
+3441,19,119.41,2,One year,Yes,0
+3442,66,119.41,7,Two year,No,0
+3443,30,119.41,9,One year,No,1
+3444,53,119.41,7,Month-to-month,No,1
+3445,34,119.41,1,One year,No,0
+3446,22,119.41,3,Two year,No,0
+3447,67,119.41,9,One year,No,0
+3448,6,119.41,0,One year,No,0
+3449,27,119.41,3,One year,Yes,0
+3450,10,119.41,3,One year,No,0
+3451,48,119.41,9,One year,Yes,0
+3452,70,119.41,8,Month-to-month,Yes,1
+3453,59,119.41,2,Month-to-month,No,0
+3454,59,119.41,1,Month-to-month,No,0
+3455,2,119.41,8,Month-to-month,No,1
+3456,29,119.41,8,Month-to-month,No,1
+3457,68,119.41,0,Month-to-month,No,0
+3458,65,119.41,5,Two year,Yes,0
+3459,26,119.41,9,Month-to-month,No,1
+3460,10,119.41,7,Month-to-month,No,1
+3461,53,119.41,2,Month-to-month,No,0
+3462,59,119.41,8,One year,No,1
+3463,22,119.41,1,Month-to-month,No,0
+3464,51,119.41,5,Month-to-month,No,0
+3465,48,119.41,0,Month-to-month,No,0
+3466,21,119.41,6,Two year,Yes,0
+3467,22,119.41,2,Two year,Yes,0
+3468,30,119.41,6,Two year,No,1
+3469,25,119.41,3,Month-to-month,No,0
+3470,28,119.41,8,One year,No,0
+3471,65,119.41,4,One year,No,0
+3472,45,119.41,2,Month-to-month,No,0
+3473,68,119.41,7,Month-to-month,No,1
+3474,7,119.41,5,Month-to-month,No,1
+3475,49,119.41,1,One year,No,0
+3476,9,119.41,2,Month-to-month,No,1
+3477,36,119.41,7,Month-to-month,No,1
+3478,1,119.41,9,Month-to-month,No,1
+3479,10,119.41,6,One year,No,1
+3480,36,119.41,9,Two year,No,0
+3481,46,119.41,5,One year,Yes,0
+3482,32,119.41,0,One year,No,0
+3483,32,119.41,8,One year,No,0
+3484,6,119.41,2,Month-to-month,Yes,1
+3485,48,119.41,4,Month-to-month,No,0
+3486,38,119.41,6,Two year,Yes,1
+3487,17,119.41,6,Two year,No,0
+3488,27,119.41,2,One year,No,0
+3489,54,119.41,3,Month-to-month,Yes,0
+3490,50,119.41,9,Month-to-month,No,1
+3491,35,119.41,6,Month-to-month,No,1
+3492,25,119.41,7,Two year,Yes,1
+3493,28,119.41,1,One year,No,0
+3494,15,119.41,8,Two year,Yes,0
+3495,4,119.41,6,One year,No,1
+3496,27,119.41,7,Month-to-month,Yes,1
+3497,26,119.41,5,Month-to-month,Yes,0
+3498,19,119.41,5,Month-to-month,No,0
+3499,17,119.41,8,One year,No,1
+3500,43,119.41,3,Month-to-month,Yes,0
+3501,41,119.41,4,One year,No,0
+3502,42,119.41,8,One year,No,1
+3503,50,119.41,0,Month-to-month,No,0
+3504,40,119.41,3,Month-to-month,No,0
+3505,39,119.41,6,Month-to-month,No,1
+3506,23,119.41,8,One year,No,1
+3507,52,119.41,9,Month-to-month,No,1
+3508,47,119.41,5,Month-to-month,No,0
+3509,63,119.41,7,Two year,Yes,0
+3510,69,119.41,8,One year,Yes,1
+3511,43,119.41,9,One year,No,0
+3512,48,119.41,3,One year,Yes,0
+3513,34,119.41,0,Two year,Yes,0
+3514,40,119.41,7,One year,No,1
+3515,61,119.41,1,Month-to-month,No,0
+3516,50,119.41,0,Month-to-month,No,0
+3517,67,119.41,6,One year,No,0
+3518,62,119.41,9,One year,Yes,0
+3519,58,119.41,8,One year,No,0
+3520,33,119.41,8,Two year,No,1
+3521,16,119.41,2,Two year,Yes,0
+3522,48,119.41,5,Month-to-month,No,0
+3523,10,119.41,6,Month-to-month,No,1
+3524,38,119.41,9,Month-to-month,No,1
+3525,19,119.41,8,One year,Yes,1
+3526,36,119.41,1,Month-to-month,No,0
+3527,59,119.41,7,Month-to-month,No,1
+3528,63,119.41,6,Month-to-month,No,1
+3529,46,119.41,3,Month-to-month,No,0
+3530,3,119.41,1,Month-to-month,No,1
+3531,65,119.41,7,Month-to-month,No,1
+3532,8,119.41,4,One year,No,0
+3533,51,119.41,5,Month-to-month,No,0
+3534,6,119.41,6,Month-to-month,No,1
+3535,39,119.41,9,Two year,No,1
+3536,60,119.41,0,Two year,Yes,0
+3537,28,119.41,7,Month-to-month,No,1
+3538,54,119.41,3,Month-to-month,No,0
+3539,37,119.41,8,One year,No,0
+3540,9,119.41,0,Month-to-month,Yes,1
+3541,56,119.41,1,Month-to-month,No,0
+3542,59,119.41,5,Month-to-month,No,0
+3543,2,119.41,9,Month-to-month,No,1
+3544,61,119.41,0,One year,No,0
+3545,58,119.41,3,Two year,Yes,0
+3546,60,119.41,7,One year,No,0
+3547,40,119.41,9,One year,No,1
+3548,36,119.41,4,Month-to-month,Yes,0
+3549,37,119.41,8,One year,No,1
+3550,18,119.41,5,Month-to-month,No,0
+3551,63,119.41,0,Month-to-month,No,0
+3552,22,119.41,5,One year,Yes,0
+3553,11,119.41,5,Two year,Yes,0
+3554,58,119.41,5,Month-to-month,No,0
+3555,57,119.41,7,Two year,No,0
+3556,4,119.41,5,Month-to-month,Yes,1
+3557,7,119.41,4,Month-to-month,No,1
+3558,61,119.41,1,Month-to-month,No,0
+3559,54,119.41,3,One year,No,0
+3560,68,119.41,9,Two year,No,0
+3561,1,119.41,4,One year,No,0
+3562,55,119.41,9,Month-to-month,Yes,1
+3563,3,119.41,3,Month-to-month,Yes,1
+3564,38,119.41,1,One year,Yes,0
+3565,1,119.41,6,Month-to-month,No,1
+3566,38,119.41,9,Month-to-month,No,1
+3567,29,119.41,9,Two year,No,1
+3568,5,119.41,1,One year,Yes,0
+3569,21,119.41,0,Month-to-month,Yes,0
+3570,71,119.41,4,Month-to-month,No,0
+3571,67,119.41,0,Month-to-month,Yes,0
+3572,47,119.41,0,One year,No,0
+3573,35,119.41,0,Two year,Yes,0
+3574,68,119.41,5,One year,Yes,0
+3575,69,119.41,8,Month-to-month,Yes,1
+3576,1,119.41,9,Month-to-month,No,1
+3577,68,119.41,0,Two year,No,0
+3578,12,119.41,4,Two year,No,0
+3579,60,119.41,8,One year,No,0
+3580,27,119.41,8,Month-to-month,Yes,1
+3581,56,119.41,0,One year,No,0
+3582,23,119.41,7,Two year,No,1
+3583,25,119.41,0,One year,No,0
+3584,21,119.41,7,One year,No,1
+3585,61,119.41,0,Month-to-month,Yes,0
+3586,63,119.41,4,Month-to-month,Yes,0
+3587,52,119.41,7,Month-to-month,No,1
+3588,25,119.41,5,Two year,No,0
+3589,55,119.41,8,One year,No,1
+3590,46,119.41,0,One year,No,0
+3591,32,119.41,8,Month-to-month,No,1
+3592,55,119.41,0,Two year,No,0
+3593,5,119.41,9,Two year,Yes,1
+3594,36,119.41,9,Month-to-month,No,1
+3595,49,119.41,2,Two year,No,0
+3596,58,119.41,0,Month-to-month,No,0
+3597,39,119.41,2,Month-to-month,No,0
+3598,61,119.41,1,Month-to-month,No,0
+3599,9,119.41,1,Two year,No,0
+3600,6,119.41,8,Two year,No,1
+3601,35,119.41,7,Month-to-month,No,1
+3602,39,119.41,0,One year,No,0
+3603,22,119.41,3,One year,No,0
+3604,41,119.41,0,Two year,Yes,0
+3605,5,119.41,0,Month-to-month,No,1
+3606,42,119.41,3,One year,Yes,0
+3607,67,119.41,1,One year,No,0
+3608,30,119.41,2,Month-to-month,No,0
+3609,57,119.41,8,Month-to-month,No,1
+3610,29,119.41,1,One year,Yes,0
+3611,37,119.41,3,Month-to-month,No,0
+3612,13,119.41,0,Two year,No,0
+3613,32,119.41,1,Month-to-month,No,0
+3614,46,119.41,4,Two year,No,0
+3615,23,119.41,9,Month-to-month,No,1
+3616,45,119.41,0,Month-to-month,Yes,0
+3617,17,119.41,6,Month-to-month,Yes,1
+3618,66,119.41,3,One year,No,0
+3619,6,119.41,5,One year,No,0
+3620,18,119.41,7,Month-to-month,No,1
+3621,22,119.41,5,Month-to-month,No,0
+3622,33,119.41,1,One year,No,0
+3623,30,119.41,0,Month-to-month,Yes,0
+3624,32,119.41,7,One year,No,1
+3625,42,119.41,7,Month-to-month,Yes,1
+3626,10,119.41,8,One year,No,1
+3627,36,119.41,5,One year,Yes,0
+3628,34,119.41,0,Two year,Yes,0
+3629,28,119.41,8,One year,Yes,1
+3630,11,119.41,2,Month-to-month,Yes,1
+3631,39,119.41,5,Month-to-month,No,0
+3632,47,119.41,9,One year,Yes,1
+3633,19,119.41,9,One year,No,0
+3634,15,119.41,8,Two year,No,0
+3635,28,119.41,2,One year,No,0
+3636,24,119.41,4,One year,No,0
+3637,9,119.41,4,Month-to-month,No,1
+3638,47,119.41,9,Month-to-month,Yes,1
+3639,33,119.41,6,Month-to-month,No,1
+3640,62,119.41,3,Month-to-month,No,0
+3641,19,119.41,3,One year,Yes,0
+3642,67,119.41,6,Month-to-month,No,1
+3643,40,119.41,8,Month-to-month,No,1
+3644,47,119.41,3,Month-to-month,Yes,0
+3645,65,119.41,3,Month-to-month,No,0
+3646,29,119.41,5,Month-to-month,Yes,0
+3647,50,119.41,5,One year,No,0
+3648,13,119.41,6,Month-to-month,No,1
+3649,1,119.41,0,One year,Yes,0
+3650,34,119.41,2,One year,Yes,0
+3651,48,119.41,8,Two year,Yes,1
+3652,48,119.41,5,Month-to-month,Yes,0
+3653,49,119.41,5,Month-to-month,Yes,0
+3654,64,119.41,4,Month-to-month,No,0
+3655,61,119.41,2,Month-to-month,No,0
+3656,29,119.41,4,Two year,No,0
+3657,39,119.41,0,One year,No,0
+3658,26,119.41,2,One year,No,0
+3659,17,119.41,3,Month-to-month,No,0
+3660,71,119.41,4,One year,No,0
+3661,13,119.41,9,Month-to-month,No,1
+3662,69,119.41,8,One year,Yes,0
+3663,26,119.41,3,One year,No,0
+3664,49,119.41,2,Month-to-month,No,0
+3665,67,119.41,9,Month-to-month,No,1
+3666,7,119.41,0,Two year,No,0
+3667,58,119.41,9,Month-to-month,No,1
+3668,49,119.41,5,Month-to-month,Yes,0
+3669,53,119.41,6,Month-to-month,No,1
+3670,65,119.41,9,Month-to-month,No,1
+3671,62,119.41,7,One year,Yes,1
+3672,17,119.41,0,One year,No,0
+3673,43,119.41,3,One year,No,0
+3674,25,119.41,4,Month-to-month,Yes,0
+3675,3,119.41,1,One year,No,0
+3676,29,119.41,0,Two year,No,0
+3677,32,119.41,7,Month-to-month,No,1
+3678,26,119.41,5,Month-to-month,No,0
+3679,16,119.41,4,Two year,No,0
+3680,25,119.41,8,Month-to-month,No,1
+3681,54,119.41,1,Month-to-month,Yes,0
+3682,28,119.41,9,Month-to-month,Yes,1
+3683,56,119.41,7,Month-to-month,Yes,1
+3684,65,119.41,9,Month-to-month,Yes,1
+3685,41,119.41,8,Month-to-month,Yes,1
+3686,51,119.41,0,One year,No,0
+3687,71,119.41,6,Month-to-month,No,1
+3688,29,119.41,7,Two year,Yes,1
+3689,19,119.41,2,Month-to-month,Yes,0
+3690,66,119.41,3,Two year,Yes,0
+3691,41,119.41,2,Two year,No,0
+3692,45,119.41,6,One year,Yes,1
+3693,15,119.41,8,Two year,No,1
+3694,3,119.41,2,One year,No,0
+3695,11,119.41,5,Two year,No,0
+3696,53,119.41,7,Month-to-month,No,1
+3697,46,119.41,5,Month-to-month,Yes,0
+3698,30,119.41,1,One year,Yes,0
+3699,57,119.41,6,Month-to-month,Yes,1
+3700,18,119.41,1,Two year,Yes,0
+3701,51,119.41,1,Two year,Yes,0
+3702,48,119.41,1,Month-to-month,No,0
+3703,66,119.41,0,Two year,Yes,0
+3704,8,119.41,0,Month-to-month,No,1
+3705,22,119.41,6,Month-to-month,Yes,1
+3706,6,119.41,4,One year,No,0
+3707,57,119.41,2,Month-to-month,No,0
+3708,36,119.41,0,One year,No,0
+3709,57,119.41,9,One year,No,0
+3710,49,119.41,5,Month-to-month,No,0
+3711,45,119.41,0,One year,No,0
+3712,66,119.41,8,One year,No,0
+3713,45,119.41,1,Month-to-month,Yes,0
+3714,20,119.41,0,Month-to-month,No,0
+3715,64,119.41,6,Two year,Yes,0
+3716,67,119.41,5,Two year,No,0
+3717,3,119.41,5,Month-to-month,No,1
+3718,54,119.41,4,Month-to-month,Yes,0
+3719,64,119.41,3,Two year,Yes,0
+3720,40,119.41,3,One year,Yes,0
+3721,59,119.41,2,Month-to-month,No,0
+3722,55,119.41,9,One year,No,1
+3723,62,119.41,7,Month-to-month,Yes,1
+3724,4,119.41,6,One year,No,1
+3725,60,119.41,8,Month-to-month,No,1
+3726,30,119.41,0,Month-to-month,Yes,0
+3727,2,119.41,6,Month-to-month,Yes,1
+3728,62,119.41,9,Two year,No,0
+3729,49,119.41,3,One year,Yes,0
+3730,9,119.41,6,One year,Yes,1
+3731,31,119.41,0,One year,No,0
+3732,61,119.41,4,Month-to-month,No,0
+3733,48,119.41,2,Two year,No,0
+3734,25,119.41,4,Month-to-month,No,0
+3735,36,119.41,3,Two year,No,0
+3736,8,119.41,1,Month-to-month,No,1
+3737,58,119.41,3,Month-to-month,Yes,0
+3738,45,119.41,2,One year,Yes,0
+3739,62,119.41,0,One year,No,0
+3740,39,119.41,9,Two year,Yes,0
+3741,58,119.41,7,One year,Yes,1
+3742,64,119.41,4,Month-to-month,No,0
+3743,44,119.41,3,Two year,Yes,0
+3744,29,119.41,9,Month-to-month,No,1
+3745,59,119.41,4,Two year,No,0
+3746,71,119.41,3,One year,Yes,0
+3747,9,119.41,2,Month-to-month,Yes,1
+3748,6,119.41,4,Month-to-month,No,1
+3749,29,119.41,3,Month-to-month,No,0
+3750,58,119.41,0,Month-to-month,No,0
+3751,17,119.41,2,Month-to-month,No,0
+3752,16,119.41,9,Month-to-month,No,1
+3753,3,119.41,9,Month-to-month,No,1
+3754,21,119.41,7,One year,No,0
+3755,64,119.41,6,Two year,No,0
+3756,36,119.41,1,Month-to-month,No,0
+3757,62,119.41,0,Month-to-month,No,0
+3758,42,119.41,2,Month-to-month,No,0
+3759,42,119.41,4,One year,No,0
+3760,61,119.41,9,Two year,No,0
+3761,13,119.41,0,One year,No,0
+3762,11,119.41,2,Two year,Yes,0
+3763,54,119.41,2,One year,No,0
+3764,16,119.41,4,One year,Yes,0
+3765,8,119.41,2,Month-to-month,Yes,1
+3766,59,119.41,8,Two year,No,1
+3767,57,119.41,0,Two year,No,0
+3768,40,119.41,3,One year,Yes,0
+3769,59,119.41,9,Two year,Yes,0
+3770,2,119.41,9,Month-to-month,No,1
+3771,10,119.41,3,Two year,No,0
+3772,44,119.41,0,Month-to-month,Yes,0
+3773,11,119.41,1,Month-to-month,Yes,1
+3774,2,119.41,0,Month-to-month,Yes,1
+3775,50,119.41,5,Two year,Yes,0
+3776,12,119.41,2,Two year,Yes,0
+3777,23,119.41,6,Two year,No,0
+3778,18,119.41,4,Two year,Yes,0
+3779,62,119.41,8,Month-to-month,Yes,1
+3780,62,119.41,6,Two year,No,0
+3781,38,119.41,3,Two year,No,0
+3782,67,119.41,4,One year,Yes,0
+3783,38,119.41,4,Month-to-month,Yes,0
+3784,67,119.41,4,One year,No,0
+3785,61,119.41,9,Two year,No,1
+3786,1,119.41,8,Two year,No,1
+3787,45,119.41,9,Two year,No,0
+3788,28,119.41,2,Two year,No,0
+3789,21,119.41,5,Two year,No,0
+3790,13,119.41,7,One year,No,0
+3791,27,119.41,8,One year,Yes,1
+3792,7,119.41,6,Month-to-month,No,1
+3793,22,119.41,2,One year,Yes,0
+3794,53,119.41,0,One year,Yes,0
+3795,4,119.41,3,Two year,No,0
+3796,23,119.41,5,Month-to-month,Yes,0
+3797,70,119.41,2,Month-to-month,Yes,0
+3798,33,119.41,0,Month-to-month,No,0
+3799,28,119.41,5,One year,No,0
+3800,8,119.41,0,One year,Yes,0
+3801,1,119.41,8,Month-to-month,Yes,1
+3802,37,119.41,0,Month-to-month,Yes,0
+3803,63,119.41,5,Month-to-month,Yes,0
+3804,22,119.41,0,Month-to-month,No,0
+3805,70,119.41,6,Month-to-month,Yes,1
+3806,21,119.41,2,Month-to-month,No,0
+3807,35,119.41,5,Month-to-month,Yes,0
+3808,5,119.41,6,Month-to-month,No,1
+3809,60,119.41,0,Month-to-month,No,0
+3810,46,119.41,0,Two year,No,0
+3811,50,119.41,4,Month-to-month,No,0
+3812,48,119.41,5,Month-to-month,No,0
+3813,6,119.41,8,Month-to-month,No,1
+3814,56,119.41,0,Month-to-month,No,0
+3815,59,119.41,3,Month-to-month,Yes,0
+3816,29,119.41,9,Month-to-month,Yes,1
+3817,71,119.41,7,One year,Yes,0
+3818,18,119.41,9,One year,Yes,0
+3819,2,119.41,8,One year,No,1
+3820,8,119.41,2,One year,No,0
+3821,54,119.41,1,Month-to-month,No,0
+3822,38,119.41,3,Two year,Yes,0
+3823,48,119.41,1,Month-to-month,Yes,0
+3824,27,119.41,0,One year,Yes,0
+3825,20,119.41,2,Month-to-month,No,0
+3826,12,119.41,6,Two year,No,1
+3827,43,119.41,0,One year,Yes,0
+3828,61,119.41,1,Month-to-month,No,0
+3829,31,119.41,0,One year,No,0
+3830,61,119.41,7,Month-to-month,No,1
+3831,67,119.41,4,One year,Yes,0
+3832,35,119.41,7,One year,No,0
+3833,15,119.41,2,Month-to-month,Yes,0
+3834,16,119.41,6,Month-to-month,No,1
+3835,13,119.41,7,Month-to-month,No,1
+3836,35,119.41,5,One year,No,0
+3837,59,119.41,6,Month-to-month,Yes,1
+3838,21,119.41,1,One year,Yes,0
+3839,54,119.41,7,Two year,No,0
+3840,30,119.41,4,Month-to-month,No,0
+3841,48,119.41,6,Two year,No,1
+3842,35,119.41,0,One year,No,0
+3843,38,119.41,4,Month-to-month,No,0
+3844,31,119.41,0,Month-to-month,No,0
+3845,24,119.41,7,One year,No,1
+3846,49,119.41,3,Month-to-month,No,0
+3847,32,119.41,3,Month-to-month,No,0
+3848,55,119.41,1,Month-to-month,Yes,0
+3849,58,119.41,4,One year,No,0
+3850,3,119.41,0,One year,No,0
+3851,69,119.41,8,One year,Yes,0
+3852,10,119.41,4,Month-to-month,No,1
+3853,25,119.41,5,Two year,No,0
+3854,68,119.41,1,Two year,No,0
+3855,61,119.41,9,Month-to-month,No,1
+3856,29,119.41,9,Month-to-month,Yes,1
+3857,19,119.41,0,Two year,No,0
+3858,43,119.41,3,Two year,Yes,0
+3859,66,119.41,6,One year,No,1
+3860,61,119.41,5,Two year,No,0
+3861,43,119.41,9,One year,No,1
+3862,25,119.41,0,Month-to-month,No,0
+3863,20,119.41,0,One year,Yes,0
+3864,48,119.41,7,One year,Yes,0
+3865,24,119.41,3,Two year,Yes,0
+3866,11,119.41,4,Month-to-month,No,1
+3867,55,119.41,6,One year,No,1
+3868,28,119.41,7,One year,No,0
+3869,69,119.41,9,Month-to-month,No,1
+3870,63,119.41,6,Month-to-month,No,1
+3871,59,119.41,1,Two year,Yes,0
+3872,5,119.41,3,Month-to-month,No,1
+3873,51,119.41,9,One year,Yes,0
+3874,21,119.41,0,Two year,No,0
+3875,12,119.41,9,Month-to-month,Yes,1
+3876,50,119.41,8,Two year,No,1
+3877,4,119.41,2,One year,Yes,0
+3878,42,119.41,2,Month-to-month,Yes,0
+3879,38,119.41,9,Month-to-month,No,1
+3880,25,119.41,8,Two year,Yes,0
+3881,14,119.41,9,Month-to-month,No,1
+3882,32,119.41,2,Month-to-month,No,0
+3883,11,119.41,7,Month-to-month,No,1
+3884,61,119.41,1,Month-to-month,No,0
+3885,18,119.41,2,Month-to-month,No,0
+3886,27,119.41,1,Two year,Yes,0
+3887,55,119.41,0,Two year,Yes,0
+3888,54,119.41,1,Month-to-month,No,0
+3889,21,119.41,7,Month-to-month,No,1
+3890,44,119.41,8,One year,No,0
+3891,5,119.41,1,Month-to-month,No,1
+3892,41,119.41,6,Two year,No,1
+3893,59,119.41,4,Two year,No,0
+3894,54,119.41,2,Two year,No,0
+3895,22,119.41,8,Month-to-month,No,1
+3896,65,119.41,5,Month-to-month,No,0
+3897,64,119.41,0,Month-to-month,No,0
+3898,71,119.41,4,Month-to-month,No,0
+3899,4,119.41,6,Month-to-month,Yes,1
+3900,65,119.41,3,Two year,No,0
+3901,15,119.41,7,Two year,Yes,0
+3902,22,119.41,9,Two year,Yes,0
+3903,47,119.41,4,Two year,No,0
+3904,46,119.41,8,Month-to-month,Yes,1
+3905,14,119.41,8,One year,No,1
+3906,50,119.41,8,Month-to-month,No,1
+3907,20,119.41,0,Month-to-month,No,0
+3908,50,119.41,1,One year,No,0
+3909,33,119.41,2,One year,No,0
+3910,59,119.41,3,One year,No,0
+3911,43,119.41,9,Month-to-month,No,1
+3912,12,119.41,8,Month-to-month,Yes,1
+3913,40,119.41,9,Month-to-month,No,1
+3914,20,119.41,5,Month-to-month,No,0
+3915,38,119.41,0,Month-to-month,Yes,0
+3916,3,119.41,8,One year,Yes,1
+3917,28,119.41,5,Two year,No,0
+3918,56,119.41,3,Month-to-month,Yes,0
+3919,13,119.41,3,One year,Yes,0
+3920,66,119.41,2,Month-to-month,Yes,0
+3921,37,119.41,6,Two year,No,0
+3922,49,119.41,2,Month-to-month,No,0
+3923,66,119.41,1,Two year,No,0
+3924,36,119.41,9,Two year,Yes,1
+3925,54,119.41,7,Two year,No,0
+3926,26,119.41,3,Month-to-month,No,0
+3927,40,119.41,7,One year,No,0
+3928,43,119.41,0,Month-to-month,No,0
+3929,22,119.41,4,Month-to-month,No,0
+3930,20,119.41,8,Month-to-month,No,1
+3931,8,119.41,0,Two year,No,0
+3932,29,119.41,3,Two year,Yes,0
+3933,40,119.41,5,Month-to-month,No,0
+3934,30,119.41,9,One year,No,1
+3935,55,119.41,7,Two year,No,0
+3936,16,119.41,2,Month-to-month,No,0
+3937,46,119.41,4,Month-to-month,No,0
+3938,62,119.41,6,Month-to-month,No,1
+3939,7,119.41,0,One year,No,0
+3940,45,119.41,6,Month-to-month,No,1
+3941,59,119.41,7,One year,Yes,1
+3942,56,119.41,7,Month-to-month,No,1
+3943,48,119.41,8,Month-to-month,No,1
+3944,27,119.41,5,Month-to-month,No,0
+3945,53,119.41,5,Month-to-month,Yes,0
+3946,35,119.41,1,Month-to-month,Yes,0
+3947,51,119.41,2,Month-to-month,Yes,0
+3948,37,119.41,3,Two year,Yes,0
+3949,57,119.41,3,Month-to-month,Yes,0
+3950,8,119.41,7,One year,No,1
+3951,20,119.41,0,Two year,Yes,0
+3952,53,119.41,9,Two year,No,0
+3953,12,119.41,3,Two year,No,0
+3954,49,119.41,3,One year,Yes,0
+3955,17,119.41,0,Month-to-month,No,0
+3956,64,119.41,2,Two year,No,0
+3957,42,119.41,4,Two year,No,0
+3958,29,119.41,5,Two year,Yes,0
+3959,19,119.41,8,One year,Yes,1
+3960,11,119.41,8,One year,No,1
+3961,50,119.41,8,Month-to-month,Yes,1
+3962,71,119.41,0,One year,Yes,0
+3963,58,119.41,8,Month-to-month,Yes,1
+3964,34,119.41,7,Month-to-month,No,1
+3965,20,119.41,1,One year,Yes,0
+3966,50,119.41,0,Month-to-month,No,0
+3967,10,119.41,0,Month-to-month,Yes,1
+3968,32,119.41,5,Two year,No,0
+3969,52,119.41,8,Two year,Yes,1
+3970,15,119.41,6,One year,No,1
+3971,3,119.41,4,One year,No,0
+3972,37,119.41,1,Two year,No,0
+3973,40,119.41,0,Month-to-month,Yes,0
+3974,40,119.41,1,One year,No,0
+3975,56,119.41,0,Month-to-month,Yes,0
+3976,23,119.41,2,Month-to-month,No,0
+3977,11,119.41,5,One year,Yes,0
+3978,64,119.41,7,One year,No,0
+3979,8,119.41,2,Month-to-month,Yes,1
+3980,56,119.41,9,Month-to-month,Yes,1
+3981,60,119.41,8,One year,No,0
+3982,10,119.41,9,One year,No,1
+3983,39,119.41,4,One year,No,0
+3984,28,119.41,6,Month-to-month,No,1
+3985,49,119.41,7,One year,No,0
+3986,36,119.41,2,Month-to-month,No,0
+3987,13,119.41,1,Month-to-month,Yes,0
+3988,36,119.41,1,One year,Yes,0
+3989,26,119.41,4,One year,No,0
+3990,4,119.41,0,Month-to-month,No,1
+3991,64,119.41,1,Month-to-month,No,0
+3992,38,119.41,8,One year,No,1
+3993,22,119.41,6,Month-to-month,No,1
+3994,2,119.41,5,Month-to-month,No,1
+3995,31,119.41,8,Month-to-month,No,1
+3996,11,119.41,6,Month-to-month,Yes,1
+3997,46,119.41,4,Month-to-month,No,0
+3998,62,119.41,8,Two year,No,1
+3999,69,119.41,5,One year,No,0
+4000,64,119.41,5,One year,No,0
+4001,10,119.41,3,One year,No,0
+4002,40,119.41,0,One year,Yes,0
+4003,24,119.41,4,Two year,Yes,0
+4004,44,119.41,8,One year,No,1
+4005,60,119.41,7,Month-to-month,No,1
+4006,62,119.41,7,One year,No,1
+4007,17,119.41,4,Month-to-month,No,0
+4008,65,119.41,8,One year,Yes,1
+4009,57,119.41,2,One year,No,0
+4010,55,119.41,2,Two year,Yes,0
+4011,53,119.41,0,One year,No,0
+4012,56,119.41,8,Month-to-month,No,1
+4013,9,119.41,5,Month-to-month,Yes,1
+4014,22,119.41,1,Month-to-month,No,0
+4015,13,119.41,7,Month-to-month,No,1
+4016,48,119.41,8,Month-to-month,Yes,1
+4017,18,119.41,8,Month-to-month,No,1
+4018,40,119.41,1,Month-to-month,No,0
+4019,17,119.41,1,Two year,No,0
+4020,15,119.41,6,Month-to-month,No,1
+4021,15,119.41,3,Month-to-month,No,0
+4022,63,119.41,0,Month-to-month,No,0
+4023,39,119.41,7,One year,No,1
+4024,13,119.41,1,Month-to-month,No,0
+4025,32,119.41,2,One year,No,0
+4026,9,119.41,4,Month-to-month,No,1
+4027,40,119.41,2,One year,No,0
+4028,20,119.41,6,Two year,No,0
+4029,63,119.41,6,Month-to-month,No,1
+4030,44,119.41,1,Month-to-month,No,0
+4031,38,119.41,6,Month-to-month,Yes,1
+4032,60,119.41,5,One year,Yes,0
+4033,71,119.41,9,Month-to-month,No,1
+4034,48,119.41,8,One year,No,1
+4035,18,119.41,8,One year,No,0
+4036,16,119.41,1,One year,No,0
+4037,55,119.41,6,Month-to-month,No,1
+4038,39,119.41,4,Month-to-month,Yes,0
+4039,68,119.41,5,One year,No,0
+4040,59,119.41,0,Two year,Yes,0
+4041,62,119.41,6,Two year,No,1
+4042,13,119.41,5,Two year,No,0
+4043,6,119.41,3,One year,No,0
+4044,60,119.41,0,One year,Yes,0
+4045,14,119.41,8,One year,Yes,0
+4046,54,119.41,3,Month-to-month,No,0
+4047,4,119.41,1,One year,No,0
+4048,39,119.41,7,Month-to-month,No,1
+4049,25,119.41,1,Month-to-month,No,0
+4050,32,119.41,4,One year,No,0
+4051,59,119.41,5,Month-to-month,Yes,0
+4052,63,119.41,7,Month-to-month,Yes,1
+4053,38,119.41,0,Month-to-month,No,0
+4054,53,119.41,0,Two year,No,0
+4055,67,119.41,3,One year,No,0
+4056,28,119.41,4,One year,Yes,0
+4057,3,119.41,8,Month-to-month,Yes,1
+4058,22,119.41,6,Month-to-month,No,1
+4059,38,119.41,6,Month-to-month,No,1
+4060,62,119.41,7,Month-to-month,No,1
+4061,57,119.41,4,One year,No,0
+4062,6,119.41,4,Month-to-month,No,1
+4063,32,119.41,0,Month-to-month,No,0
+4064,10,119.41,8,Month-to-month,No,1
+4065,3,119.41,5,Month-to-month,No,1
+4066,59,119.41,8,Month-to-month,No,1
+4067,49,119.41,2,One year,No,0
+4068,59,119.41,4,One year,No,0
+4069,31,119.41,1,Two year,No,0
+4070,69,119.41,9,One year,Yes,0
+4071,62,119.41,4,Month-to-month,No,0
+4072,52,119.41,7,One year,Yes,1
+4073,41,119.41,1,One year,Yes,0
+4074,31,119.41,7,Month-to-month,Yes,1
+4075,22,119.41,3,One year,Yes,0
+4076,4,119.41,9,Two year,No,1
+4077,13,119.41,9,Month-to-month,No,1
+4078,45,119.41,0,One year,No,0
+4079,42,119.41,4,Two year,No,0
+4080,49,119.41,0,One year,No,0
+4081,20,119.41,6,One year,No,1
+4082,54,119.41,7,Month-to-month,No,1
+4083,36,119.41,2,Month-to-month,No,0
+4084,1,119.41,2,One year,No,0
+4085,15,119.41,6,One year,Yes,1
+4086,17,119.41,3,Two year,No,0
+4087,24,119.41,2,Month-to-month,No,0
+4088,58,119.41,7,Month-to-month,No,1
+4089,23,119.41,2,Month-to-month,No,0
+4090,46,119.41,6,Month-to-month,Yes,1
+4091,8,119.41,1,Month-to-month,Yes,1
+4092,59,119.41,0,Month-to-month,No,0
+4093,59,119.41,5,Month-to-month,No,0
+4094,13,119.41,7,Month-to-month,Yes,1
+4095,39,119.41,0,Month-to-month,Yes,0
+4096,28,119.41,9,Two year,No,0
+4097,61,119.41,8,One year,No,0
+4098,16,119.41,2,Month-to-month,No,0
+4099,2,119.41,2,Two year,Yes,0
+4100,17,119.41,3,One year,Yes,0
+4101,30,119.41,0,Two year,No,0
+4102,13,119.41,8,Month-to-month,No,1
+4103,13,119.41,2,Month-to-month,Yes,0
+4104,43,119.41,9,Two year,No,1
+4105,21,119.41,3,Month-to-month,No,0
+4106,55,119.41,0,Two year,No,0
+4107,40,119.41,3,Two year,Yes,0
+4108,15,119.41,0,Two year,No,0
+4109,52,119.41,4,Month-to-month,No,0
+4110,53,119.41,4,Month-to-month,No,0
+4111,52,119.41,6,Month-to-month,No,1
+4112,30,119.41,7,Two year,No,1
+4113,33,119.41,3,Month-to-month,Yes,0
+4114,57,119.41,6,One year,No,1
+4115,52,119.41,3,Month-to-month,No,0
+4116,9,119.41,2,Month-to-month,No,1
+4117,54,119.41,5,Month-to-month,No,0
+4118,1,119.41,3,One year,No,0
+4119,44,119.41,2,Two year,No,0
+4120,9,119.41,8,Month-to-month,Yes,1
+4121,32,119.41,4,Two year,Yes,0
+4122,15,119.41,6,One year,No,0
+4123,12,119.41,5,One year,Yes,0
+4124,57,119.41,9,One year,No,1
+4125,8,119.41,4,Month-to-month,Yes,1
+4126,27,119.41,6,Month-to-month,No,1
+4127,62,119.41,5,One year,No,0
+4128,12,119.41,9,Month-to-month,Yes,1
+4129,65,119.41,1,Month-to-month,Yes,0
+4130,42,119.41,2,Month-to-month,No,0
+4131,62,119.41,1,One year,No,0
+4132,11,119.41,2,Month-to-month,No,1
+4133,43,119.41,0,One year,No,0
+4134,17,119.41,7,Month-to-month,No,1
+4135,32,119.41,5,Two year,No,0
+4136,40,119.41,1,Month-to-month,Yes,0
+4137,23,119.41,7,One year,No,1
+4138,56,119.41,5,One year,Yes,0
+4139,6,119.41,6,One year,No,1
+4140,50,119.41,0,Month-to-month,No,0
+4141,37,119.41,6,One year,No,0
+4142,64,119.41,2,Month-to-month,No,0
+4143,54,119.41,7,Month-to-month,No,1
+4144,49,119.41,5,One year,No,0
+4145,11,119.41,3,One year,No,0
+4146,49,119.41,7,One year,Yes,1
+4147,21,119.41,8,Two year,No,1
+4148,66,119.41,9,Month-to-month,Yes,1
+4149,63,119.41,1,Two year,No,0
+4150,28,119.41,5,Month-to-month,No,0
+4151,17,119.41,4,One year,No,0
+4152,6,119.41,4,One year,No,0
+4153,19,119.41,9,Month-to-month,Yes,1
+4154,56,119.41,2,Month-to-month,No,0
+4155,28,119.41,7,One year,Yes,0
+4156,66,119.41,7,Month-to-month,Yes,1
+4157,38,119.41,4,Month-to-month,No,0
+4158,37,119.41,7,Month-to-month,Yes,1
+4159,68,119.41,9,One year,No,1
+4160,49,119.41,7,Month-to-month,No,1
+4161,43,119.41,2,Month-to-month,No,0
+4162,36,119.41,1,Month-to-month,Yes,0
+4163,58,119.41,8,Month-to-month,No,1
+4164,13,119.41,1,Two year,No,0
+4165,52,119.41,8,Two year,No,0
+4166,58,119.41,3,Month-to-month,No,0
+4167,32,119.41,1,One year,No,0
+4168,60,119.41,9,One year,Yes,1
+4169,58,119.41,0,One year,No,0
+4170,56,119.41,3,One year,No,0
+4171,28,119.41,8,Month-to-month,No,1
+4172,1,119.41,8,Month-to-month,Yes,1
+4173,42,119.41,3,Month-to-month,No,0
+4174,48,119.41,8,Month-to-month,No,1
+4175,40,119.41,5,One year,No,0
+4176,63,119.41,0,Month-to-month,No,0
+4177,4,119.41,9,Month-to-month,Yes,1
+4178,38,119.41,5,Month-to-month,No,0
+4179,27,119.41,8,One year,No,1
+4180,9,119.41,1,Two year,No,0
+4181,16,119.41,5,One year,No,0
+4182,56,119.41,1,Month-to-month,Yes,0
+4183,31,119.41,3,One year,No,0
+4184,14,119.41,7,Month-to-month,Yes,1
+4185,25,119.41,6,Month-to-month,No,1
+4186,34,119.41,8,Month-to-month,Yes,1
+4187,67,119.41,6,One year,No,0
+4188,24,119.41,0,One year,No,0
+4189,26,119.41,1,Two year,No,0
+4190,20,119.41,5,One year,No,0
+4191,64,119.41,6,Month-to-month,No,1
+4192,10,119.41,2,Month-to-month,No,1
+4193,67,119.41,8,Month-to-month,No,1
+4194,24,119.41,6,One year,No,1
+4195,5,119.41,5,One year,Yes,0
+4196,67,119.41,5,Two year,No,0
+4197,58,119.41,0,One year,No,0
+4198,27,119.41,4,Two year,Yes,0
+4199,15,119.41,9,One year,Yes,0
+4200,35,119.41,2,Two year,No,0
+4201,53,119.41,6,One year,No,1
+4202,44,119.41,9,One year,Yes,0
+4203,26,119.41,2,One year,No,0
+4204,47,119.41,4,One year,No,0
+4205,34,119.41,6,Month-to-month,Yes,1
+4206,50,119.41,2,Month-to-month,Yes,0
+4207,12,119.41,9,Month-to-month,No,1
+4208,4,119.41,1,Month-to-month,No,1
+4209,48,119.41,5,One year,No,0
+4210,55,119.41,7,Month-to-month,No,1
+4211,1,119.41,3,Month-to-month,Yes,1
+4212,66,119.41,8,Month-to-month,No,1
+4213,30,119.41,7,One year,No,1
+4214,3,119.41,6,Month-to-month,No,1
+4215,21,119.41,6,Month-to-month,No,1
+4216,49,119.41,2,Month-to-month,Yes,0
+4217,62,119.41,5,Month-to-month,No,0
+4218,38,119.41,4,Two year,Yes,0
+4219,15,119.41,0,Month-to-month,Yes,0
+4220,52,119.41,2,One year,No,0
+4221,46,119.41,0,One year,Yes,0
+4222,25,119.41,3,Two year,No,0
+4223,21,119.41,9,Month-to-month,Yes,1
+4224,5,119.41,2,Month-to-month,Yes,1
+4225,70,119.41,3,Month-to-month,No,0
+4226,47,119.41,8,Month-to-month,Yes,1
+4227,68,119.41,2,One year,Yes,0
+4228,18,119.41,5,Month-to-month,No,0
+4229,21,119.41,5,Month-to-month,Yes,0
+4230,23,119.41,6,Two year,Yes,1
+4231,64,119.41,8,One year,No,1
+4232,67,119.41,6,Month-to-month,Yes,1
+4233,40,119.41,0,Month-to-month,No,0
+4234,10,119.41,7,Month-to-month,Yes,1
+4235,52,119.41,4,Two year,Yes,0
+4236,61,119.41,8,Two year,No,0
+4237,64,119.41,9,Two year,No,1
+4238,5,119.41,4,Two year,Yes,0
+4239,53,119.41,4,One year,No,0
+4240,55,119.41,1,Month-to-month,Yes,0
+4241,37,119.41,2,Month-to-month,Yes,0
+4242,56,119.41,9,One year,No,0
+4243,59,119.41,8,Two year,Yes,1
+4244,69,119.41,6,Month-to-month,No,1
+4245,59,119.41,0,One year,Yes,0
+4246,2,119.41,2,Two year,No,0
+4247,65,119.41,1,Month-to-month,No,0
+4248,60,119.41,0,Two year,No,0
+4249,51,119.41,8,Month-to-month,Yes,1
+4250,30,119.41,7,Month-to-month,No,1
+4251,11,119.41,4,Month-to-month,No,1
+4252,39,119.41,1,One year,No,0
+4253,63,119.41,0,One year,No,0
+4254,64,119.41,6,Month-to-month,No,1
+4255,61,119.41,1,Two year,No,0
+4256,54,119.41,0,One year,No,0
+4257,58,119.41,1,One year,No,0
+4258,56,119.41,6,Month-to-month,No,1
+4259,34,119.41,6,Two year,Yes,1
+4260,31,119.41,9,Month-to-month,No,1
+4261,52,119.41,5,Month-to-month,No,0
+4262,1,119.41,4,Month-to-month,No,1
+4263,55,119.41,2,Month-to-month,Yes,0
+4264,22,119.41,2,Two year,No,0
+4265,40,119.41,8,Month-to-month,No,1
+4266,1,119.41,3,Month-to-month,No,1
+4267,65,119.41,8,Two year,No,0
+4268,63,119.41,3,One year,No,0
+4269,54,119.41,1,One year,No,0
+4270,42,119.41,3,Month-to-month,Yes,0
+4271,21,119.41,5,One year,Yes,0
+4272,22,119.41,5,Month-to-month,Yes,0
+4273,38,119.41,4,Two year,Yes,0
+4274,8,119.41,0,One year,No,0
+4275,62,119.41,2,One year,No,0
+4276,47,119.41,4,Month-to-month,No,0
+4277,17,119.41,5,Month-to-month,No,0
+4278,17,119.41,0,Month-to-month,No,0
+4279,13,119.41,8,Month-to-month,No,1
+4280,17,119.41,2,Month-to-month,No,0
+4281,38,119.41,9,One year,Yes,0
+4282,45,119.41,2,Month-to-month,No,0
+4283,6,119.41,1,One year,Yes,0
+4284,35,119.41,7,Month-to-month,No,1
+4285,14,119.41,2,Month-to-month,No,0
+4286,61,119.41,5,One year,No,0
+4287,15,119.41,1,One year,Yes,0
+4288,54,119.41,6,Month-to-month,No,1
+4289,27,119.41,3,Month-to-month,No,0
+4290,13,119.41,8,One year,Yes,0
+4291,31,119.41,9,Month-to-month,Yes,1
+4292,35,119.41,8,Month-to-month,No,1
+4293,60,119.41,6,One year,Yes,1
+4294,6,119.41,7,Month-to-month,No,1
+4295,69,119.41,2,Month-to-month,No,0
+4296,58,119.41,4,Two year,No,0
+4297,49,119.41,1,One year,Yes,0
+4298,23,119.41,9,Month-to-month,No,1
+4299,34,119.41,6,One year,No,0
+4300,26,119.41,7,Month-to-month,Yes,1
+4301,47,119.41,8,Two year,Yes,0
+4302,5,119.41,6,One year,Yes,1
+4303,20,119.41,9,Month-to-month,No,1
+4304,6,119.41,9,Month-to-month,No,1
+4305,70,119.41,7,Month-to-month,Yes,1
+4306,59,119.41,8,One year,No,0
+4307,64,119.41,5,One year,No,0
+4308,18,119.41,9,Month-to-month,No,1
+4309,4,119.41,1,Month-to-month,No,1
+4310,17,119.41,1,Month-to-month,Yes,0
+4311,14,119.41,3,Month-to-month,Yes,0
+4312,13,119.41,8,Month-to-month,No,1
+4313,7,119.41,6,One year,Yes,1
+4314,44,119.41,1,One year,No,0
+4315,15,119.41,7,Two year,No,0
+4316,19,119.41,6,Two year,No,1
+4317,63,119.41,8,One year,No,1
+4318,35,119.41,7,One year,No,1
+4319,35,119.41,2,Two year,No,0
+4320,19,119.41,0,Month-to-month,No,0
+4321,20,119.41,1,Month-to-month,No,0
+4322,35,119.41,1,Month-to-month,No,0
+4323,32,119.41,3,One year,No,0
+4324,48,119.41,5,One year,Yes,0
+4325,44,119.41,3,Month-to-month,Yes,0
+4326,24,119.41,8,One year,No,0
+4327,61,119.41,3,One year,No,0
+4328,17,119.41,5,Month-to-month,No,0
+4329,71,119.41,5,Month-to-month,No,0
+4330,50,119.41,9,Month-to-month,Yes,1
+4331,65,119.41,9,Month-to-month,No,1
+4332,32,119.41,0,Two year,No,0
+4333,36,119.41,7,Two year,No,0
+4334,13,119.41,2,Two year,No,0
+4335,70,119.41,5,One year,No,0
+4336,58,119.41,2,One year,No,0
+4337,14,119.41,1,One year,No,0
+4338,37,119.41,4,One year,No,0
+4339,68,119.41,0,One year,No,0
+4340,40,119.41,8,One year,Yes,0
+4341,59,119.41,6,Month-to-month,No,1
+4342,16,119.41,2,One year,No,0
+4343,62,119.41,3,Month-to-month,No,0
+4344,4,119.41,5,One year,No,0
+4345,45,119.41,2,Month-to-month,No,0
+4346,28,119.41,6,Month-to-month,No,1
+4347,66,119.41,5,Two year,No,0
+4348,31,119.41,8,Month-to-month,No,1
+4349,3,119.41,4,Month-to-month,Yes,1
+4350,8,119.41,3,Month-to-month,No,1
+4351,24,119.41,2,Two year,Yes,0
+4352,15,119.41,9,One year,Yes,1
+4353,43,119.41,0,One year,No,0
+4354,31,119.41,2,Two year,No,0
+4355,45,119.41,2,Month-to-month,Yes,0
+4356,66,119.41,6,Month-to-month,No,1
+4357,8,119.41,6,Month-to-month,No,1
+4358,71,119.41,0,One year,Yes,0
+4359,57,119.41,2,One year,No,0
+4360,30,119.41,7,Month-to-month,No,1
+4361,18,119.41,8,Month-to-month,No,1
+4362,69,119.41,6,Month-to-month,No,1
+4363,39,119.41,6,One year,No,0
+4364,60,119.41,7,Month-to-month,No,1
+4365,43,119.41,5,Month-to-month,No,0
+4366,45,119.41,2,Month-to-month,No,0
+4367,23,119.41,0,One year,No,0
+4368,69,119.41,6,One year,No,0
+4369,6,119.41,0,Month-to-month,Yes,1
+4370,56,119.41,0,One year,Yes,0
+4371,4,119.41,8,One year,No,1
+4372,23,119.41,9,Two year,No,0
+4373,6,119.41,6,Month-to-month,Yes,1
+4374,32,119.41,3,One year,No,0
+4375,18,119.41,5,Month-to-month,Yes,0
+4376,15,119.41,0,Month-to-month,Yes,0
+4377,40,119.41,6,One year,Yes,1
+4378,6,119.41,5,Month-to-month,No,1
+4379,63,119.41,3,Month-to-month,No,0
+4380,67,119.41,6,Month-to-month,Yes,1
+4381,11,119.41,2,Month-to-month,No,1
+4382,43,119.41,0,Month-to-month,Yes,0
+4383,17,119.41,3,Month-to-month,No,0
+4384,4,119.41,2,One year,Yes,0
+4385,63,119.41,0,One year,No,0
+4386,68,119.41,1,Month-to-month,No,0
+4387,41,119.41,4,One year,No,0
+4388,5,119.41,7,Two year,Yes,1
+4389,32,119.41,0,Month-to-month,Yes,0
+4390,70,119.41,3,Month-to-month,No,0
+4391,35,119.41,3,One year,No,0
+4392,22,119.41,4,One year,No,0
+4393,65,119.41,6,Month-to-month,No,1
+4394,22,119.41,7,Month-to-month,No,1
+4395,11,119.41,5,One year,No,0
+4396,3,119.41,0,Two year,No,0
+4397,9,119.41,6,Month-to-month,Yes,1
+4398,60,119.41,2,Two year,No,0
+4399,14,119.41,5,Month-to-month,No,0
+4400,18,119.41,7,Month-to-month,No,1
+4401,23,119.41,6,Month-to-month,Yes,1
+4402,47,119.41,9,One year,No,0
+4403,69,119.41,5,Month-to-month,No,0
+4404,47,119.41,8,Month-to-month,No,1
+4405,30,119.41,8,Two year,Yes,0
+4406,25,119.41,0,Two year,No,0
+4407,28,119.41,0,Month-to-month,Yes,0
+4408,25,119.41,0,Month-to-month,No,0
+4409,58,119.41,7,One year,No,1
+4410,41,119.41,9,One year,No,1
+4411,25,119.41,6,Month-to-month,No,1
+4412,48,119.41,2,Two year,No,0
+4413,10,119.41,1,Month-to-month,No,1
+4414,11,119.41,3,One year,Yes,0
+4415,21,119.41,2,Month-to-month,No,0
+4416,45,119.41,6,One year,No,1
+4417,7,119.41,9,Month-to-month,Yes,1
+4418,64,119.41,7,One year,No,0
+4419,64,119.41,5,Two year,Yes,0
+4420,2,119.41,2,Month-to-month,Yes,1
+4421,42,119.41,5,One year,No,0
+4422,54,119.41,1,Month-to-month,No,0
+4423,16,119.41,6,Two year,No,0
+4424,18,119.41,9,Two year,No,0
+4425,59,119.41,6,One year,No,1
+4426,16,119.41,3,One year,Yes,0
+4427,6,119.41,7,Two year,Yes,1
+4428,57,119.41,3,Month-to-month,No,0
+4429,47,119.41,6,Month-to-month,No,1
+4430,48,119.41,3,One year,No,0
+4431,42,119.41,4,Month-to-month,No,0
+4432,60,119.41,6,Two year,Yes,0
+4433,4,119.41,9,One year,No,1
+4434,2,119.41,2,Month-to-month,No,1
+4435,59,119.41,9,Month-to-month,No,1
+4436,27,119.41,4,Month-to-month,Yes,0
+4437,27,119.41,2,One year,No,0
+4438,7,119.41,4,Month-to-month,Yes,1
+4439,63,119.41,2,Month-to-month,No,0
+4440,46,119.41,9,One year,Yes,0
+4441,63,119.41,6,Two year,No,0
+4442,12,119.41,0,Two year,No,0
+4443,13,119.41,8,Two year,No,0
+4444,43,119.41,8,One year,No,0
+4445,17,119.41,4,Month-to-month,Yes,0
+4446,63,119.41,8,Two year,No,1
+4447,36,119.41,9,Month-to-month,No,1
+4448,8,119.41,5,One year,No,0
+4449,69,119.41,4,One year,No,0
+4450,36,119.41,2,Two year,No,0
+4451,28,119.41,7,Month-to-month,No,1
+4452,47,119.41,3,Month-to-month,No,0
+4453,30,119.41,9,One year,No,1
+4454,23,119.41,2,Month-to-month,Yes,0
+4455,16,119.41,5,Two year,Yes,0
+4456,14,119.41,7,One year,Yes,0
+4457,71,119.41,8,One year,Yes,0
+4458,52,119.41,5,Two year,No,0
+4459,37,119.41,4,One year,Yes,0
+4460,29,119.41,1,Month-to-month,Yes,0
+4461,67,119.41,1,Month-to-month,No,0
+4462,15,119.41,8,One year,No,1
+4463,47,119.41,1,Two year,No,0
+4464,46,119.41,1,One year,No,0
+4465,52,119.41,2,Two year,Yes,0
+4466,19,119.41,2,Month-to-month,Yes,0
+4467,21,119.41,3,Month-to-month,No,0
+4468,64,119.41,6,Month-to-month,No,1
+4469,37,119.41,8,One year,No,0
+4470,27,119.41,1,Month-to-month,No,0
+4471,55,119.41,3,Month-to-month,Yes,0
+4472,29,119.41,8,One year,No,1
+4473,20,119.41,1,Month-to-month,Yes,0
+4474,25,119.41,9,One year,No,1
+4475,70,119.41,0,Month-to-month,No,0
+4476,63,119.41,9,Month-to-month,No,1
+4477,36,119.41,7,Month-to-month,No,1
+4478,2,119.41,8,Two year,No,1
+4479,22,119.41,6,Month-to-month,No,1
+4480,16,119.41,7,Month-to-month,No,1
+4481,18,119.41,3,Month-to-month,No,0
+4482,69,119.41,3,Month-to-month,No,0
+4483,54,119.41,1,Two year,No,0
+4484,30,119.41,7,Month-to-month,No,1
+4485,45,119.41,1,Two year,Yes,0
+4486,19,119.41,8,Month-to-month,No,1
+4487,34,119.41,3,Two year,No,0
+4488,13,119.41,0,One year,No,0
+4489,43,119.41,3,One year,No,0
+4490,62,119.41,2,One year,Yes,0
+4491,22,119.41,5,Month-to-month,Yes,0
+4492,52,119.41,6,One year,No,0
+4493,52,119.41,7,Month-to-month,Yes,1
+4494,36,119.41,1,Month-to-month,Yes,0
+4495,19,119.41,5,One year,Yes,0
+4496,38,119.41,5,Month-to-month,Yes,0
+4497,70,119.41,9,Two year,No,0
+4498,57,119.41,4,Month-to-month,No,0
+4499,20,119.41,9,One year,No,0
+4500,9,119.41,9,Two year,No,1
+4501,32,119.41,6,One year,Yes,1
+4502,4,119.41,2,One year,Yes,0
+4503,50,119.41,3,One year,No,0
+4504,5,119.41,9,Two year,No,1
+4505,20,119.41,8,Month-to-month,Yes,1
+4506,37,119.41,3,One year,No,0
+4507,22,119.41,2,Month-to-month,No,0
+4508,58,119.41,1,Month-to-month,No,0
+4509,68,119.41,4,Month-to-month,Yes,0
+4510,44,119.41,3,Month-to-month,No,0
+4511,34,119.41,7,One year,Yes,0
+4512,42,119.41,6,Two year,No,1
+4513,9,119.41,5,One year,No,0
+4514,7,119.41,1,One year,No,0
+4515,68,119.41,2,Month-to-month,Yes,0
+4516,19,119.41,9,Month-to-month,Yes,1
+4517,31,119.41,8,Month-to-month,No,1
+4518,35,119.41,8,One year,No,1
+4519,57,119.41,4,Month-to-month,No,0
+4520,61,119.41,2,One year,No,0
+4521,31,119.41,1,Two year,Yes,0
+4522,53,119.41,7,One year,No,1
+4523,32,119.41,5,One year,Yes,0
+4524,66,119.41,9,One year,Yes,1
+4525,59,119.41,6,Month-to-month,No,1
+4526,10,119.41,0,Month-to-month,No,1
+4527,2,119.41,0,Two year,No,0
+4528,66,119.41,9,One year,No,1
+4529,60,119.41,1,One year,No,0
+4530,17,119.41,9,Month-to-month,Yes,1
+4531,16,119.41,2,One year,No,0
+4532,16,119.41,0,Month-to-month,No,0
+4533,46,119.41,4,Month-to-month,No,0
+4534,39,119.41,2,Month-to-month,No,0
+4535,31,119.41,0,Month-to-month,No,0
+4536,1,119.41,7,Month-to-month,No,1
+4537,11,119.41,5,Month-to-month,No,1
+4538,4,119.41,8,One year,No,1
+4539,71,119.41,2,One year,Yes,0
+4540,26,119.41,8,One year,No,0
+4541,50,119.41,8,Month-to-month,Yes,1
+4542,12,119.41,0,Two year,Yes,0
+4543,65,119.41,2,Month-to-month,Yes,0
+4544,47,119.41,5,Month-to-month,Yes,0
+4545,53,119.41,7,One year,No,0
+4546,71,119.41,3,Month-to-month,No,0
+4547,2,119.41,4,One year,Yes,0
+4548,24,119.41,8,One year,Yes,0
+4549,4,119.41,5,Two year,No,0
+4550,19,119.41,6,Two year,Yes,0
+4551,26,119.41,6,Two year,No,1
+4552,40,119.41,3,Month-to-month,Yes,0
+4553,50,119.41,3,Two year,Yes,0
+4554,43,119.41,3,Month-to-month,No,0
+4555,67,119.41,4,One year,No,0
+4556,12,119.41,4,One year,No,0
+4557,67,119.41,7,Month-to-month,Yes,1
+4558,27,119.41,8,One year,No,1
+4559,54,119.41,1,Month-to-month,No,0
+4560,66,119.41,6,Month-to-month,Yes,1
+4561,49,119.41,0,Two year,Yes,0
+4562,16,119.41,0,Month-to-month,Yes,0
+4563,2,119.41,3,Month-to-month,No,1
+4564,60,119.41,9,Month-to-month,Yes,1
+4565,54,119.41,6,Two year,No,0
+4566,30,119.41,1,Month-to-month,Yes,0
+4567,38,119.41,1,Month-to-month,Yes,0
+4568,28,119.41,0,Two year,Yes,0
+4569,25,119.41,9,Month-to-month,No,1
+4570,10,119.41,1,Month-to-month,Yes,1
+4571,60,119.41,6,One year,No,0
+4572,42,119.41,8,One year,No,1
+4573,40,119.41,5,Two year,No,0
+4574,42,119.41,9,Month-to-month,No,1
+4575,47,119.41,1,Two year,No,0
+4576,37,119.41,9,Two year,No,0
+4577,22,119.41,9,Month-to-month,No,1
+4578,57,119.41,8,Month-to-month,Yes,1
+4579,27,119.41,6,Two year,Yes,1
+4580,41,119.41,0,Month-to-month,No,0
+4581,34,119.41,8,One year,No,0
+4582,32,119.41,1,One year,No,0
+4583,66,119.41,3,One year,Yes,0
+4584,12,119.41,8,Two year,No,1
+4585,40,119.41,3,Month-to-month,No,0
+4586,10,119.41,2,Month-to-month,No,1
+4587,48,119.41,0,Two year,No,0
+4588,20,119.41,6,Two year,No,1
+4589,39,119.41,5,One year,Yes,0
+4590,60,119.41,9,Two year,No,1
+4591,66,119.41,3,One year,No,0
+4592,65,119.41,5,Month-to-month,No,0
+4593,51,119.41,5,Two year,No,0
+4594,36,119.41,3,Month-to-month,No,0
+4595,24,119.41,5,Month-to-month,Yes,0
+4596,27,119.41,9,Month-to-month,Yes,1
+4597,2,119.41,7,One year,No,1
+4598,31,119.41,2,Two year,No,0
+4599,57,119.41,3,Month-to-month,Yes,0
+4600,66,119.41,9,Month-to-month,No,1
+4601,29,119.41,0,One year,No,0
+4602,15,119.41,3,Two year,Yes,0
+4603,12,119.41,9,One year,Yes,1
+4604,28,119.41,9,One year,Yes,0
+4605,24,119.41,8,One year,No,0
+4606,21,119.41,7,Month-to-month,No,1
+4607,10,119.41,3,Month-to-month,No,1
+4608,18,119.41,6,Month-to-month,No,1
+4609,14,119.41,9,Two year,No,1
+4610,34,119.41,2,Month-to-month,No,0
+4611,58,119.41,8,One year,No,1
+4612,22,119.41,9,Month-to-month,No,1
+4613,70,119.41,3,Month-to-month,Yes,0
+4614,36,119.41,1,Month-to-month,No,0
+4615,45,119.41,9,Month-to-month,No,1
+4616,36,119.41,4,Month-to-month,Yes,0
+4617,22,119.41,1,One year,No,0
+4618,61,119.41,9,Month-to-month,No,1
+4619,56,119.41,5,One year,No,0
+4620,33,119.41,9,Month-to-month,No,1
+4621,45,119.41,0,One year,Yes,0
+4622,36,119.41,5,One year,No,0
+4623,20,119.41,3,Two year,No,0
+4624,18,119.41,2,Month-to-month,No,0
+4625,38,119.41,1,Month-to-month,No,0
+4626,67,119.41,6,Two year,No,0
+4627,23,119.41,8,Month-to-month,Yes,1
+4628,16,119.41,2,Two year,No,0
+4629,59,119.41,5,Month-to-month,No,0
+4630,69,119.41,8,One year,No,1
+4631,68,119.41,1,Month-to-month,No,0
+4632,21,119.41,6,Two year,No,0
+4633,70,119.41,4,One year,No,0
+4634,12,119.41,4,Month-to-month,Yes,0
+4635,16,119.41,6,Month-to-month,No,1
+4636,14,119.41,8,Month-to-month,No,1
+4637,61,119.41,3,One year,Yes,0
+4638,71,119.41,8,Month-to-month,Yes,1
+4639,46,119.41,9,Month-to-month,No,1
+4640,32,119.41,8,One year,No,0
+4641,15,119.41,3,Month-to-month,Yes,0
+4642,44,119.41,2,Month-to-month,Yes,0
+4643,17,119.41,1,Month-to-month,Yes,0
+4644,41,119.41,8,One year,Yes,1
+4645,54,119.41,1,Two year,No,0
+4646,44,119.41,5,Month-to-month,No,0
+4647,5,119.41,4,One year,No,0
+4648,27,119.41,4,Month-to-month,No,0
+4649,43,119.41,3,Month-to-month,No,0
+4650,31,119.41,5,One year,No,0
+4651,17,119.41,4,Month-to-month,No,0
+4652,54,119.41,3,One year,No,0
+4653,62,119.41,8,Two year,No,0
+4654,32,119.41,5,Two year,No,0
+4655,40,119.41,9,Month-to-month,No,1
+4656,13,119.41,9,Month-to-month,Yes,1
+4657,35,119.41,9,Two year,Yes,1
+4658,5,119.41,2,Month-to-month,No,1
+4659,29,119.41,9,One year,No,1
+4660,70,119.41,5,Month-to-month,No,0
+4661,25,119.41,0,Month-to-month,No,0
+4662,22,119.41,4,Month-to-month,Yes,0
+4663,66,119.41,9,Two year,No,0
+4664,45,119.41,5,Two year,No,0
+4665,69,119.41,7,Month-to-month,Yes,1
+4666,1,119.41,8,Two year,No,1
+4667,44,119.41,2,Month-to-month,No,0
+4668,39,119.41,1,Month-to-month,No,0
+4669,54,119.41,3,One year,No,0
+4670,29,119.41,7,One year,No,0
+4671,54,119.41,7,Month-to-month,No,1
+4672,16,119.41,2,Month-to-month,No,0
+4673,20,119.41,3,Two year,No,0
+4674,46,119.41,2,Two year,No,0
+4675,67,119.41,9,Two year,No,0
+4676,65,119.41,1,Month-to-month,No,0
+4677,58,119.41,3,One year,No,0
+4678,53,119.41,5,Month-to-month,No,0
+4679,1,119.41,4,Two year,No,0
+4680,66,119.41,2,Month-to-month,No,0
+4681,29,119.41,1,Month-to-month,No,0
+4682,70,119.41,8,Month-to-month,Yes,1
+4683,8,119.41,0,Two year,No,0
+4684,29,119.41,8,One year,No,1
+4685,51,119.41,0,Month-to-month,No,0
+4686,33,119.41,6,One year,No,0
+4687,3,119.41,5,Two year,No,0
+4688,60,119.41,6,Month-to-month,No,1
+4689,35,119.41,2,Two year,No,0
+4690,69,119.41,2,Two year,Yes,0
+4691,20,119.41,0,Month-to-month,Yes,0
+4692,39,119.41,3,Month-to-month,No,0
+4693,4,119.41,1,Month-to-month,Yes,1
+4694,19,119.41,9,Month-to-month,No,1
+4695,45,119.41,7,Month-to-month,No,1
+4696,43,119.41,2,One year,No,0
+4697,13,119.41,6,One year,No,0
+4698,13,119.41,6,Month-to-month,No,1
+4699,60,119.41,8,One year,No,0
+4700,57,119.41,5,One year,No,0
+4701,52,119.41,0,Two year,Yes,0
+4702,53,119.41,7,Month-to-month,No,1
+4703,43,119.41,0,One year,No,0
+4704,42,119.41,2,Two year,Yes,0
+4705,26,119.41,4,One year,No,0
+4706,23,119.41,7,Month-to-month,No,1
+4707,43,119.41,8,Month-to-month,No,1
+4708,28,119.41,6,Two year,Yes,0
+4709,9,119.41,8,Month-to-month,No,1
+4710,20,119.41,2,Two year,No,0
+4711,56,119.41,4,Two year,No,0
+4712,39,119.41,9,Month-to-month,No,1
+4713,51,119.41,7,One year,No,1
+4714,12,119.41,0,Month-to-month,Yes,0
+4715,55,119.41,7,Month-to-month,No,1
+4716,11,119.41,6,One year,Yes,1
+4717,26,119.41,0,One year,Yes,0
+4718,42,119.41,9,Month-to-month,Yes,1
+4719,27,119.41,9,Two year,No,1
+4720,11,119.41,5,Month-to-month,No,1
+4721,38,119.41,0,Month-to-month,Yes,0
+4722,43,119.41,1,Month-to-month,No,0
+4723,19,119.41,4,Month-to-month,Yes,0
+4724,64,119.41,1,Two year,No,0
+4725,6,119.41,9,One year,No,1
+4726,46,119.41,0,One year,No,0
+4727,42,119.41,5,One year,No,0
+4728,65,119.41,7,Month-to-month,No,1
+4729,59,119.41,7,Month-to-month,No,1
+4730,52,119.41,7,One year,Yes,0
+4731,47,119.41,5,Two year,Yes,0
+4732,7,119.41,2,Two year,No,0
+4733,11,119.41,0,Month-to-month,No,1
+4734,61,119.41,1,Month-to-month,No,0
+4735,68,119.41,4,Month-to-month,Yes,0
+4736,25,119.41,9,Month-to-month,No,1
+4737,12,119.41,4,Month-to-month,Yes,0
+4738,26,119.41,9,One year,Yes,0
+4739,12,119.41,0,Month-to-month,No,0
+4740,43,119.41,0,One year,No,0
+4741,51,119.41,8,One year,No,1
+4742,37,119.41,1,Month-to-month,No,0
+4743,46,119.41,6,One year,No,1
+4744,53,119.41,9,Month-to-month,Yes,1
+4745,13,119.41,3,One year,No,0
+4746,54,119.41,6,Two year,No,0
+4747,57,119.41,7,One year,No,1
+4748,4,119.41,4,Two year,No,0
+4749,49,119.41,0,Month-to-month,No,0
+4750,7,119.41,3,One year,No,0
+4751,11,119.41,9,One year,Yes,1
+4752,54,119.41,2,One year,Yes,0
+4753,45,119.41,9,Two year,No,0
+4754,23,119.41,4,One year,No,0
+4755,28,119.41,9,One year,No,0
+4756,57,119.41,9,Month-to-month,No,1
+4757,26,119.41,5,Month-to-month,No,0
+4758,25,119.41,1,One year,No,0
+4759,54,119.41,6,One year,No,0
+4760,29,119.41,2,Two year,Yes,0
+4761,36,119.41,0,Month-to-month,No,0
+4762,14,119.41,9,Month-to-month,No,1
+4763,35,119.41,2,One year,Yes,0
+4764,30,119.41,8,Two year,No,0
+4765,17,119.41,9,Two year,No,1
+4766,67,119.41,5,Month-to-month,No,0
+4767,30,119.41,5,Month-to-month,No,0
+4768,45,119.41,3,Month-to-month,Yes,0
+4769,51,119.41,7,Month-to-month,No,1
+4770,47,119.41,4,Two year,No,0
+4771,53,119.41,6,Month-to-month,Yes,1
+4772,64,119.41,8,Month-to-month,No,1
+4773,38,119.41,4,Month-to-month,Yes,0
+4774,64,119.41,4,Month-to-month,No,0
+4775,7,119.41,3,Two year,No,0
+4776,22,119.41,5,Month-to-month,No,0
+4777,41,119.41,1,Month-to-month,No,0
+4778,10,119.41,2,Two year,No,0
+4779,57,119.41,0,Month-to-month,Yes,0
+4780,7,119.41,1,One year,No,0
+4781,50,119.41,1,Month-to-month,Yes,0
+4782,52,119.41,7,One year,Yes,0
+4783,33,119.41,7,Month-to-month,No,1
+4784,1,119.41,1,Month-to-month,No,1
+4785,53,119.41,5,One year,No,0
+4786,60,119.41,4,Month-to-month,Yes,0
+4787,34,119.41,2,One year,No,0
+4788,4,119.41,4,Month-to-month,No,1
+4789,17,119.41,4,One year,Yes,0
+4790,4,119.41,4,Two year,No,0
+4791,43,119.41,2,Month-to-month,Yes,0
+4792,4,119.41,2,Month-to-month,No,1
+4793,1,119.41,3,Two year,No,0
+4794,71,119.41,6,One year,No,1
+4795,50,119.41,1,Month-to-month,Yes,0
+4796,61,119.41,9,Month-to-month,Yes,1
+4797,35,119.41,3,Month-to-month,Yes,0
+4798,8,119.41,3,Month-to-month,Yes,1
+4799,24,119.41,0,Two year,Yes,0
+4800,36,119.41,9,One year,No,0
+4801,50,119.41,7,One year,Yes,1
+4802,43,119.41,0,Month-to-month,No,0
+4803,27,119.41,7,Month-to-month,No,1
+4804,32,119.41,6,Two year,Yes,0
+4805,18,119.41,8,Month-to-month,No,1
+4806,28,119.41,7,Month-to-month,Yes,1
+4807,29,119.41,4,Month-to-month,No,0
+4808,16,119.41,7,One year,No,1
+4809,47,119.41,9,Month-to-month,Yes,1
+4810,59,119.41,2,Month-to-month,No,0
+4811,31,119.41,9,Two year,Yes,0
+4812,4,119.41,6,One year,No,1
+4813,37,119.41,3,Month-to-month,No,0
+4814,17,119.41,4,One year,Yes,0
+4815,39,119.41,8,Month-to-month,No,1
+4816,48,119.41,6,Month-to-month,Yes,1
+4817,46,119.41,3,One year,Yes,0
+4818,48,119.41,5,Month-to-month,Yes,0
+4819,39,119.41,9,Month-to-month,No,1
+4820,4,119.41,6,One year,No,1
+4821,30,119.41,9,Two year,No,0
+4822,30,119.41,8,One year,No,1
+4823,22,119.41,3,Month-to-month,Yes,0
+4824,66,119.41,9,Month-to-month,No,1
+4825,12,119.41,2,Month-to-month,No,0
+4826,36,119.41,7,Month-to-month,No,1
+4827,18,119.41,0,Month-to-month,No,0
+4828,53,119.41,8,One year,No,0
+4829,71,119.41,0,Month-to-month,Yes,0
+4830,1,119.41,1,Month-to-month,Yes,1
+4831,58,119.41,7,One year,No,1
+4832,6,119.41,8,Month-to-month,No,1
+4833,70,119.41,6,Two year,No,0
+4834,44,119.41,2,Month-to-month,No,0
+4835,24,119.41,6,Two year,Yes,1
+4836,19,119.41,5,Two year,No,0
+4837,18,119.41,1,Two year,No,0
+4838,30,119.41,2,Month-to-month,No,0
+4839,42,119.41,9,Two year,No,0
+4840,33,119.41,9,Month-to-month,No,1
+4841,12,119.41,4,Month-to-month,No,0
+4842,27,119.41,9,Month-to-month,No,1
+4843,39,119.41,3,Month-to-month,No,0
+4844,9,119.41,1,Month-to-month,Yes,1
+4845,21,119.41,3,Month-to-month,No,0
+4846,29,119.41,7,Month-to-month,Yes,1
+4847,33,119.41,4,One year,No,0
+4848,62,119.41,4,Month-to-month,Yes,0
+4849,15,119.41,9,One year,No,1
+4850,2,119.41,2,Two year,No,0
+4851,52,119.41,7,Month-to-month,Yes,1
+4852,44,119.41,5,One year,Yes,0
+4853,54,119.41,1,Two year,No,0
+4854,18,119.41,1,Month-to-month,No,0
+4855,3,119.41,8,Month-to-month,Yes,1
+4856,7,119.41,6,Two year,Yes,1
+4857,43,119.41,9,Two year,No,1
+4858,38,119.41,8,One year,No,0
+4859,37,119.41,5,Month-to-month,Yes,0
+4860,58,119.41,4,Two year,No,0
+4861,33,119.41,0,Month-to-month,No,0
+4862,59,119.41,5,Month-to-month,Yes,0
+4863,11,119.41,5,Month-to-month,No,1
+4864,68,119.41,2,Month-to-month,Yes,0
+4865,68,119.41,2,One year,Yes,0
+4866,22,119.41,2,Two year,Yes,0
+4867,66,119.41,2,One year,No,0
+4868,44,119.41,6,Month-to-month,No,1
+4869,6,119.41,9,One year,No,1
+4870,42,119.41,1,One year,Yes,0
+4871,25,119.41,9,Month-to-month,Yes,1
+4872,57,119.41,9,Two year,No,0
+4873,55,119.41,1,Two year,Yes,0
+4874,16,119.41,2,One year,No,0
+4875,14,119.41,9,Month-to-month,No,1
+4876,39,119.41,6,One year,No,1
+4877,28,119.41,2,Two year,Yes,0
+4878,51,119.41,6,Month-to-month,No,1
+4879,49,119.41,8,Two year,Yes,0
+4880,9,119.41,9,Month-to-month,No,1
+4881,58,119.41,3,One year,No,0
+4882,45,119.41,6,One year,No,1
+4883,22,119.41,8,One year,No,0
+4884,32,119.41,7,Two year,No,1
+4885,69,119.41,7,Month-to-month,Yes,1
+4886,69,119.41,8,Month-to-month,Yes,1
+4887,42,119.41,4,One year,No,0
+4888,53,119.41,4,Month-to-month,No,0
+4889,59,119.41,2,Month-to-month,No,0
+4890,39,119.41,4,Month-to-month,No,0
+4891,15,119.41,7,Month-to-month,Yes,1
+4892,71,119.41,4,One year,No,0
+4893,29,119.41,3,One year,No,0
+4894,3,119.41,7,Month-to-month,Yes,1
+4895,10,119.41,6,Month-to-month,No,1
+4896,29,119.41,5,Month-to-month,No,0
+4897,35,119.41,4,Month-to-month,No,0
+4898,6,119.41,4,Month-to-month,No,1
+4899,12,119.41,9,Month-to-month,No,1
+4900,38,119.41,1,One year,No,0
+4901,19,119.41,3,One year,No,0
+4902,67,119.41,7,Month-to-month,No,1
+4903,8,119.41,7,One year,Yes,1
+4904,8,119.41,0,Two year,Yes,0
+4905,47,119.41,1,Month-to-month,Yes,0
+4906,4,119.41,4,Month-to-month,No,1
+4907,51,119.41,8,One year,No,1
+4908,67,119.41,9,Month-to-month,Yes,1
+4909,45,119.41,6,One year,Yes,1
+4910,8,119.41,9,Two year,No,1
+4911,16,119.41,4,Month-to-month,No,0
+4912,67,119.41,0,One year,No,0
+4913,9,119.41,5,One year,No,0
+4914,60,119.41,7,Month-to-month,No,1
+4915,71,119.41,6,Month-to-month,No,1
+4916,15,119.41,1,Two year,No,0
+4917,71,119.41,4,Two year,Yes,0
+4918,41,119.41,3,One year,No,0
+4919,22,119.41,8,Two year,Yes,1
+4920,24,119.41,9,Month-to-month,Yes,1
+4921,44,119.41,0,Month-to-month,No,0
+4922,1,119.41,5,Month-to-month,No,1
+4923,10,119.41,2,Month-to-month,No,1
+4924,56,119.41,8,Two year,No,1
+4925,50,119.41,4,Two year,No,0
+4926,12,119.41,5,Two year,Yes,0
+4927,60,119.41,8,One year,Yes,0
+4928,26,119.41,8,Month-to-month,No,1
+4929,41,119.41,7,Month-to-month,No,1
+4930,36,119.41,8,Month-to-month,No,1
+4931,23,119.41,3,One year,No,0
+4932,43,119.41,5,Month-to-month,Yes,0
+4933,6,119.41,4,Two year,Yes,0
+4934,69,119.41,4,Two year,No,0
+4935,43,119.41,3,Month-to-month,No,0
+4936,25,119.41,1,Month-to-month,No,0
+4937,18,119.41,5,One year,No,0
+4938,62,119.41,8,Month-to-month,No,1
+4939,13,119.41,0,One year,Yes,0
+4940,43,119.41,6,One year,No,0
+4941,28,119.41,5,Month-to-month,No,0
+4942,18,119.41,2,Month-to-month,No,0
+4943,59,119.41,0,Month-to-month,No,0
+4944,60,119.41,3,Two year,No,0
+4945,63,119.41,8,Month-to-month,No,1
+4946,57,119.41,1,Two year,Yes,0
+4947,51,119.41,2,One year,Yes,0
+4948,56,119.41,1,One year,No,0
+4949,27,119.41,1,Month-to-month,No,0
+4950,32,119.41,9,One year,Yes,0
+4951,9,119.41,7,One year,Yes,1
+4952,68,119.41,2,One year,No,0
+4953,46,119.41,6,One year,No,0
+4954,67,119.41,7,One year,Yes,0
+4955,26,119.41,2,Two year,No,0
+4956,8,119.41,1,Month-to-month,No,1
+4957,6,119.41,7,Two year,No,1
+4958,24,119.41,2,Month-to-month,Yes,0
+4959,48,119.41,6,Two year,No,0
+4960,45,119.41,0,Two year,No,0
+4961,13,119.41,5,Month-to-month,Yes,0
+4962,69,119.41,8,One year,No,0
+4963,25,119.41,2,One year,Yes,0
+4964,20,119.41,6,Month-to-month,No,1
+4965,66,119.41,5,Month-to-month,No,0
+4966,45,119.41,7,Month-to-month,Yes,1
+4967,47,119.41,2,Two year,Yes,0
+4968,63,119.41,2,Two year,No,0
+4969,55,119.41,3,One year,Yes,0
+4970,19,119.41,2,One year,No,0
+4971,35,119.41,8,One year,No,1
+4972,53,119.41,3,Month-to-month,No,0
+4973,26,119.41,5,Month-to-month,No,0
+4974,14,119.41,7,One year,No,0
+4975,45,119.41,7,Two year,Yes,1
+4976,44,119.41,4,One year,Yes,0
+4977,65,119.41,4,One year,Yes,0
+4978,51,119.41,5,One year,No,0
+4979,43,119.41,9,Month-to-month,No,1
+4980,23,119.41,6,One year,No,1
+4981,56,119.41,9,Month-to-month,No,1
+4982,19,119.41,6,Month-to-month,No,1
+4983,55,119.41,3,One year,Yes,0
+4984,60,119.41,5,One year,Yes,0
+4985,59,119.41,6,Month-to-month,No,1
+4986,33,119.41,4,One year,No,0
+4987,19,119.41,4,One year,No,0
+4988,28,119.41,1,One year,No,0
+4989,52,119.41,6,Two year,No,1
+4990,49,119.41,5,Month-to-month,Yes,0
+4991,37,119.41,0,Two year,No,0
+4992,26,119.41,3,One year,No,0
+4993,40,119.41,2,One year,Yes,0
+4994,38,119.41,2,One year,No,0
+4995,54,119.41,6,Month-to-month,No,1
+4996,22,119.41,9,Month-to-month,No,1
+4997,16,119.41,3,One year,Yes,0
+4998,28,119.41,7,One year,Yes,1
+4999,35,119.41,8,One year,Yes,1
+5000,60,119.41,2,Month-to-month,Yes,0

@@ -16,14 +16,6 @@ This project bridges the gap between Data Science and Business Operations by com
 3. **Backend API:** A RESTful FastAPI service that loads the model artifacts and serves real-time risk assessments.
 4. **Frontend UI:** A responsive Next.js/TailwindCSS dashboard that allows business users to input customer metrics and instantly visualize flight risk.
 
-## 📸 Application Gallery
-*(Note: Replace these placeholder paths with actual screenshots of your running app)*
-
-| Success-Ops Dashboard | API Documentation (Swagger) |
-| :---: | :---: |
-| <img src="images/dashboard_screenshot.png" width="400" alt="Next.js Dashboard"/> | <img src="images/api_screenshot.png" width="400" alt="FastAPI Swagger UI"/> |
-
-*Left: The Next.js business dashboard showing real-time risk scoring. Right: The interactive FastAPI documentation.*
 
 ## 🛠️ Tech Stack
 * **Machine Learning:** XGBoost (`device='cuda'`), Scikit-learn, Pandas, NumPy
